@@ -6,7 +6,7 @@ layout = "default"
         weight = 130
 +++
 
-<h1 id="title-my-blog">About me.</h1>
+<h1 id="title-my-blog">Ich</h1>
 
 
 In 2015, when I finished college, I had to decide how my life would look like from that point forward. I made a conscious choice to do what most people just dream about. **By the summer of 2016, I sold all my belongings and started traveling the world as a digital nomad.**
