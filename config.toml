@@ -9,8 +9,8 @@ copyright = "This work is licensed under a Creative Commons Attribution-ShareAli
 [blackfriday]
    hrefTargetBlank = true
 
-[[menu.main]]
-    name = "Blog"
-    identifier = "blog"
-    url = "/blog/"
-    weight = 100
+# [[menu.main]]
+#     name = "Blog"
+#     identifier = "blog"
+#     url = "/blog/"
+#     weight = 100
