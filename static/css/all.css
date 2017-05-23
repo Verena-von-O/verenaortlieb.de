@@ -136,43 +136,34 @@ a:hover {
 .work-content {
   margin: 35px auto;
   min-height: 100vh;
-  width: 80%;
+  width: 85%;
 }
 
 .work-content ul {
   list-style: none;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  align-items: flex-end;
+  align-content: center; 
+
 }
 
 .work-content ul li {
-  display: inline-block;
-  margin-bottom: 2em;
-  margin-right: 2em;
-  margin-left: 2em;
-}
-
-.work-item-summary {
+  padding: 2em;
+  width: 250px;
 
 }
 
-.titel-work-summary {
+.titel-work {
   margin-top: 0.5em;
 }
 
 .img-work {
-  width: 200px;
+  width: 100%;
   height: auto;
 }
 
-@media only screen and (max-width: 58em) {
- .work-content  {
-}
-}
-
-@media only screen and (max-width: 38em) {
-  .work-content {
-  }
-
-}
 
 
 
@@ -189,6 +180,22 @@ a:hover {
 .projects-content h3 {
   margin-top: 2em; 
 }
+
+
+
+
+/*polygonal animals site*/
+#img-trenner {
+  width: 50%;
+
+}
+
+
+
+
+
+
+
 
 
 
@@ -222,7 +229,7 @@ a:hover {
 
 .footer-content p {
   font-family: 'Open Sans', sans-serif;
-  color: var(--fun-color);
+  color: var(--text-color);
   -webkit-margin-before: 0px;
   -webkit-margin-after: 0px;
   -webkit-margin-start: 0px;

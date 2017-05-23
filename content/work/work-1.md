@@ -7,12 +7,12 @@ image = "/img/PolyHippo.png"
 
 <h3>Super Duper Suptitel unter der Überschrift</h3>
 
-<img src="\img\PolyTrenner1.png" alt="">
+<img id="img-trenner" src="\img\PolyTrenner1.png" alt="">
 
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minus odio deleniti, ea beatae alias, laudantium. Quo rerum omnis commodi minus beatae, minima maiores ab, temporibus iure explicabo ex, necessitatibus molestias!
 
-<img src="\img\PolyItem1.png" alt="">
+<img id="img-trenner" src="\img\PolyItem1.png" alt="">
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente veniam voluptate, quis perspiciatis suscipit iusto dolores tempora recusandae corporis possimus aut nihil, atque, unde animi nisi quos ea error beatae?
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Provident cum, expedita eveniet, atque labore quia quod dolore fugit ducimus animi? Mollitia ab dicta quae obcaecati voluptatum doloremque ea autem optio?
