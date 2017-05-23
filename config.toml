@@ -1,0 +1,16 @@
+title = "Verena"
+languageCode = "en-us"
+baseurl = "https://www.verenaortlieb.com/"
+copyright = "This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License."
+
+[author]
+    name = "Verena Ortlieb"
+
+[blackfriday]
+   hrefTargetBlank = true
+
+[[menu.main]]
+    name = "Blog"
+    identifier = "blog"
+    url = "/blog/"
+    weight = 100

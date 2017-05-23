@@ -1,0 +1,20 @@
+<header>
+<div class="header-all">
+    <div class="header-title">
+         <h1>
+         <a href="/">Verena</a>
+        </h1>
+    </div>
+
+    <input class="burger-check" id="burger-check" type="checkbox"><label for="burger-check" class="burger"></label>
+    <nav class="nav-header navigation">
+        {{ $currentNode := . }}
+        {{ range .Site.Menus.main }}
+        <div>
+            <a {{if or ($currentNode.IsMenuCurrent "main" .) ($currentNode.HasMenuCurrent "main" .) }} class="active"{{end}} href="{{ .URL }}">{{ .Name }}</a>
+        </div>
+        {{end}}
+    </nav>
+
+</div>
+</header>

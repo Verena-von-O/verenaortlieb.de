@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
+
+<head>
+	{{ partial "head.html" . }}
+</head>
+<body>
+
+	{{ partial "header.html"  . }} 
+
+	<main class="site-content">
+
+		<h1>Definitionen</h1>
+		
+		<ul>			
+			{{ range .Data.Pages }}
+			<li>
+				<h2 class="blog-summary-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+				<div class="blog-sub">
+				<div class="blog-date">
+				{{ .Date.Format "02.01.2006" }}
+				<div class="reading-time">
+				Lesezeit ~ {{ .ReadingTime }} Minuten
+					</div>
+				</div>
+
+				<p>
+				{{ .Summary }}
+				</p>
+				<p class="blog-readmore">
+				<a href='{{ .Permalink }}'><nobr><strong>Read more →</strong></nobr></a>
+				</p>
+			</li>
+			{{ end }}
+		</ul>
+
+
+	</main>
+	
+	{{ partial "footer.html" . }}
+
+	<script src="{{ .Site.BaseURL }}js/functions.js"></script>
+
+</body>
+</html>

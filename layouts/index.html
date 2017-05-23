@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
+	<head>
+		{{ partial "head.html" . }}
+    <title>{{ .Site.Title }}</title>
+	</head>
+	<body>
+
+	{{ partial "header.html"  . }} 
+	
+
+	<div class="site-content">
+		
+	<div class="text-index">
+
+	<h1 id="hero-title">Hi there, I'm Verena.</h1>
+	<p class="hero-text"><strong>I love helping people figure out their life.</strong> <br>I am a digital nomad, designer, writer and live enthusiasts. Along the way I write about ideas and thoughts and all the things I learn and like.</p>
+
+<!-- 	<img class="img-text" src="/img/coffee-in-winter.jpg" alt="">
+ -->
+
+
+<h1 class="index-sub-title">Me as a writer.</h1>
+	<img class="img-text" src="/img/me-writing.jpg" alt="">
+
+<!-- <h2 class="index-sub-sub-title">Latest post</h2>
+ -->
+<ul>			
+			{{ range first 1 .Data.Pages }}
+		<li class="index-blog-container">
+		<div class="index-blog-left">
+			<div class="index-blog-summary-title"><a href="{{ .Permalink }}">{{ .Title }}</a></div>
+				<div class="index-blog-date lighter">
+				{{ .Date.Format "02 January 2006" }}
+					</div>
+				<div class="index-reading-time lighter">
+				Time to read ~ {{ .ReadingTime }} minutes
+					</div>
+			</div>
+			<div class="index-blog-right">
+				<p class="index-blog-summary">
+				{{ .Summary }}
+				</p>
+				<div class="index-blog-readmore">
+				<a href='{{ .Permalink }}'><nobr><strong>Read more →</strong></nobr></a>
+				</div>
+			</div>
+		</li>
+			{{ end }}
+</ul>
+
+<div class="container-button">
+	<a class="button" href="/blog">
+
+		Read more on my Blog
+	</a>
+</div>
+
+<h1 class="index-sub-title">Me figuring out life.</h1>
+
+	<img class="img-text" src="/img/packing-up.jpg" alt="">
+  
+  <div class="me-nomad">
+    <p>When I started to travel the world as a digital nomad, I thought everything would be different. <strong>New locations, new people, new experiences, new me.</strong> But soon I realized that this wasn't the case at all.</p>
+    <p>
+	Yes, everything was different, but still, I was the same. <strong>And I realized that I wasn't the only one.</strong> A lot of fellow nomads felt the same way. But it's not only a problem for us travelers; it's an issue for everyone. We all try to do things to distract us from the main problem: ourselves.</p>
+<p>
+<strong>And until we focus on us and figure out what we want our life to be, we keep running and hiding. </strong>
+</p>
+<p>
+So I make it my mission to work out my life and help others along the way.
+   </p> 	
+    </p>
+  </div>
+<div class="container-button">
+	<a class="button" href="/coaching">
+		Let me help you
+	</a>
+</div>
+
+
+
+<h1 class="index-sub-title">Me as a digital nomad.</h1>
+
+	<img class="img-text" src="/img/me-average-joe.jpg" alt="">
+  
+  <div class="me-nomad">
+    <p>Traveling the world since <strong><span id="since"> </span> months</strong>. Visited <strong>10 countries</strong> on <strong>3 continents</strong>. Spent <strong>36.984 km on airplanes</strong> and <strong>3.726 km on trains & busses</strong>. Sitted <strong>3 cats and 3 dogs</strong> (not all at once). Can fit all my worldly possessions into a <strong>40l backpack</strong>.</p>
+  </div>
+
+  <!-- Countires visited: Thailand, Malaysia, Indonesien, Singapur, Holland, Deutschland, Norwegen, Schweden, Kanada, USA -->
+  <!-- train: 280 + 340 + 280 + 617 + 480 + 470 + 993 + 266-->
+
+
+<div class="container-button">
+	<a class="button" href="/about">
+		Read more about me
+	</a>
+</div>
+
+<script type="text/javascript">
+		function monthDiff(start, end) {
+			var tempDate = new Date(start);
+			var monthCount = 0;
+			while((tempDate.getMonth()+''+tempDate.getFullYear()) != (end.getMonth()+''+end.getFullYear())) {
+				monthCount++;
+				tempDate.setMonth(tempDate.getMonth()+1);
+			}
+			return monthCount+1;
+		}
+		window.onload = function() {
+			var diff = monthDiff(new Date(2016, 7, 1), new Date());
+			document.getElementById('since').innerHTML = diff;
+		}
+	</script>
+
+
+
+	</div>
+
+	</div>
+
+	<div>
+		{{ partial "newsletter.html"  . }}
+	</div>
+
+	{{ partial "footer.html" . }}
+
+	<script src="{{ .Site.BaseURL }}js/functions.js"></script>
+
+	</body>
+</html>
