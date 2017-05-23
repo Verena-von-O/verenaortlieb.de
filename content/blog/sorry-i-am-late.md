@@ -8,7 +8,7 @@ image ="img/sorry-i-am-late.jpg"
 
 I usually post on Tuesdays. And so far this worked. Until now. As you might notice, it's not Tuesday; it's Friday. So what happened? What was different this time?
 
-You might have read in [one of my previous posts](https://www.verenaortlieb.com/blog/show-up/) that I talked about showing up. **I said that showing up is a key element to getting things done.** In this instance, I didn't know what to write about but sat in front of the screen and begun to write. And after some horrible drafts, I managed to write a decent post about showing up. 
+You might have read in [one of my previous posts](https://www.verenaortlieb.de/blog/show-up/) that I talked about showing up. **I said that showing up is a key element to getting things done.** In this instance, I didn't know what to write about but sat in front of the screen and begun to write. And after some horrible drafts, I managed to write a decent post about showing up. 
 
 So what happened this time, you ask? Were all the drafts horrible and I didn't get any great post out of it? Did my laptop crash and I lost the post? Didn't I have an internet connection? Did the dog eat my work? No. 
 

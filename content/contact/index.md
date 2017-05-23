@@ -12,11 +12,11 @@ layout = "default"
 <!-- # Want to say hi? 
  --><img class="img-text" src="/img/snail-mail.jpg" alt="">
 
-Got a question, comment or just want to say hi? I'm thrilled. The best way to get in touch is to send me a mail to **[hi@verenaortlieb.com](mailto:hi@verenaortlieb.com).**
+Got a question, comment or just want to say hi? I'm thrilled. The best way to get in touch is to send me a mail to **[hi@verenaortlieb.de](mailto:hi@verenaortlieb.de).**
 
 <br/> 
 # Want to meet? 
-<strong>Sometimes, mail isn't enough.</strong> If you want to talk, we can schedule a meeting via skype, facetime or any other tool. Personal meetings are possible if we happen to be in the same city. Just send me a [mail](mailto:hi@verenaortlieb.com) and let me know.  
+<strong>Sometimes, mail isn't enough.</strong> If you want to talk, we can schedule a meeting via skype, facetime or any other tool. Personal meetings are possible if we happen to be in the same city. Just send me a [mail](mailto:hi@verenaortlieb.de) and let me know.  
 
 <br/> 
 # Follow me on Twitter. 

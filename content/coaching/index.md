@@ -34,7 +34,7 @@ First of all, it is a big step to realize what you just realized. And with that 
 **But most important is that you keep exploring, keep being conscious and curious about yourself, your life and where you want to go.**
 
 <div class="container-button">
-	<a class="button" href="mailto:hi@verenaortlieb.com?subject=My Story">
+	<a class="button" href="mailto:hi@verenaortlieb.de?subject=My Story">
 		Tell me your story
 	</a>
 </div>
