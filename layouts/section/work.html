@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
+
+<head>
+	{{ partial "head.html" . }}
+  <title>Work | {{ .Site.Title }}</title>
+</head>
+<body>
+
+	{{ partial "header.html"  . }} 
+
+	<div class="work-content">
+
+		<ul>			
+			{{ range .Data.Pages }}
+			<li class="work-item-summary">
+				<a href="{{ .Permalink }}">
+				<img class="img-work" src="{{ .Site.BaseURL}}{{ .Params.image }}" alt="">
+				</a>
+				<div class="titel-work-summary">
+					{{ .Title }}
+				</div>
+			</li>
+			{{ end }}
+		</ul>
+
+
+	</div>
+
+	
+	{{ partial "footer.html" . }}
+
+	<script src="{{ .Site.BaseURL }}js/functions.js"></script>
+
+</body>
+</html>
