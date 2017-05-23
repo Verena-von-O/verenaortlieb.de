@@ -49,13 +49,13 @@ a:hover {
 
 .header-all {
   font-weight: normal;
-  padding: 2em 7em 5em 7em;
+  padding: 3em;
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   justify-content: space-between;
   align-items: center;
+  text-align: center;
 }
-
 
 header a {
   text-decoration: none;
@@ -90,43 +90,52 @@ header a {
 
 .nav-header div a:hover {
   color: #A66588;
-  -webkit-transition: color 0.3s;
-  transition: color 0.3s;
 }
 
 .nav-header div a.active {
   color: #A66588;
   border-bottom: 1px solid #A66588;
-  padding-bottom: 4px;
+}
+
+.header-logo-img {
+  width: 30%;
+  margin-bottom: 1em;
 }
 
 
 @media only screen and (max-width: 58em) {
- .header-all  {
-  flex-direction: column;
-  padding: 1em 3em 4em 3em;
-}
+ 
 }
 
 @media only screen and (max-width: 38em) {
-header {
-    -webkit-background-size: 140%;
-  }
+
   .nav-header div a {
-    flex-direction: column;
     align-items: center;
   }
 
 }
 
 
+
+
 /*site*/
 .site-content {
   min-height: 100vh;
   margin: 35px auto;
-  width: 60%;
+  width: 55%;
 }
 
+@media only screen and (max-width: 58em) {
+.site-content {
+  width: 65%;
+}
+}
+
+@media only screen and (max-width: 38em) {
+.site-content {
+  width: 75%;
+}
+}
 
 /*work*/
 
@@ -156,7 +165,7 @@ header {
 }
 
 .img-work {
-  width: 300px;
+  width: 200px;
   height: auto;
 }
 
@@ -173,16 +182,18 @@ header {
 
 
 
-/*projects*/
-
-.project-title {
-  margin-bottom: 1.5em;
-
+/*project-content-seiten*/
+.projects-content {
 }
 
-.img-project{
-  width: 100%;
-  height: auto;
+.projects-content img {
+  width: 110%;
+  margin: 1em auto;
+  display: block;
+}
+
+.projects-content h3 {
+  margin-top: 2em; 
 }
 
 
