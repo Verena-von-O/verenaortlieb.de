@@ -1,5 +1,5 @@
 +++
-title = "Mega Uber Duper Super Wuper Extra Special Work 3"
+title = "Mega Uber Duper Super Wuper Work 3"
 date = "2017-01-01"
 layout = "projects"
 image = "/img/dance-party.jpg"

@@ -1,5 +1,7 @@
 html {
   text-rendering: optimizeLegibility;
+  --fun-color: #A66588;
+  --text-color: #545454;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -25,12 +27,19 @@ body {
 
 
 a {
+  color: #545454;
+  text-decoration: none;
+}
 
+p a {
+  color: #545454;
+  text-decoration: none;
+  border-bottom: 1px solid var(--fun-color);
 }
 
 
 a:hover {
- 
+  color: var(--fun-color);
 }
 
 
@@ -80,14 +89,14 @@ header a {
 }
 
 .nav-header div a:hover {
-  color: #545454;
+  color: #A66588;
   -webkit-transition: color 0.3s;
   transition: color 0.3s;
 }
 
 .nav-header div a.active {
-  color: #545454;
-  border-bottom: 1px solid #545454;
+  color: #A66588;
+  border-bottom: 1px solid #A66588;
   padding-bottom: 4px;
 }
 
@@ -123,15 +132,23 @@ header {
 
 .work-content {
   margin: 35px auto;
-  width: 60%;
+  min-height: 100vh;
+  width: 80%;
 }
 
 .work-content ul {
   list-style: none;
 }
 
+.work-content ul li {
+  display: inline-block;
+  margin-bottom: 2em;
+  margin-right: 2em;
+  margin-left: 2em;
+}
+
 .work-item-summary {
-  margin-bottom: 3em;
+
 }
 
 .titel-work-summary {
@@ -139,19 +156,17 @@ header {
 }
 
 .img-work {
-  width: 100%;
+  width: 300px;
   height: auto;
 }
 
 @media only screen and (max-width: 58em) {
  .work-content  {
-    width: 65%;
 }
 }
 
 @media only screen and (max-width: 38em) {
   .work-content {
-    width: 75%;
   }
 
 }
