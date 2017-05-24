@@ -32,7 +32,7 @@ p {
   line-height: 1.8;
   font-weight: 300;
   display: block;
-  letter-spacing: .1em;
+  letter-spacing: .085em;
   font-size: 1em;
 }
 
@@ -172,12 +172,13 @@ a:hover {
 
 .titel-work {
   margin-top: 0.5em;
+  text-align: center;
 }
 
 .img-work {
   width: 100%;
   height: auto;
-  border: 1px solid red;
+/*  border: 1px solid red;*/ 
 }
 
 

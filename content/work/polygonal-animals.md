@@ -59,5 +59,3 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis, magni. Te
 
 
 <h4>The End</h4>
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque, et temporibus quos nihil doloremque rerum corporis voluptate repudiandae veniam vel labore molestias reprehenderit ipsum nobis, inventore dolor qui numquam eveniet!
