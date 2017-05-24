@@ -2,25 +2,42 @@ html {
   text-rendering: optimizeLegibility;
   --fun-color: #A66588;
   --text-color: #545454;
+  --font-special: 'Cormorant Garamond', serif;
+  --font-normal: 'Open Sans', sans-serif;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Open Sans', sans-serif;
   color: var(--text-color);
-  font-weight: 400;
   margin: 0;
+  font-family: var(--font-special);
+  letter-spacing: .05em;
 }
 
+
+
+h2 {
+    font-size: 2em;
+}
+
+h4 {
+  text-align: center;
+  text-transform: uppercase;
+  padding-top: 2em;
+  font-size: 1.25em;
+}
+
+
+
 p {
-  line-height: 1.9;
+  line-height: 1.8;
   font-weight: 300;
   display: block;
-  letter-spacing: 1px;
+  letter-spacing: .1em;
   font-size: 1em;
 }
 
 body {
-  font-family: 'Open Sans', sans-serif;
+  font-family: var(--font-normal);
   color: var(--text-color);
   margin: 0;
 }
@@ -41,7 +58,6 @@ p a {
 a:hover {
   color: var(--fun-color);
 }
-
 
 
 
@@ -67,7 +83,7 @@ a:hover {
 .nav-header {
   display: flex;
   flex-direction: row;
-  font-family: 'Open Sans', sans-serif; 
+  font-family: var(--font-normal); 
 }
 
 .nav-header div {
@@ -150,9 +166,8 @@ a:hover {
 }
 
 .work-content ul li {
-  padding: 2em;
-  width: 250px;
-
+  margin: 2em;
+  width: 220px;
 }
 
 .titel-work {
@@ -162,6 +177,7 @@ a:hover {
 .img-work {
   width: 100%;
   height: auto;
+  border: 1px solid red;
 }
 
 
@@ -172,7 +188,7 @@ a:hover {
 }
 
 .projects-content img {
-  width: 110%;
+  width: 100%;
   margin: 1em auto;
   display: block;
 }
@@ -190,7 +206,9 @@ a:hover {
 
 }
 
-
+#polyanimal-normal {
+  width: 75%;
+}
 
 
 
@@ -221,14 +239,14 @@ a:hover {
   font-weight: normal;
   font-size: 0.9em;
   display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-  align-items: flex-end;
-  padding: 1em 7em 1em 7em;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: center;
+  padding: 2em 4em 2em 4em;
 }
 
 .footer-content p {
-  font-family: 'Open Sans', sans-serif;
+  font-family: var(--font-normal);
   color: var(--text-color);
   -webkit-margin-before: 0px;
   -webkit-margin-after: 0px;
@@ -240,24 +258,9 @@ a:hover {
   display: none;
 }
 
-@media only screen and (max-width: 50em) {
-  .footer-content {
-    flex-direction: column;
-    align-items: center;
-    justify-content: flex-end;
-    padding-right: 0.5em;
-    padding-left: 0.5em;
-    padding-top: 3em;
-    padding-bottom: 0.75em;
-  }
-  .footer-content p {
-    line-height: 140%;
-  }
-}
 
-@media only screen and (max-width: 22em) {
+@media only screen and (max-width: 38em) {
   .footer-content  {
-  font-weight: normal;
   font-size: 1em;
   padding-left: 1em;
   padding-right: 1em;
