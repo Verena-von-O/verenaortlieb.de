@@ -2,17 +2,34 @@
 title = "Stuff"
 date = "2016-02-01"
 layout = "projects"
-image = "/img/StuffCoffee.png"
+image = "/img/StuffCoffee.svg"
 +++
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima eos consectetur quo delectus quam eveniet maiores, qui ipsam provident quaerat necessitatibus sapiente debitis illo deserunt aperiam magnam, nesciunt nobis, dolores.
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut quisquam ipsum unde nobis ullam nihil, facilis earum blanditiis dolorum. Repellendus molestias, nemo harum totam molestiae voluptatum illo velit, est accusamus?
 
-<h4>Stuff Stuff</h4>
+<div class="stuff-img-grid">
+	<img src="/img/StuffBackpack.svg" alt="">
+	<img src="/img/StuffBoots.svg" alt="">
+	<img src="/img/StuffCarrotte.svg" alt="">
+	<img src="/img/StuffCoffee.svg" alt="">
+	<img src="/img/StuffCorn.svg" alt="">
+	<img src="/img/StuffGameboy.svg" alt="">
+	<img src="/img/StuffGoldfish.svg" alt="">
+	<img src="/img/StuffiMac.svg" alt="">
+	<img src="/img/StuffMario.svg" alt="">
+	<img src="/img/StuffMelon.svg" alt="">
+	<img src="/img/StuffMug.svg" alt="">
+	<img src="/img/StuffPinapple.svg" alt="">
+	<img src="/img/StuffRadic.svg" alt="">
+	<img src="/img/StuffRain.svg" alt="">
+	<img src="/img/StuffScooter.svg" alt="">
+	<img src="/img/StuffSparcling.svg" alt="">
+	<img src="/img/StuffTetris.svg" alt="">
+	<img src="/img/StuffWasher.svg" alt="">
+</div>
 
-<img src="/img/StuffCoffee.png" alt="">
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt velit autem esse eveniet labore omnis, veritatis dolores laboriosam vel quibusdam, tempora eum cupiditate nesciunt! Dolorem alias rem molestias facere deleniti.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam beatae delectus fugiat cum voluptates qui consequuntur rerum saepe tenetur velit eos libero vitae repudiandae, consequatur nulla deleniti recusandae, veritatis modi!
+
 
 <h4>The End</h4>

@@ -5,7 +5,6 @@ layout = "projects"
 image = "/img/PolyTitel.png"
 +++
 
-<h3>What would our world be without animals?</h3>
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium, incidunt laboriosam quos quas voluptatum, ad, ipsa officiis impedit maiores dolores ipsam asperiores! Quia laboriosam cupiditate neque sunt, dolore ad sequi.
 

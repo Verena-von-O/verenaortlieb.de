@@ -1,0 +1,350 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="800" viewBox="0 0 800 800" xmlns:xlink="http://www.w3.org/1999/xlink" style="background:#eaad45">
+  <defs>
+    <rect id="a" width="50" height="50"/>
+    <rect id="b" width="50" height="50" x="100"/>
+    <rect id="c" width="50" height="50" x="50"/>
+    <rect id="d" width="50" height="50" x="150"/>
+    <rect id="e" width="50" height="50" y="150"/>
+    <rect id="f" width="50" height="50" y="50"/>
+    <rect id="g" width="50" height="50" y="100"/>
+    <rect id="h" width="50" height="50"/>
+    <rect id="i" width="50" height="50" y="150"/>
+    <rect id="j" width="50" height="50" y="50"/>
+    <rect id="k" width="50" height="50" y="100"/>
+    <rect id="l" width="50" height="50"/>
+    <rect id="m" width="50" height="50" y="150"/>
+    <rect id="n" width="50" height="50" y="50"/>
+    <rect id="o" width="50" height="50" y="100"/>
+    <rect id="p" width="50" height="50"/>
+    <rect id="q" width="50" height="50" y="50"/>
+    <rect id="r" width="50" height="50" x="50" y="50"/>
+    <rect id="s" width="50" height="50"/>
+    <rect id="t" width="50" height="50" x="50"/>
+    <rect id="u" width="50" height="50" y="50"/>
+    <rect id="v" width="50" height="50" x="50" y="50"/>
+    <rect id="w" width="50" height="50"/>
+    <rect id="x" width="50" height="50" x="50"/>
+    <rect id="y" width="50" height="50" x="50" y="100"/>
+    <rect id="z" width="50" height="50"/>
+    <rect id="A" width="50" height="50" y="50"/>
+    <rect id="B" width="50" height="50" y="100"/>
+    <rect id="C" width="50" height="50" y="50"/>
+    <rect id="D" width="50" height="50" x="100"/>
+    <rect id="E" width="50" height="50" x="50"/>
+    <rect id="F" width="50" height="50"/>
+    <rect id="G" width="50" height="50" y="50"/>
+    <rect id="H" width="50" height="50" x="100" y="50"/>
+    <rect id="I" width="50" height="50" x="50" y="50"/>
+    <rect id="J" width="50" height="50"/>
+    <rect id="K" width="50" height="50" x="100"/>
+    <polyline id="L" points="50 50 0 50 0 0 50 0 50 50"/>
+    <polyline id="M" points="100 50 50 50 50 0 100 0 100 50"/>
+    <rect id="N" width="50" height="50" x="100" y="50"/>
+    <rect id="O" width="50" height="50" y="50"/>
+    <rect id="P" width="50" height="50" x="100" y="50"/>
+    <rect id="Q" width="50" height="50" x="50" y="50"/>
+    <rect id="R" width="50" height="50" x="50"/>
+    <rect id="S" width="50" height="50" x="50" y="100"/>
+    <rect id="T" width="50" height="50" x="50"/>
+    <rect id="U" width="50" height="50" x="50" y="50"/>
+    <rect id="V" width="50" height="50" y="50"/>
+    <rect id="W" width="50" height="50" x="50" y="100"/>
+    <rect id="X" width="50" height="50" y="50"/>
+    <rect id="Y" width="50" height="50" x="50" y="50"/>
+    <rect id="Z" width="50" height="50"/>
+    <rect id="aa" width="50" height="50" y="50"/>
+    <rect id="ab" width="50" height="50" x="50"/>
+    <rect id="ac" width="50" height="50" x="50" y="50"/>
+    <rect id="ad" width="50" height="50" x="100"/>
+    <rect id="ae" width="50" height="50"/>
+    <rect id="af" width="50" height="50" x="50" y="50"/>
+    <rect id="ag" width="50" height="50" x="50"/>
+    <rect id="ah" width="50" height="50" x="100" y="50"/>
+    <rect id="ai" width="50" height="50"/>
+    <rect id="aj" width="50" height="50" x="50" y="50"/>
+    <rect id="ak" width="50" height="50" x="50"/>
+    <rect id="al" width="50" height="50" x="100" y="50"/>
+    <rect id="am" width="50" height="50"/>
+    <rect id="an" width="50" height="50" x="50" y="50"/>
+    <rect id="ao" width="50" height="50" x="50"/>
+    <rect id="ap" width="50" height="50" x="100" y="50"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <rect width="505" height="708" x="152" y="46" fill="#D6F6DD"/>
+    <path stroke="#0A2D4B" stroke-width="6" d="M152,753 L658,753" stroke-linecap="square"/>
+    <g stroke="#0A2D4B" stroke-width="6" transform="translate(152 46)" stroke-linecap="square">
+      <path d="M0 3L440 3M462 3L472 3M492 3L506 3"/>
+    </g>
+    <path stroke="#0A2D4B" stroke-width="6" d="M152 50L152 750M658 50L658 750" stroke-linecap="square"/>
+    <g transform="translate(305 700)">
+      <use fill="#29B2A8" xlink:href="#a"/>
+      <rect width="49" height="49" x=".5" y=".5" stroke="#0A2D4B"/>
+      <use fill="#29B2A8" xlink:href="#b"/>
+      <rect width="49" height="49" x="100.5" y=".5" stroke="#0A2D4B"/>
+      <g>
+        <use fill="#29B2A8" xlink:href="#c"/>
+        <rect width="49" height="49" x="50.5" y=".5" stroke="#0A2D4B"/>
+      </g>
+      <g>
+        <use fill="#29B2A8" xlink:href="#d"/>
+        <rect width="49" height="49" x="150.5" y=".5" stroke="#0A2D4B"/>
+      </g>
+    </g>
+    <g transform="translate(605 450)">
+      <g transform="rotate(-90 25 175)">
+        <use fill="#29B2A8" xlink:href="#e"/>
+        <rect width="49" height="49" x=".5" y="150.5" stroke="#0A2D4B"/>
+      </g>
+      <g transform="rotate(-90 25 75)">
+        <use fill="#29B2A8" xlink:href="#f"/>
+        <rect width="49" height="49" x=".5" y="50.5" stroke="#0A2D4B"/>
+      </g>
+      <g transform="rotate(-90 25 125)">
+        <use fill="#29B2A8" xlink:href="#g"/>
+        <rect width="49" height="49" x=".5" y="100.5" stroke="#0A2D4B"/>
+      </g>
+      <g transform="rotate(-90 25 25)">
+        <use fill="#29B2A8" xlink:href="#h"/>
+        <rect width="49" height="49" x=".5" y=".5" stroke="#0A2D4B"/>
+      </g>
+    </g>
+    <g transform="translate(355 500)">
+      <g transform="rotate(-90 25 175)">
+        <use fill="#29B2A8" xlink:href="#i"/>
+        <rect width="49" height="49" x=".5" y="150.5" stroke="#0A2D4B"/>
+      </g>
+      <g transform="rotate(-90 25 75)">
+        <use fill="#29B2A8" xlink:href="#j"/>
+        <rect width="49" height="49" x=".5" y="50.5" stroke="#0A2D4B"/>
+      </g>
+      <g transform="rotate(-90 25 125)">
+        <use fill="#29B2A8" xlink:href="#k"/>
+        <rect width="49" height="49" x=".5" y="100.5" stroke="#0A2D4B"/>
+      </g>
+      <g transform="rotate(-90 25 25)">
+        <use fill="#29B2A8" xlink:href="#l"/>
+        <rect width="49" height="49" x=".5" y=".5" stroke="#0A2D4B"/>
+      </g>
+    </g>
+    <g transform="translate(455 350)">
+      <g transform="rotate(-90 25 175)">
+        <use fill="#29B2A8" xlink:href="#m"/>
+        <rect width="49" height="49" x=".5" y="150.5" stroke="#0A2D4B"/>
+      </g>
+      <g transform="rotate(-90 25 75)">
+        <use fill="#29B2A8" xlink:href="#n"/>
+        <rect width="49" height="49" x=".5" y="50.5" stroke="#0A2D4B"/>
+      </g>
+      <g transform="rotate(-90 25 125)">
+        <use fill="#29B2A8" xlink:href="#o"/>
+        <rect width="49" height="49" x=".5" y="100.5" stroke="#0A2D4B"/>
+      </g>
+      <g transform="rotate(-90 25 25)">
+        <use fill="#29B2A8" xlink:href="#p"/>
+        <rect width="49" height="49" x=".5" y=".5" stroke="#0A2D4B"/>
+      </g>
+    </g>
+    <g transform="translate(155 550)">
+      <use fill="#D7CC5B" xlink:href="#q"/>
+      <rect width="49" height="49" x=".5" y="50.5" stroke="#0A2D4B"/>
+      <use fill="#D7CC5B" xlink:href="#r"/>
+      <rect width="49" height="49" x="50.5" y="50.5" stroke="#0A2D4B"/>
+      <g>
+        <use fill="#D7CC5B" xlink:href="#s"/>
+        <rect width="49" height="49" x=".5" y=".5" stroke="#0A2D4B"/>
+      </g>
+      <g>
+        <use fill="#D7CC5B" xlink:href="#t"/>
+        <rect width="49" height="49" x="50.5" y=".5" stroke="#0A2D4B"/>
+      </g>
+    </g>
+    <g transform="translate(305 400)">
+      <use fill="#D7CC5B" xlink:href="#u"/>
+      <rect width="49" height="49" x=".5" y="50.5" stroke="#0A2D4B"/>
+      <use fill="#D7CC5B" xlink:href="#v"/>
+      <rect width="49" height="49" x="50.5" y="50.5" stroke="#0A2D4B"/>
+      <g>
+        <use fill="#D7CC5B" xlink:href="#w"/>
+        <rect width="49" height="49" x=".5" y=".5" stroke="#0A2D4B"/>
+      </g>
+      <g>
+        <use fill="#D7CC5B" xlink:href="#x"/>
+        <rect width="49" height="49" x="50.5" y=".5" stroke="#0A2D4B"/>
+      </g>
+    </g>
+    <g transform="translate(155 400)">
+      <g transform="rotate(90 75 125)">
+        <use fill="#D4E1AA" xlink:href="#y"/>
+        <rect width="49" height="49" x="50.5" y="100.5" stroke="#0A2D4B"/>
+      </g>
+      <g transform="rotate(90 25 25)">
+        <use fill="#D4E1AA" xlink:href="#z"/>
+        <rect width="49" height="49" x=".5" y=".5" stroke="#0A2D4B"/>
+      </g>
+      <g transform="rotate(90 25 75)">
+        <use fill="#D4E1AA" xlink:href="#A"/>
+        <rect width="49" height="49" x=".5" y="50.5" stroke="#0A2D4B"/>
+      </g>
+      <g transform="rotate(90 25 125)">
+        <use fill="#D4E1AA" xlink:href="#B"/>
+        <rect width="49" height="49" x=".5" y="100.5" stroke="#0A2D4B"/>
+      </g>
+    </g>
+    <g transform="translate(505 400)">
+      <g transform="rotate(-180 25 75)">
+        <use fill="#D4E1AA" xlink:href="#C"/>
+        <rect width="49" height="49" x=".5" y="50.5" stroke="#0A2D4B"/>
+      </g>
+      <g transform="rotate(-180 125 25)">
+        <use fill="#D4E1AA" xlink:href="#D"/>
+        <rect width="49" height="49" x="100.5" y=".5" stroke="#0A2D4B"/>
+      </g>
+      <g transform="rotate(-180 75 25)">
+        <use fill="#D4E1AA" xlink:href="#E"/>
+        <rect width="49" height="49" x="50.5" y=".5" stroke="#0A2D4B"/>
+      </g>
+      <g transform="rotate(-180 25 25)">
+        <use fill="#D4E1AA" xlink:href="#F"/>
+        <rect width="49" height="49" x=".5" y=".5" stroke="#0A2D4B"/>
+      </g>
+    </g>
+    <g transform="translate(155 650)">
+      <use fill="#6B929D" xlink:href="#G"/>
+      <rect width="49" height="49" x=".5" y="50.5" stroke="#0A2D4B"/>
+      <use fill="#6B929D" xlink:href="#H"/>
+      <rect width="49" height="49" x="100.5" y="50.5" stroke="#0A2D4B"/>
+      <g>
+        <use fill="#6B929D" xlink:href="#I"/>
+        <rect width="49" height="49" x="50.5" y="50.5" stroke="#0A2D4B"/>
+      </g>
+      <g>
+        <use fill="#6B929D" xlink:href="#J"/>
+        <rect width="49" height="49" x=".5" y=".5" stroke="#0A2D4B"/>
+      </g>
+    </g>
+    <g transform="translate(405 550)">
+      <g transform="rotate(-180 125 25)">
+        <use fill="#6B929D" xlink:href="#K"/>
+        <rect width="49" height="49" x="100.5" y=".5" stroke="#0A2D4B"/>
+      </g>
+      <use fill="#6B929D" xlink:href="#L"/>
+      <path stroke="#0A2D4B" d="M49.5,49.5 L0.5,49.5 L0.5,0.5 L49.5,0.5 L49.5,49.5 Z"/>
+      <use fill="#6B929D" xlink:href="#M"/>
+      <path stroke="#0A2D4B" d="M99.5,49.5 L50.5,49.5 L50.5,0.5 L99.5,0.5 L99.5,49.5 Z"/>
+      <g transform="rotate(-180 125 75)">
+        <use fill="#6B929D" xlink:href="#N"/>
+        <rect width="49" height="49" x="100.5" y="50.5" stroke="#0A2D4B"/>
+      </g>
+    </g>
+    <g transform="translate(205 600)">
+      <use fill="#AD6696" xlink:href="#O"/>
+      <rect width="49" height="49" x=".5" y="50.5" stroke="#0A2D4B"/>
+      <use fill="#AD6696" xlink:href="#P"/>
+      <rect width="49" height="49" x="100.5" y="50.5" stroke="#0A2D4B"/>
+      <g>
+        <use fill="#AD6696" xlink:href="#Q"/>
+        <rect width="49" height="49" x="50.5" y="50.5" stroke="#0A2D4B"/>
+      </g>
+      <g>
+        <use fill="#AD6696" xlink:href="#R"/>
+        <rect width="49" height="49" x="50.5" y=".5" stroke="#0A2D4B"/>
+      </g>
+    </g>
+    <g transform="translate(505 450)">
+      <g transform="rotate(-90 75 125)">
+        <use fill="#AD6696" xlink:href="#S"/>
+        <rect width="49" height="49" x="50.5" y="100.5" stroke="#0A2D4B"/>
+      </g>
+      <g transform="rotate(-90 75 25)">
+        <use fill="#AD6696" xlink:href="#T"/>
+        <rect width="49" height="49" x="50.5" y=".5" stroke="#0A2D4B"/>
+      </g>
+      <g transform="rotate(-90 75 75)">
+        <use fill="#AD6696" xlink:href="#U"/>
+        <rect width="49" height="49" x="50.5" y="50.5" stroke="#0A2D4B"/>
+      </g>
+      <g transform="rotate(-90 25 75)">
+        <use fill="#AD6696" xlink:href="#V"/>
+        <rect width="49" height="49" x=".5" y="50.5" stroke="#0A2D4B"/>
+      </g>
+    </g>
+    <g transform="translate(555 600)">
+      <g transform="rotate(-90 75 125)">
+        <use fill="#A4C3B4" xlink:href="#W"/>
+        <rect width="49" height="49" x="50.5" y="100.5" stroke="#0A2D4B"/>
+      </g>
+      <g transform="rotate(-90 25 75)">
+        <use fill="#A4C3B4" xlink:href="#X"/>
+        <rect width="49" height="49" x=".5" y="50.5" stroke="#0A2D4B"/>
+      </g>
+      <g transform="rotate(-90 75 75)">
+        <use fill="#A4C3B4" xlink:href="#Y"/>
+        <rect width="49" height="49" x="50.5" y="50.5" stroke="#0A2D4B"/>
+      </g>
+      <g transform="rotate(-90 25 25)">
+        <use fill="#A4C3B4" xlink:href="#Z"/>
+        <rect width="49" height="49" x=".5" y=".5" stroke="#0A2D4B"/>
+      </g>
+    </g>
+    <g transform="translate(205 350)">
+      <g>
+        <use fill="#A4C3B4" xlink:href="#aa"/>
+        <rect width="49" height="49" x=".5" y="50.5" stroke="#0A2D4B"/>
+      </g>
+      <g>
+        <use fill="#A4C3B4" xlink:href="#ab"/>
+        <rect width="49" height="49" x="50.5" y=".5" stroke="#0A2D4B"/>
+      </g>
+      <g>
+        <use fill="#A4C3B4" xlink:href="#ac"/>
+        <rect width="49" height="49" x="50.5" y="50.5" stroke="#0A2D4B"/>
+      </g>
+      <g>
+        <use fill="#A4C3B4" xlink:href="#ad"/>
+        <rect width="49" height="49" x="100.5" y=".5" stroke="#0A2D4B"/>
+      </g>
+    </g>
+    <g transform="translate(405 600)">
+      <use fill="#FC449B" xlink:href="#ae"/>
+      <rect width="49" height="49" x=".5" y=".5" stroke="#0A2D4B"/>
+      <use fill="#FC449B" xlink:href="#af"/>
+      <rect width="49" height="49" x="50.5" y="50.5" stroke="#0A2D4B"/>
+      <g>
+        <use fill="#FC449B" xlink:href="#ag"/>
+        <rect width="49" height="49" x="50.5" y=".5" stroke="#0A2D4B"/>
+      </g>
+      <g>
+        <use fill="#FC449B" xlink:href="#ah"/>
+        <rect width="49" height="49" x="100.5" y="50.5" stroke="#0A2D4B"/>
+      </g>
+    </g>
+    <g transform="translate(205 450)">
+      <use fill="#FC449B" xlink:href="#ai"/>
+      <rect width="49" height="49" x=".5" y=".5" stroke="#0A2D4B"/>
+      <use fill="#FC449B" xlink:href="#aj"/>
+      <rect width="49" height="49" x="50.5" y="50.5" stroke="#0A2D4B"/>
+      <g>
+        <use fill="#FC449B" xlink:href="#ak"/>
+        <rect width="49" height="49" x="50.5" y=".5" stroke="#0A2D4B"/>
+      </g>
+      <g>
+        <use fill="#FC449B" xlink:href="#al"/>
+        <rect width="49" height="49" x="100.5" y="50.5" stroke="#0A2D4B"/>
+      </g>
+    </g>
+    <g transform="translate(455 120)">
+      <use fill="#FC449B" xlink:href="#am"/>
+      <rect width="49" height="49" x=".5" y=".5" stroke="#0A2D4B"/>
+      <use fill="#FC449B" xlink:href="#an"/>
+      <rect width="49" height="49" x="50.5" y="50.5" stroke="#0A2D4B"/>
+      <g>
+        <use fill="#FC449B" xlink:href="#ao"/>
+        <rect width="49" height="49" x="50.5" y=".5" stroke="#0A2D4B"/>
+      </g>
+      <g>
+        <use fill="#FC449B" xlink:href="#ap"/>
+        <rect width="49" height="49" x="100.5" y="50.5" stroke="#0A2D4B"/>
+      </g>
+    </g>
+  </g>
+</svg>

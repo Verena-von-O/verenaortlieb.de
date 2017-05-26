@@ -2,7 +2,7 @@ html {
   text-rendering: optimizeLegibility;
   --fun-color: #A66588;
   --text-color: #545454;
-  --font-special: 'Cormorant Garamond', serif;
+  --font-special: 'Suravaram', serif;
   --font-normal: 'Open Sans', sans-serif;
 }
 
@@ -16,14 +16,21 @@ h1, h2, h3, h4, h5, h6 {
 
 
 h2 {
-    font-size: 2em;
+  font-size: 2.25em;
+  font-weight: 600;
+}
+
+h3 {
+  font-size: 1.75em;
+  line-height: 1em;
+  font-weight: 300;
 }
 
 h4 {
   text-align: center;
   text-transform: uppercase;
   padding-top: 2em;
-  font-size: 1.25em;
+  font-size: 1.75em;
 }
 
 
@@ -162,7 +169,6 @@ a:hover {
   justify-content: center;
   align-items: flex-end;
   align-content: center; 
-
 }
 
 .work-content ul li {
@@ -184,7 +190,7 @@ a:hover {
 
 
 
-/*project-content-seiten*/
+/*project-seiten allgemein*/
 .projects-content {
 }
 
@@ -201,7 +207,7 @@ a:hover {
 
 
 
-/*polygonal animals site*/
+/*project: polygonal animals*/
 #img-trenner {
   width: 50%;
 
@@ -212,8 +218,43 @@ a:hover {
 }
 
 
+/*project: stuff*/
+
+.stuff-img-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin-left: -4em;
+  margin-right: -4em;
+}
+
+.stuff-img-grid img {
+  display: inline-block;
+  margin-bottom: .5em;
+  width: 30%;
+  margin-right: .2em;
+  margin-left: .2em;
+}
 
 
+
+@media only screen and (max-width: 38em) {
+.stuff-img-grid {
+  margin-left: -2em;
+  margin-right: -2em;
+}
+}
+
+
+
+/*project: robots*/
+#robots-breit {
+ 
+}
+
+#robot-schmal {
+  width: 75%;
+}
 
 
 

@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="600" viewBox="0 0 600 600" xmlns:xlink="http://www.w3.org/1999/xlink" style="background:#f9cf8e">
+  <defs>
+    <rect id="a" width="356" height="251" x="122" y="181" rx="15"/>
+    <path id="b" d="M122,388 L478,388 L478,416.996128 C478,425.282538 471.284641,432 463.001254,432 L136.998746,432 C128.715167,432 122,425.293415 122,416.996128 L122,388 Z"/>
+    <circle id="c" cx="300" cy="410" r="10"/>
+    <rect id="d" width="311" height="170" x="145" y="202" rx="4"/>
+    <polygon id="e" points="333.013 426 339 462 261 462 266.987 426"/>
+    <path id="f" d="M233.323507,476 C227.070425,476 230.520877,472.584602 240.084021,468.381804 L262.922463,456 L338.07532,456 L360.913264,468.381804 C370.487281,472.589217 373.927915,476 367.673454,476 L233.323507,476 Z"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <g stroke="#0A2D4B" stroke-width="8" transform="translate(96 475)" stroke-linecap="square">
+      <path d="M100.5 1L350.5 1M.5 1L350.5 1M370.5 1L380.5 1M400.5 1L408.5 1"/>
+    </g>
+    <use fill="#FD9C62" xlink:href="#a"/>
+    <rect width="348" height="243" x="126" y="185" stroke="#0A2D4B" stroke-width="8" rx="15"/>
+    <use fill="#F36450" xlink:href="#b"/>
+    <path stroke="#0A2D4B" stroke-width="8" d="M126,392 L474,392 L474,416.996128 C474,423.07363 469.07527,428 463.001254,428 L136.998746,428 C130.920407,428 126,423.080377 126,416.996128 L126,392 Z"/>
+    <use fill="#3E8182" xlink:href="#c"/>
+    <circle cx="300" cy="410" r="8" stroke="#0A2D4B" stroke-width="4"/>
+    <g>
+      <use fill="#3E8182" xlink:href="#d"/>
+      <rect width="303" height="162" x="149" y="206" stroke="#0A2D4B" stroke-width="8" rx="4"/>
+    </g>
+    <g>
+      <use fill="#FD9C62" xlink:href="#e"/>
+      <path stroke="#0A2D4B" stroke-width="6" d="M330.470548,429 L335.459863,459 L264.540137,459 L269.529452,429 L330.470548,429 Z"/>
+    </g>
+    <g>
+      <use fill="#F36450" xlink:href="#f"/>
+      <path stroke="#0A2D4B" stroke-width="6" d="M237.343829,473 C238.486253,472.409924 239.811943,471.778307 241.291037,471.128276 L241.404702,471.078323 L241.513851,471.019148 L263.683369,459 L337.314399,459 L359.48341,471.019135 L359.592589,471.078328 L359.706287,471.128294 C361.185771,471.77847 362.51164,472.410055 363.654175,473 L237.343829,473 Z"/>
+    </g>
+  </g>
+</svg>
