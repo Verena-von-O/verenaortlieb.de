@@ -1,6 +1,6 @@
 +++
 title = "Polygonal Animals"
-date = "2017-01-06"
+date = "2017-05-01"
 layout = "projects"
 image = "/img/PolyTitel.png"
 +++

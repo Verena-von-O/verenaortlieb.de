@@ -196,7 +196,7 @@ a:hover {
 
 .projects-content img {
   width: 100%;
-  margin: 1em auto;
+  margin: 2em auto;
   display: block;
 }
 
@@ -275,6 +275,38 @@ a:hover {
     }
 }
 
+.ice-cream-breit {
+  margin-left: -4em;
+  margin-right: -4em;
+}
+
+.ice-cream-breit img {
+  width: 100%;
+}
+
+@media only screen and (max-width: 38em) {
+  .ice-cream-breit {
+    margin-left: -2em;
+    margin-right: -2em;
+    }
+}
+
+.ice-cream-schmal {
+  margin-left: -4em;
+  margin-right: -4em;
+}
+
+.ice-cream-schmal img {
+  width: 70%;
+}
+
+@media only screen and (max-width: 38em) {
+  .ice-cream-schmal {
+    margin-left: -2em;
+    margin-right: -2em;
+    }
+}
+
 
 
 
@@ -285,6 +317,12 @@ a:hover {
 }
 
 
+
+/*about Site*/
+.img-about {
+  width: 25%;
+  margin: 0 3em;
+}
 
 
 

@@ -1,6 +1,6 @@
 +++
 title = "Stuff"
-date = "2016-02-01"
+date = "2017-01-01"
 layout = "projects"
 image = "/img/StuffCoffee.svg"
 +++

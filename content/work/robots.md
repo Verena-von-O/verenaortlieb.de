@@ -1,6 +1,6 @@
 +++
-title = "The Robots"
-date = "2016-12-01"
+title = "Meet The Robots"
+date = "2017-02-01"
 layout = "projects"
 image = "/img/RobotYellow.png"
 +++
