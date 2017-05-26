@@ -5,9 +5,7 @@ layout = "projects"
 image = "/img/RobotYellow.png"
 +++
 
-Meet the Robots.
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Officiis in dolore tempora libero cum nemo, officia ipsam. Autem eius, totam accusantium hic, suscipit placeat impedit beatae, numquam voluptate, aspernatur obcaecati.
-
+Meet The Robots. A bunch of funny looking characters, designed after children’s imagination. Each robot is created after the story some awesome kids wrote. Go ahead and get to know them.
 
 <img id="robots-breit" src="/img/RobotsAll.png" alt="">
 

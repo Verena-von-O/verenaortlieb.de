@@ -6,19 +6,32 @@ image = "/img/Ice1.png"
 +++
 
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. A adipisci molestiae vel eum quos molestias asperiores, quod alias delectus explicabo! Illum ullam quod placeat repellat, nihil cum recusandae exercitationem sapiente!
+Summer time is Ice Cream time. To celebrate the new season the ice cream shop website got a little makeover. And how to do this? With ice cream of course.
 
-<img src="/img/Ice1.png" alt="">
+<div class="ice-img-grid">
+	<img src="/img/Ice1.png" alt="">
+	<img src="/img/Ice2.png" alt="">
+	<img src="/img/Ice3.png" alt="">
+	<img src="/img/Ice4.png" alt="">
+	<img src="/img/Ice5.png" alt="">
+	<img src="/img/Ice6.png" alt="">
+</div>
 
 
-<h4>Titel Duper</h4>
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo eum similique error fugit facilis, molestias, modi aperiam nobis eaque sit unde quae aspernatur nesciunt, voluptatibus magni! Obcaecati incidunt, amet dolores.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora facere praesentium optio sunt debitis enim, voluptatem porro commodi, ut cumque dolores! Ex inventore ad blanditiis sed architecto. A nulla, deserunt.
+<h4>The Colors</h4>
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam nemo error asperiores doloribus quaerat officiis nisi harum iusto, possimus, voluptatum maiores, rerum dolore fugit? In ipsam doloribus, architecto officia tenetur.
+<img src="/img/IceColorPalette.png" alt="">
 
-<img src="/img/Ice5.png" alt="">
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellendus consectetur id iste, nemo ea molestias impedit voluptatum sed consequuntur quaerat, et ipsum. Consectetur obcaecati amet expedita in commodi, hic saepe.
 
-<img src="/img/Ice6.png" alt="">
+<img src="/img/IceForms.png" alt="">
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi ullam facilis quaerat facere numquam, quam temporibus voluptates corporis magni accusantium nobis, reprehenderit dignissimos harum expedita atque. Nulla possimus harum facilis.
+
+<img src="/img/IceFreeForms.png" alt="">
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Hic sunt cumque, quibusdam inventore consequuntur assumenda dicta aperiam at fugit fuga, laborum. Ducimus et dolorum, natus. Nobis molestias voluptates, totam eius.
 
 <h4>The End</h4>

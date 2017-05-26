@@ -200,10 +200,6 @@ a:hover {
   display: block;
 }
 
-.projects-content h3 {
-  margin-top: 2em; 
-}
-
 
 
 
@@ -230,19 +226,17 @@ a:hover {
 
 .stuff-img-grid img {
   display: inline-block;
-  margin-bottom: .5em;
+  margin-bottom: .4em;
   width: 30%;
   margin-right: .2em;
   margin-left: .2em;
 }
 
-
-
 @media only screen and (max-width: 38em) {
-.stuff-img-grid {
-  margin-left: -2em;
-  margin-right: -2em;
-}
+  .stuff-img-grid {
+    margin-left: -2em;
+    margin-right: -2em;
+  }
 }
 
 
@@ -254,6 +248,31 @@ a:hover {
 
 #robot-schmal {
   width: 75%;
+}
+
+
+/*project: ice cream*/
+.ice-img-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin-left: -4em;
+  margin-right: -4em;
+}
+
+.ice-img-grid img {
+  display: inline-block;
+  margin-bottom: .4em;
+  width: 30%;
+  margin-right: .2em;
+  margin-left: .2em;
+}
+
+@media only screen and (max-width: 38em) {
+  .ice-img-grid {
+    margin-left: -2em;
+    margin-right: -2em;
+    }
 }
 
 
@@ -300,16 +319,15 @@ a:hover {
   display: none;
 }
 
-
 @media only screen and (max-width: 38em) {
   .footer-content  {
-  font-size: 1em;
   padding-left: 1em;
   padding-right: 1em;
-}
-.footer-break {
-  display: inline;
-}
+  }
 }
 
-
+@media only screen and (max-width: 28em) {
+  .footer-break {
+    display: inline;
+  }
+}
