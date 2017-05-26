@@ -20,7 +20,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt velit autem e
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt velit autem esse eveniet labore omnis, veritatis dolores laboriosam vel quibusdam, tempora eum cupiditate nesciunt! Dolorem alias rem molestias facere deleniti.
 
 <h4>Kuala Lumpur</h4>
-<img src="/img/DotsMontreal.jpg" alt="">
+<img src="/img/DotsKualaLumpur.jpg" alt="">
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt velit autem esse eveniet labore omnis, veritatis dolores laboriosam vel quibusdam, tempora eum cupiditate nesciunt! Dolorem alias rem molestias facere deleniti.
 
 <h4>Bali</h4>
