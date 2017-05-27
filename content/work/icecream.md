@@ -30,7 +30,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo eum similiqu
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellendus consectetur id iste, nemo ea molestias impedit voluptatum sed consequuntur quaerat, et ipsum. Consectetur obcaecati amet expedita in commodi, hic saepe.
 
-<div class="ice-cream-schmal">
+<div class="ice-cream-breit">
 	<img src="/img/IceForms.png" alt="">
 </div>
 

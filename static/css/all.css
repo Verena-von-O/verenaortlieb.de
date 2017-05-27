@@ -182,11 +182,17 @@ a:hover {
 }
 
 .img-work {
-  width: 100%;
-  height: auto;
-/*  border: 1px solid red;*/ 
+  width: auto;
+  max-width: 100%;
+  border: 2.5px solid var(--fun-color); 
+  border-radius: 8px;
 }
 
+.work-content ul li img{
+  width: 220px;
+  height: 220px;
+  object-fit: scale-down;
+}
 
 
 
@@ -206,11 +212,12 @@ a:hover {
 /*project: polygonal animals*/
 #img-trenner {
   width: 50%;
-
 }
 
 #polyanimal-normal {
   width: 75%;
+  margin-top: -2em;
+  margin-bottom: 0;
 }
 
 
