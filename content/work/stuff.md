@@ -2,30 +2,36 @@
 title = "Stuff"
 date = "2017-01-01"
 layout = "projects"
-image = "/img/StuffCoffee.svg"
+image = "/img/StuffCoffee.png"
 +++
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut quisquam ipsum unde nobis ullam nihil, facilis earum blanditiis dolorum. Repellendus molestias, nemo harum totam molestiae voluptatum illo velit, est accusamus?
 
 <div class="stuff-img-grid">
-	<img src="/img/StuffBackpack.svg" alt="">
-	<img src="/img/StuffBoots.svg" alt="">
-	<img src="/img/StuffCarrotte.svg" alt="">
-	<img src="/img/StuffCoffee.svg" alt="">
-	<img src="/img/StuffCorn.svg" alt="">
-	<img src="/img/StuffGameboy.svg" alt="">
-	<img src="/img/StuffGoldfish.svg" alt="">
-	<img src="/img/StuffiMac.svg" alt="">
-	<img src="/img/StuffMario.svg" alt="">
-	<img src="/img/StuffMelon.svg" alt="">
-	<img src="/img/StuffMug.svg" alt="">
-	<img src="/img/StuffPinapple.svg" alt="">
-	<img src="/img/StuffRadic.svg" alt="">
-	<img src="/img/StuffRain.svg" alt="">
-	<img src="/img/StuffScooter.svg" alt="">
-	<img src="/img/StuffSparcling.svg" alt="">
-	<img src="/img/StuffTetris.svg" alt="">
-	<img src="/img/StuffWasher.svg" alt="">
+	<img src="/img/StuffAlarm.png" alt="">
+	<img src="/img/StuffBackpack.png" alt="">
+	<img src="/img/StuffBoot.png" alt="">
+	<img src="/img/StuffBottle.png" alt="">
+	<img src="/img/StuffBurger.png" alt="">
+	<img src="/img/StuffCarrott.png" alt="">
+	<img src="/img/StuffCoffee.png" alt="">
+	<img src="/img/StuffCola.png" alt="">
+	<img src="/img/StuffCorn.png" alt="">
+	<img src="/img/StuffFish.png" alt="">
+	<img src="/img/StuffGameboy.png" alt="">
+	<img src="/img/StuffiMac.png" alt="">
+	<img src="/img/StuffLight.png" alt="">
+	<img src="/img/StuffMario.png" alt="">
+	<img src="/img/StuffMelone.png" alt="">
+	<img src="/img/StuffMug.png" alt="">
+	<img src="/img/StuffPalmtree.png" alt="">
+	<img src="/img/StuffPineapple.png" alt="">
+	<img src="/img/StuffRadic.png" alt="">
+	<img src="/img/StuffScooter.png" alt="">
+	<img src="/img/StuffSparcle.png" alt="">
+	<img src="/img/StuffSurfboards.png" alt="">
+	<img src="/img/StuffTetris.png" alt="">
+	<img src="/img/StuffWasher.png" alt="">
 </div>
 
 
