@@ -5,7 +5,6 @@ layout = "projects"
 image = "/img/StuffCoffee.png"
 +++
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut quisquam ipsum unde nobis ullam nihil, facilis earum blanditiis dolorum. Repellendus molestias, nemo harum totam molestiae voluptatum illo velit, est accusamus?
 
 <div class="stuff-img-grid">
 	<img src="/img/StuffAlarm.png" alt="">

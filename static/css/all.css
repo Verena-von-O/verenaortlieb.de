@@ -29,8 +29,10 @@ h3 {
 h4 {
   text-align: center;
   text-transform: uppercase;
-  padding-top: 2em;
+  padding-top: 3.5em;
+  padding-bottom: 0;
   font-size: 1.75em;
+
 }
 
 
@@ -189,8 +191,9 @@ ul {
 .img-work {
   width: auto;
   max-width: 100%;
-  border: 2.5px solid var(--fun-color); 
-  border-radius: 8px;
+  border: 1px dashed var(--fun-color); 
+  border-radius: 5px;
+  /*background-color: var(--fun-color);*/
 }
 
 .work-content ul li img{
@@ -207,8 +210,10 @@ ul {
 
 .projects-content img {
   width: 100%;
-  margin: 2em auto;
+  margin: 1em auto;
   display: block;
+  /*border: 1px solid var(--text-color);
+  border-radius: 3px;*/
 }
 
 

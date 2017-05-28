@@ -8,7 +8,9 @@ image = "/img/Ice1.png"
 
 Summer time is Ice Cream time. To celebrate the new season the ice cream shop website got a little makeover. And how to do this? With ice cream of course.
 
-<h4>The Ice Cream Sticker</h4>
+<h4>The Ice Cream</h4>
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet eligendi impedit blanditiis mollitia quam itaque repudiandae quaerat accusamus eius ducimus incidunt omnis sequi, voluptatibus aperiam odio quae saepe voluptatem possimus.
 
 <div class="ice-img-grid">
 	<img src="/img/Ice1.png" alt="">
@@ -19,6 +21,14 @@ Summer time is Ice Cream time. To celebrate the new season the ice cream shop we
 	<img src="/img/Ice6.png" alt="">
 </div>
 
+
+<h4>The Sticker</h4>
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi ipsum omnis laborum quod sunt nostrum accusamus debitis repudiandae consectetur, at, perferendis expedita autem molestiae esse similique. Repellendus accusantium dicta aut.
+
+<div class="ice-cream-breit">
+	<img src="/img/StickerAll.png" alt="">
+</div>
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo eum similique error fugit facilis, molestias, modi aperiam nobis eaque sit unde quae aspernatur nesciunt, voluptatibus magni! Obcaecati incidunt, amet dolores.
 
@@ -34,9 +44,9 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellendus consectetu
 	<img src="/img/IceForms.png" alt="">
 </div>
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi ullam facilis quaerat facere numquam, quam temporibus voluptates corporis magni accusantium nobis, reprehenderit dignissimos harum expedita atque. Nulla possimus harum facilis.
+<h4>The Fun</h4>
 
-<h4>The Kids</h4>
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi ullam facilis quaerat facere numquam, quam temporibus voluptates corporis magni accusantium nobis, reprehenderit dignissimos harum expedita atque. Nulla possimus harum facilis.
 
 <div class="ice-cream-breit">
 	<img src="/img/IceKids.png" alt="">

@@ -2,7 +2,7 @@
 title = "Polygonal Animals"
 date = "2017-05-01"
 layout = "projects"
-image = "/img/PolyTitel.png"
+image = "/img/PolyStart.png"
 +++
 
 
