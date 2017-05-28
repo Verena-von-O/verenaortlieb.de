@@ -42,12 +42,12 @@ If you want to know where it is, you can find the name of the place inside the p
 <img src="/img/DotsMontreal.png" alt="">
 
 <!-- <h4>Vancouver</h4>
-<img src="/img/ComingSoon.png" alt="">
+<img src="/img/ComingSoon.png" alt=""> -->
 
 <h4>Seattle</h4>
-<img src="/img/ComingSoon.png" alt="">
+<img src="/img/DotsSeattle.png" alt="">
 
-<h4>San Francisco</h4>
+<!-- <h4>San Francisco</h4>
 <img src="/img/ComingSoon.png" alt="">
 
 <h4>Toronto</h4>
