@@ -2,7 +2,7 @@
 title = "Travel Dots"
 date = "2017-03-01"
 layout = "projects"
-image = "/img/DotsMontreal.png"
+image = "/img/DotsStart.png"
 +++
 
 Being a nomad also means that you get to discover a lot of places. I decided to remember all of the different cities and countries with some art. 

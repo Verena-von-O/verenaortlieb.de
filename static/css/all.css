@@ -2,6 +2,7 @@ html {
   text-rendering: optimizeLegibility;
   --fun-color: #A66588;
   --text-color: #545454;
+  --light-grey: #D3D3D3;
   --font-special: 'Suravaram', serif;
   --font-normal: 'Open Sans', sans-serif;
 }
@@ -191,9 +192,7 @@ ul {
 .img-work {
   width: auto;
   max-width: 100%;
-  border: 1px dashed var(--fun-color); 
-  border-radius: 5px;
-  /*background-color: var(--fun-color);*/
+  border-radius: 3px;
 }
 
 .work-content ul li img{
@@ -212,8 +211,6 @@ ul {
   width: 100%;
   margin: 1em auto;
   display: block;
-  /*border: 1px solid var(--text-color);
-  border-radius: 3px;*/
 }
 
 
