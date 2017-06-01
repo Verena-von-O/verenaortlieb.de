@@ -14,8 +14,6 @@ h1, h2, h3, h4, h5, h6 {
   letter-spacing: .05em;
 }
 
-
-
 h2 {
   font-size: 2.25em;
   font-weight: 600;
@@ -33,10 +31,7 @@ h4 {
   padding-top: 3.5em;
   padding-bottom: 0;
   font-size: 1.75em;
-
 }
-
-
 
 p {
   line-height: 1.8;
@@ -52,7 +47,6 @@ body {
   margin: 0;
 }
 
-
 a {
   color: var(--text-color);
   text-decoration: none;
@@ -63,7 +57,6 @@ p a {
   text-decoration: none;
   border-bottom: 1px solid var(--fun-color);
 }
-
 
 a:hover {
   color: var(--fun-color);
@@ -117,6 +110,10 @@ ul {
   color: var(--fun-color);
 }
 
+.nav-header div a {
+  border-bottom: 1px solid white;
+}
+
 .nav-header div a.active {
   color: var(--fun-color);
   border-bottom: 1px solid var(--fun-color);
@@ -127,17 +124,10 @@ ul {
   margin-bottom: 1em;
 }
 
-
-@media only screen and (max-width: 58em) {
- 
-}
-
 @media only screen and (max-width: 38em) {
-
   .nav-header div a {
     align-items: center;
   }
-
 }
 
 
@@ -151,15 +141,15 @@ ul {
 }
 
 @media only screen and (max-width: 58em) {
-.site-content {
-  width: 65%;
-}
+    .site-content {
+      width: 65%;
+  }
 }
 
 @media only screen and (max-width: 38em) {
-.site-content {
-  width: 75%;
-}
+    .site-content {
+      width: 75%;
+  }
 }
 
 
