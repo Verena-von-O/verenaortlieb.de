@@ -162,6 +162,25 @@ ul {
 }
 }
 
+
+
+/*index*/
+.index-img-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.index-img-grid img {
+  display: inline-block;
+  margin-bottom: .9em;
+  width: 30%;
+}
+
+
+
+
+
 /*work*/
 
 .work-content {
