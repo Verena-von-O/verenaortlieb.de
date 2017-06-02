@@ -11,7 +11,7 @@ h1, h2, h3, h4, h5, h6 {
   color: var(--text-color);
   margin: 0;
   font-family: var(--font-special);
-  letter-spacing: .05em;
+  letter-spacing: .03em;
 }
 
 h2 {
@@ -37,8 +37,7 @@ p {
   line-height: 1.8;
   font-weight: 300;
   display: block;
-  letter-spacing: .085em;
-  font-size: 1em;
+  letter-spacing: .045em;
 }
 
 body {
@@ -189,7 +188,7 @@ ul {
 }
 
 .work-content ul li {
-  margin: 1em;
+  margin: 1em 1em 2em 1em;
   width: 300px;
 }
 

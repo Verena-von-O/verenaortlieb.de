@@ -9,12 +9,25 @@
 
 	{{ partial "header.html"  . }} 
 
-<div class="site-content">
+<div class="side-content work-content">
+
+		<ul>			
+			{{ range where .Data.Pages "Section" "work" }}
+			<li>
+				<a href="{{ .Permalink }}">
+				<img class="img-work" src="{{ .Site.BaseURL}}{{ .Params.image }}" alt="">
+				</a>
+				<div class="titel-work">
+					{{ .Title }}
+				</div>
+			</li>
+			{{ end }}
+		</ul>
+
+
+	</div>
+
 	
-	<h4>Welcome</h4>
-
-</div>
-
 	
 	{{ partial "footer.html" . }}
 
