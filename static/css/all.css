@@ -286,6 +286,7 @@ ul {
   display: inline-block;
   margin-bottom: .4em;
   width: 30%;
+  height: 100%;
   margin-right: .2em;
   margin-left: .2em;
 }
