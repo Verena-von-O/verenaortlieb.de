@@ -177,7 +177,8 @@ img {
 
 .index-all img {
   width: 200px;
-  height: auto;
+  height: 300px;
+  object-fit: cover;
 }
 
 .index-all h2:hover {
@@ -228,11 +229,10 @@ img {
 
 
 /*project-seiten allgemein*/
-.projects-content {
-}
 
 .projects-content img {
   width: 100%;
+  display: block;
   margin: 1em auto;
 }
 
@@ -253,16 +253,10 @@ img {
 
 /*project: polygonal animals*/
 #polyanimal-normal {
-  width: 75%;
-  margin-top: -2em;
-  margin-bottom: 0;
-  margin-top: 1em;
+  display: block;
+  width: 70%;
+  margin: 0.5em auto 1em auto;
 }
-
-.poly-segment-dark {
-  background-color: red;
-}
-
 
 /*project: Portfolio Site*/
 .img-portfolio-overview {
@@ -303,11 +297,14 @@ img {
 
 /*project: robots*/
 #robots-breit {
- 
+ display: block;
+ width: 100%;
 }
 
 #robot-schmal {
+  display: block;
   width: 75%;
+  margin: auto;
 }
 
 

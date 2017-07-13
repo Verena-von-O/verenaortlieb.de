@@ -6,16 +6,11 @@ image = "/img/PolyStart.png"
 categories = ["Design"]
 +++
 
+Animals and design are an excellent combination. Especially if the results are as nice as these. See for yourself.
 
 <h4>The Cat</h4>
 
 <img id="polyanimal-normal" src="\img\PolyCat.png" alt="">
-
-<!-- Cats are the most popular pet in the US. A group of cats is called a clowder. Cats have over 20 muscles that control their ears. Cats sleep 70% of their lives. Cat's can't taste sweetness. Owning a cat can reduce the risk of stroke and heart attack by a third. Female cats are typically right-pawed while male cats are typically left-pawed. A cat can jump up to six times its length. Cats can move their ears 180 degrees. They can also move their ears separately. A cat rubs against people to mark its territory. 
-
-You can find more facts about cats
-<a href="https://www.buzzfeed.com/chelseamarshall/meows?utm_term=.shMvdQLlL#.rgOXZz434">here</a>. -->
-
 
 <h4>The Dog</h4>
 
