@@ -3,7 +3,7 @@ title = "About me"
 layout = "default"
 [menu]
     [menu.main]
-        weight = 130
+        weight = 160
 +++
 
 <h2>Hi there, I'm Verena!</h2>

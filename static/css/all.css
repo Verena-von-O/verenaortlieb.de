@@ -156,16 +156,24 @@ img {
 
 
 /*index*/
-.index-img-grid {
+.index-all {
   display: flex;
+  flex-direction: row;
+  justify-content: center;
   flex-wrap: wrap;
-  justify-content: space-between;
+  width: 100%;
+  max-width: 800px;
+  text-align: center;
+  margin: auto;
 }
 
-.index-img-grid img {
-  display: inline-block;
-  margin-bottom: .9em;
-  width: 30%;
+.index-all div {
+  padding: 2em;
+}
+
+.index-all img {
+  width: 200px;
+  height: auto;
 }
 
 

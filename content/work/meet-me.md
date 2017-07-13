@@ -1,8 +1,9 @@
 +++
 title = "Meet Me"
-date = "2016-01-01"
+date = "2016-02-01"
 layout = "projects"
 image = "/img/meet-me-start.jpg"
+categories = ["FunStuff"]
 +++
 
 While I travel as a digital nomad, I have the opportunity to meet a lot of people. But besides all the external interactions I also can get to know me and how I feel very well. 

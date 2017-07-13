@@ -1,8 +1,9 @@
 +++
 title = "Stuff"
-date = "2017-01-01"
+date = "2016-01-01"
 layout = "projects"
 image = "/img/StuffCoffee.png"
+categories = ["FunStuff"]
 +++
 
 

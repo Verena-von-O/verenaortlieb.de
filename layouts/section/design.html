@@ -3,16 +3,16 @@
 
 <head>
 	{{ partial "head.html" . }}
-  <title>Work | {{ .Site.Title }}</title>
+  <title>Design | {{ .Site.Title }}</title>
 </head>
 <body>
 
-	{{ partial "header.html"  . }} 
+	{{ partial "header.html"  . }}
 
 	<div class="side-content work-content">
 
 		<ul>			
-			{{ range .Data.Pages }}
+			{{ range .Site.Taxonomies.categories.design }}
 			<li>
 				<a href="{{ .Permalink }}">
 				<img class="img-work" src="{{ .Site.BaseURL}}{{ .Params.image }}" alt="">
@@ -25,9 +25,7 @@
 			{{ end }}
 		</ul>
 
-
 	</div>
-
 	
 	{{ partial "footer.html" . }}
 

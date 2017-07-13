@@ -1,9 +1,9 @@
 +++
-title = "Ice Cream Shop"
-date = "2016-05-01"
+title = "ImmerGutesWetter"
+date = "2016-08-01"
 layout = "projects"
-image = "/img/Ice1.png"
-categories = ["Design"]
+image = "/img/all-that-stuff.jpg"
+categories = ["Websites"]
 +++
 
 

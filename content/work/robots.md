@@ -1,8 +1,9 @@
 +++
 title = "The Robots"
-date = "2017-02-01"
+date = "2016-03-01"
 layout = "projects"
 image = "/img/RobotStart.png"
+categories = ["FunStuff"]
 +++
 
 Meet The Robots. A bunch of funny looking characters, designed after children’s imagination. Each robot is created after the story some awesome kids wrote. Go ahead and get to know them.
