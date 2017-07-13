@@ -264,6 +264,16 @@ img {
 }
 
 
+/*project: Portfolio Site*/
+.img-portfolio-overview {
+  display: flex;
+  flex-wrap: : wrap;
+}
+
+.img-portfolio-overview img {
+  width: 30%;
+}
+
 /*project: stuff*/
 
 .stuff-img-grid {

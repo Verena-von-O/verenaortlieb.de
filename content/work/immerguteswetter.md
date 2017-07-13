@@ -2,7 +2,7 @@
 title = "ImmerGutesWetter"
 date = "2016-08-01"
 layout = "projects"
-image = "/img/igw-plane.png"
+image = "/img/igw-hero.png"
 categories = ["Websites"]
 +++
 

@@ -1,59 +1,40 @@
 +++
-title = "verenaortlieb.de"
+title = "My Portfolio Site"
 date = "2016-06-01"
 layout = "projects"
-image = "/img/all-that-stuff.jpg"
+image = "/img/vode-hero.png"
 categories = ["Websites"]
 +++
 
 
-Summer time is Ice Cream time. To celebrate the new season the ice cream shop website got a little makeover. And how to do this? With ice cream of course.
+As a designer, it is necessary to have some kind of portfolio to show some of your work. And because I don't only design stuff but also know how to make websites it was the obvious choice to build a portfolio website.
 
-<h4>The Ice Cream</h4>
+<div class="img-portfolio-overview">
+	<img src="/img/all-that-stuff.jpg" alt="">
+	<img src="/img/nobody-cares.jpg" alt="">
+	<img src="/img/imperfect.jpg" alt="">
+</div>
 
-<div class="ice-img-grid">
-	<img src="/img/Ice1.png" alt="">
-	<img src="/img/Ice2.png" alt="">
-	<img src="/img/Ice3.png" alt="">
+
+<h4>The Idea</h4>
+
+Besides showing some of my work I also can show my coding skills, can add some more information about me and some links to social media profiles of mine.
+
+<div class="img-portfolio-overview">
 	<img src="/img/Ice4.png" alt="">
-	<img src="/img/Ice5.png" alt="">
-	<img src="/img/Ice6.png" alt="">
+	<img src="/img/PolyStart.png" alt="">
+	<img src="/img/RobotStart.png" alt="">
 </div>
 
 
-<h4>The Stickers</h4>
+<h4>The Advantage</h4>
 
-<div class="ice-cream-breit">
-	<img src="/img/StickerAll.png" alt="">
-</div>
+And, a significant advantage of a website as a portfolio instead of a pdf or something like that is, that I can constantly update the site. So sending a link to my website means that you get the newest portfolio every time you klick on the link.
 
-
-<h4>The Colors</h4>
-
-<div class="ice-cream-schmal">
-	<img src="/img/IceColorPalette.png" alt="">
-</div>
-
-
-
-
-<h4>The Fun</h4>
-
-<div class="ice-cream-breit">
-	<img src="/img/IceKids.png" alt="">
-</div>
-
-<!-- <div class="ice-cream-breit">
-	<img src="/img/IceForms.png" alt="">
-</div> -->
-
-<div class="ice-cream-breit">
-	<img src="/img/IceFreeForms.png" alt="">
-</div>
-
-
-<div class="ice-cream-breit">
-	<img src="/img/IceCreamParty.png" alt="">
+<div class="img-portfolio-overview">
+	<img src="/img/StuffPineapple.png" alt="">
+	<img src="/img/StuffTetris.png" alt="">
+	<img src="/img/StuffCoffee.png" alt="">
 </div>
 
 <h4>The End</h4>
