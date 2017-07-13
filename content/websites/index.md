@@ -1,6 +1,6 @@
 +++
 title = "Websites"
-layout = "website-blog"
+layout = "websites-blog"
 [menu]
     [menu.main]
         weight = 110
