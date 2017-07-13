@@ -7,5 +7,5 @@ layout = "default"
 +++
 
 
-<img class="img-process" src="/img/ComingSoon.png" alt="">
+<img class="img-process" src="/img/process-test.jpg" alt="">
 
