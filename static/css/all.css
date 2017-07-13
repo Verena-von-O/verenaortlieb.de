@@ -156,6 +156,10 @@ img {
 
 
 /*index*/
+.index-title-hero {
+  text-align: center;
+}
+
 .index-all {
   display: flex;
   flex-direction: row;
@@ -176,7 +180,9 @@ img {
   height: auto;
 }
 
-
+.index-all h2:hover {
+  color: var(--fun-color);
+}
 
 
 
@@ -199,7 +205,7 @@ img {
 
 .work-content ul li {
   margin: 1em 1em 2em 1em;
-  width: 300px;
+  width: 200px;
 }
 
 .titel-work {
@@ -214,8 +220,8 @@ img {
 }
 
 .work-content ul li img{
-  width: 300px;
-  height: 300px;
+  width: 200px;
+  height: 200px;
   object-fit: scale-down;
 }
 
@@ -228,11 +234,22 @@ img {
 .projects-content img {
   width: 100%;
   margin: 1em auto;
-  display: block;
 }
 
 
+/*project: immerguteswetter*/
+.igw-img-row {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: wrap;
+}
 
+.igw-img-row img {
+  width: 200px;
+  border: var(--fun-color) solid 2px;
+  margin: 1em; 
+}
 
 /*project: polygonal animals*/
 #polyanimal-normal {
