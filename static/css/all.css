@@ -243,7 +243,7 @@ img {
 .work-content ul li img{
   width: 200px;
   height: 200px;
-  object-fit: scale-down;
+  object-fit: cover;
 }
 
 
@@ -268,11 +268,13 @@ img {
   flex-direction: row;
   justify-content: center;
   flex-wrap: wrap;
+  background-color: var(--fun-color);
+  padding: 1em;
+  margin: 1em -2em;
 }
 
 .igw-img-row img {
-  width: 200px;
-  border: var(--fun-color) solid 2px;
+  width: 40%;
   margin: 1em; 
 }
 
@@ -291,6 +293,16 @@ img {
 
 .img-portfolio-overview img {
   width: 30%;
+}
+
+/*project: personal blog*/
+.img-personal-overview {
+  display: flex;
+  flex-wrap: : wrap;
+}
+
+.img-personal-overview img {
+  width: 45%;
 }
 
 /*project: stuff*/
