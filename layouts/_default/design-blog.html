@@ -15,10 +15,10 @@
 			{{ range .Site.Taxonomies.categories.design }}
 			<li>
 				<a href="{{ .Permalink }}">
-					<div class="titel-work">
+				<img class="img-work" src="{{ .Site.BaseURL}}{{ .Params.image }}" alt="">
+				<div class="titel-work">
 					{{ .Title }}
 				</div>
-				<img class="img-work" src="{{ .Site.BaseURL}}{{ .Params.image }}" alt="">
 				
 				</a>
 				
