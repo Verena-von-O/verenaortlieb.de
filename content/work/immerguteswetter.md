@@ -1,5 +1,5 @@
 +++
-title = "ImmerGutesWetter"
+title = "Travel Blog"
 date = "2016-08-01"
 layout = "projects"
 image = "/img/igw-hero.png"
@@ -29,11 +29,10 @@ Simple and easy where most important but also fun, nice to look at and recogniza
 The start side gives you an overview and an idea what it is all about without having to read anything. 
 The design is clean and easy to use (so even my grandma can navigate without any problems).
 
-<!-- <div class="igw-img-row">
+<div class="igw-img-row">
 	<img src="/img/igw-side-start.png" alt="">
 	<img src="/img/igw-side-blog.png" alt="">
-	<img src="/img/igw-side-post.png" alt="">
-</div> -->
+</div>
 
 
 <h4>The Footer</h4>
