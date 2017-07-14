@@ -1,8 +1,9 @@
 +++
 title = "Travel Dots"
-date = "2017-03-01"
+date = "2016-03-01"
 layout = "projects"
 image = "/img/DotsStart.png"
+categories = ["FunStuff"]
 +++
 
 Being a nomad also means that you get to discover a lot of places. I decided to remember all of the different cities and countries with some art. 

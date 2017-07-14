@@ -14,9 +14,14 @@ h1, h2, h3, h4, h5, h6 {
   letter-spacing: .03em;
 }
 
+h1 {
+  line-height: 1.2em;
+}
+
 h2 {
   font-size: 2.25em;
   font-weight: 600;
+  line-height: 1.2em;
 }
 
 h3 {
@@ -55,6 +60,7 @@ p a {
   color: var(--text-color);
   text-decoration: none;
   border-bottom: 1px solid var(--fun-color);
+  font-weight: bolder;
 }
 
 a:hover {
@@ -126,9 +132,17 @@ img {
 }
 
 @media only screen and (max-width: 38em) {
-  .nav-header div a {
-    align-items: center;
+  .nav-header {
+  flex-direction: column;
   }
+  .nav-header div {
+    align-items: center;
+    padding-bottom: 0.5em;
+  }
+  .header-logo-img {
+  width: 50%;
+  margin-bottom: 1em;
+}
 }
 
 
@@ -156,20 +170,41 @@ img {
 
 
 /*index*/
-.index-img-grid {
+.index-title-hero {
+  text-align: center;
+  padding-bottom: 1em;
+}
+
+.index-all {
   display: flex;
+  flex-direction: row;
+  justify-content: center;
   flex-wrap: wrap;
-  justify-content: space-between;
+  width: 100%;
+  max-width: 800px;
+  text-align: center;
+  margin: auto;
 }
 
-.index-img-grid img {
-  display: inline-block;
-  margin-bottom: .9em;
-  width: 30%;
+.index-all div {
+  padding: 2em;
 }
 
+.index-all img {
+  width: 200px;
+  height: 300px;
+  object-fit: cover;
+}
 
+.index-all h2:hover {
+  color: var(--fun-color);
+}
 
+/*@media only screen and (max-width: 38em) {
+  .index-title-hero {
+  font-size: 1.5em;
+}
+}*/
 
 
 /*work*/
@@ -191,7 +226,7 @@ img {
 
 .work-content ul li {
   margin: 1em 1em 2em 1em;
-  width: 300px;
+  width: 200px;
 }
 
 .titel-work {
@@ -206,38 +241,57 @@ img {
 }
 
 .work-content ul li img{
-  width: 300px;
-  height: 300px;
+  width: 200px;
+  height: 200px;
   object-fit: scale-down;
 }
 
 
 
 /*project-seiten allgemein*/
-.projects-content {
-}
 
 .projects-content img {
   width: 100%;
-  margin: 1em auto;
   display: block;
+  margin: 1em auto;
 }
 
+@media only screen and (max-width: 38em) {
+.project-title {
+  font-size: 2em;
+}
+}
 
+/*project: immerguteswetter*/
+.igw-img-row {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: wrap;
+}
 
+.igw-img-row img {
+  width: 200px;
+  border: var(--fun-color) solid 2px;
+  margin: 1em; 
+}
 
 /*project: polygonal animals*/
 #polyanimal-normal {
-  width: 75%;
-  margin-top: -2em;
-  margin-bottom: 0;
-  margin-top: 1em;
+  display: block;
+  width: 70%;
+  margin: 0.5em auto 1em auto;
 }
 
-.poly-segment-dark {
-  background-color: red;
+/*project: Portfolio Site*/
+.img-portfolio-overview {
+  display: flex;
+  flex-wrap: : wrap;
 }
 
+.img-portfolio-overview img {
+  width: 30%;
+}
 
 /*project: stuff*/
 
@@ -268,11 +322,14 @@ img {
 
 /*project: robots*/
 #robots-breit {
- 
+ display: block;
+ width: 100%;
 }
 
 #robot-schmal {
+  display: block;
   width: 75%;
+  margin: auto;
 }
 
 
@@ -349,6 +406,13 @@ img {
   margin: 0 3em;
 }
 
+@media only screen and (max-width: 38em) {
+  .img-about {
+  width: 40%;
+  display: block;
+  margin: 0 auto;
+}
+}
 
 
 

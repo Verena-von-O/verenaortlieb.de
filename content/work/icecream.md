@@ -1,8 +1,9 @@
 +++
 title = "Ice Cream Shop"
-date = "2017-05-01"
+date = "2016-05-01"
 layout = "projects"
 image = "/img/Ice1.png"
+categories = ["Design"]
 +++
 
 
