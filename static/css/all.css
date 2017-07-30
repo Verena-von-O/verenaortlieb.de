@@ -181,7 +181,7 @@ img {
   justify-content: center;
   flex-wrap: wrap;
   width: 100%;
-  max-width: 800px;
+  max-width: 1000px;
   text-align: center;
   margin: auto;
 }
@@ -191,8 +191,9 @@ img {
 }
 
 .index-all img {
-  width: 200px;
-  height: 300px;
+  width: 250px;
+  height: 350px;
+  margin-top: 0.5em;
   object-fit: cover;
 }
 
@@ -206,7 +207,7 @@ img {
 .work-content {
   margin: 35px auto;
   min-height: 100vh;
-  width: 89%;
+  width: 100%;
 }
 
 .work-content ul {
@@ -220,12 +221,12 @@ img {
 
 .work-content ul li {
   margin: 1em 1em 2em 1em;
-  width: 200px;
+  width: 300px;
 }
 
 .titel-work {
-  margin-top: 0.5em;
-  text-align: center;
+  margin-top: 0em;
+  text-align: left;
 }
 
 .img-work {
@@ -235,8 +236,8 @@ img {
 }
 
 .work-content ul li img{
-  width: 200px;
-  height: 200px;
+  width: 300px;
+  height: 300px;
   object-fit: cover;
 }
 
