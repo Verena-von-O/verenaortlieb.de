@@ -1,6 +1,6 @@
 +++
 title = "Travel Dots"
-date = "2016-03-01"
+date = "2016-02-01"
 layout = "projects"
 image = "/img/DotsStart.png"
 categories = ["FunStuff"]

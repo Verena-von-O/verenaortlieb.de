@@ -1,6 +1,6 @@
 +++
 title = "Polygonal Animals"
-date = "2016-04-01"
+date = "2016-05-01"
 layout = "projects"
 image = "img/PolyStart.png"
 categories = ["Design"]
