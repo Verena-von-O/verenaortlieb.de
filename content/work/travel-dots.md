@@ -8,12 +8,11 @@ categories = ["FunStuff"]
 
 Being a nomad also means that you get to discover a lot of places. I decided to remember all of the different cities and countries with some art. 
 
-The pictures show the national animal, flower or other significant creature I got to know while living there. Inside these characters, you can find the city or place they represent. 
+The pictures show the national animal, flower or other significant creature I got to know while living there.
 
-If you want to know where it is, you can find the name of the place inside the picture. Written in Braille. 
 
 <h4>Bangkok</h4>
-<img src="/img/DotsBangkok.png" alt="">
+<img src="/img/dots/DotsBangkok.png" alt="">
 
 <!-- <h4>Koh Lanta</h4>
 <img src="/img/ComingSoon.png" alt="">
@@ -31,22 +30,22 @@ If you want to know where it is, you can find the name of the place inside the p
 <img src="/img/ComingSoon.png" alt=""> -->
 
 <h4>Amsterdam</h4>
-<img src="/img/DotsAmsterdam.png" alt="">
+<img src="/img/dots/DotsAmsterdam.png" alt="">
 
 <h4>Oslo</h4>
-<img src="/img/DotsOslo.png" alt="">
+<img src="/img/dots/DotsOslo.png" alt="">
 
 <!-- <h4>Stockholm</h4>
 <img src="/img/ComingSoon.png" alt=""> -->
 
 <h4>Montreal</h4>
-<img src="/img/DotsMontreal.png" alt="">
+<img src="/img/dots/DotsMontreal.png" alt="">
 
 <!-- <h4>Vancouver</h4>
 <img src="/img/ComingSoon.png" alt=""> -->
 
 <h4>Seattle</h4>
-<img src="/img/DotsSeattle.png" alt="">
+<img src="/img/dots/DotsSeattle.png" alt="">
 
 <!-- <h4>San Francisco</h4>
 <img src="/img/ComingSoon.png" alt="">
