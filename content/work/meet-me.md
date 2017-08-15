@@ -5,12 +5,16 @@ layout = "projects"
 image = "/img/meet-me-start.jpg"
 categories = ["Design"]
 +++
-
-While I travel as a digital nomad, I have the opportunity to meet a lot of people. But besides all the external interactions I also can get to know me and how I feel very well. 
-
-I like to write about the stuff I think about on my blog. The topics vary from problems that digital nomads have to being a human in this world. Each blog post is accompanied by a picture. Here you can find some of them. If you are interested in my thoughts, you are welcome to <a href="https://www.verenaortlieb.com/blog/" target="_blank">read my blog here</a>.
-
 <img src="/img/meetme/all-that-stuff.jpg" alt="">
+
+While traveling the world as a digital nomad, I have the opportunity to meet a lot of people and to get to know different cultures and lifestyles.
+
+I also use the time to figure out some stuff about myself. And because I found out that I am not the only one struggling with life I started to write about it. 
+
+I used the opportunity to code my first website and learned html and css. 
+
+More or less frequently you can find a post about what I think. Each blog post is accompanied by an illustration. You can find some of them on this side. If you are interested in my thoughts, you are welcome to <a href="https://www.verenaortlieb.com/blog/" target="_blank">read my blog here</a>.
+
 <img src="/img/meetme/dance-party.jpg" alt="">
 <img src="/img/meetme/enjoy-ride.jpg" alt="">
 <img src="/img/meetme/headphones-sofa.jpg" alt="">
@@ -18,10 +22,10 @@ I like to write about the stuff I think about on my blog. The topics vary from p
 <img src="/img/meetme/imperfect.jpg" alt="">
 <img src="/img/meetme/me-average-joe.jpg" alt="">
 <img src="/img/meetme/me-working-hard.jpg" alt="">
-<img src="/img/meetme/nobody-cares.jpg" alt="">
 <img src="/img/meetme/packing-up.jpg" alt="">
+<img src="/img/meetme/rainy-day.jpg" alt="">
 <img src="/img/meetme/snail-mail.jpg" alt="">
-<img src="/img/meetme/what-are-you-waiting.jpg" alt="">
+<img src="/img/meetme/sofa-dancing.jpg" alt="">
 
 
 <h4>The End</h4>
