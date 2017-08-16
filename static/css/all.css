@@ -133,7 +133,8 @@ img {
 }
 
 .header-logo-img:hover {
-  filter: invert(25%);
+  filter: invert(50%);
+  transition: all .25s ease;
 }
 
 @media only screen and (max-width: 38em) {
@@ -245,8 +246,8 @@ img {
 }
 
 .main-social img:hover {
-  filter: invert(25%);
-  transition: all 0s ease;
+  filter: invert(50%);
+  transition: all .1s ease;
 }
 
 
