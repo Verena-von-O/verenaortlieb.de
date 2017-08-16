@@ -10,7 +10,7 @@ categories = ["Websites"]
 Nowadays a blog is a typical thing to have. And as a digital nomad, it is an easy way to keep everyone up to date. So <a href="https://www.immerguteswetter.de" target="_blank">ImmerGutesWetter</a> is my way of communicating with the folks back home but also a kind of travel diary and a platform to work on my programming skills.
 
 <div>
-	<img src="/img/igw-plane.png" alt="">
+	<img src="/img/igw/igw-plane.png" alt="">
 </div>
 
 <h4>The Idea</h4>
@@ -30,8 +30,8 @@ The start side gives you an overview and an idea what it is all about without ha
 The design is clean and easy to use (so even my grandma can navigate without any problems).
 
 <div class="igw-img-row">
-	<img src="/img/igw-side-start.png" alt="">
-	<img src="/img/igw-side-blog.png" alt="">
+	<img src="/img/igw/igw-side-start.png" alt="">
+	<img src="/img/igw/igw-side-blog.png" alt="">
 </div>
 
 
@@ -40,13 +40,13 @@ The design is clean and easy to use (so even my grandma can navigate without any
 One unique feature is the footer on the start side. Depending on the location I am at the footer changes. From a mountain scenery to a beach view to a city skyline. 
 
 <div>
-	<img src="/img/igw-footer-mountains.png" alt="">
+	<img src="/img/igw/igw-footer-mountains.png" alt="">
 </div>
 <div>
-	<img src="/img/igw-footer-beach.png" alt="">
+	<img src="/img/igw/igw-footer-beach.png" alt="">
 </div>
 <div>
-	<img src="/img/igw-footer-city.png" alt="">
+	<img src="/img/igw/igw-footer-city.png" alt="">
 </div>
 
 

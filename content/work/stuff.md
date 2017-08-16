@@ -8,30 +8,30 @@ categories = ["FunStuff"]
 
 
 <div class="stuff-img-grid">
-	<img src="/img/StuffAlarm.png" alt="">
-	<img src="/img/StuffBackpack.png" alt="">
-	<img src="/img/StuffBoot.png" alt="">
-	<img src="/img/StuffBottle.png" alt="">
-	<img src="/img/StuffBurger.png" alt="">
-	<img src="/img/StuffCarrott.png" alt="">
-	<img src="/img/StuffCoffee.png" alt="">
-	<img src="/img/StuffCola.png" alt="">
-	<img src="/img/StuffCorn.png" alt="">
-	<img src="/img/StuffFish.png" alt="">
-	<img src="/img/StuffGameboy.png" alt="">
-	<img src="/img/StuffiMac.png" alt="">
-	<img src="/img/StuffLight.png" alt="">
-	<img src="/img/StuffMario.png" alt="">
-	<img src="/img/StuffMelone.png" alt="">
-	<img src="/img/StuffMug.png" alt="">
-	<img src="/img/StuffPalmtree.png" alt="">
-	<img src="/img/StuffPineapple.png" alt="">
-	<img src="/img/StuffRadic.png" alt="">
-	<img src="/img/StuffScooter.png" alt="">
-	<img src="/img/StuffSparcle.png" alt="">
-	<img src="/img/StuffSurfboards.png" alt="">
-	<img src="/img/StuffTetris.png" alt="">
-	<img src="/img/StuffWasher.png" alt="">
+	<img src="/img/stuff/StuffAlarm.png" alt="">
+	<img src="/img/stuff/StuffBackpack.png" alt="">
+	<img src="/img/stuff/StuffBoot.png" alt="">
+	<img src="/img/stuff/StuffBottle.png" alt="">
+	<img src="/img/stuff/StuffBurger.png" alt="">
+	<img src="/img/stuff/StuffCarrott.png" alt="">
+	<img src="/img/stuff/StuffCoffee.png" alt="">
+	<img src="/img/stuff/StuffCola.png" alt="">
+	<img src="/img/stuff/StuffCorn.png" alt="">
+	<img src="/img/stuff/StuffFish.png" alt="">
+	<img src="/img/stuff/StuffGameboy.png" alt="">
+	<img src="/img/stuff/StuffiMac.png" alt="">
+	<img src="/img/stuff/StuffLight.png" alt="">
+	<img src="/img/stuff/StuffMario.png" alt="">
+	<img src="/img/stuff/StuffMelone.png" alt="">
+	<img src="/img/stuff/StuffMug.png" alt="">
+	<img src="/img/stuff/StuffPalmtree.png" alt="">
+	<img src="/img/stuff/StuffPineapple.png" alt="">
+	<img src="/img/stuff/StuffRadic.png" alt="">
+	<img src="/img/stuff/StuffScooter.png" alt="">
+	<img src="/img/stuff/StuffSparcle.png" alt="">
+	<img src="/img/stuff/StuffSurfboards.png" alt="">
+	<img src="/img/stuff/StuffTetris.png" alt="">
+	<img src="/img/stuff/StuffWasher.png" alt="">
 </div>
 
 
