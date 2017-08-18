@@ -14,7 +14,7 @@ I used the opportunity to code my first website and learned html and css.
 
 More or less frequently you can find a post about what I think. Each blog post is accompanied by an illustration. You can find some of them on this side. If you are interested in my thoughts, you are welcome to <a href="https://www.verenaortlieb.com/blog/" target="_blank">read my blog here</a>.
 
-By the way, you can buy some of my illustrations on Society6. Just <a href="https://society6.com/verena_von_o">klick here</a> and see if you like something.
+By the way, you can buy some of my illustrations on Society6. Just <a href="https://society6.com/verena_von_o">click here</a> and see if you like something.
 
 <img src="/img/meetme/all-that-stuff.jpg" alt="">
 <img src="/img/meetme/dance-party.jpg" alt="">
