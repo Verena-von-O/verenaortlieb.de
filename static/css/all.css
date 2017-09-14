@@ -251,6 +251,11 @@ img {
 }
 
 
+.index-image {
+  border: 1px solid var(--light-grey);
+}
+
+
 /*project-seiten allgemein*/
 
 .projects-content img {
@@ -308,6 +313,7 @@ img {
   width: 45%;
 }
 
+
 /*project: stuff*/
 
 .stuff-img-grid {
@@ -333,6 +339,16 @@ img {
   }
 }
 
+
+/*project: square coloring*/
+#square-img {
+  border: 1px solid var(--light-grey); 
+  width: 75%;
+}
+
+#square-img-cover {
+  border: 1px solid var(--light-grey); 
+}
 
 
 /*project: robots*/
