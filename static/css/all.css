@@ -260,33 +260,18 @@ img {
   text-align: center;
 /*  border-top: 1px solid black;
 */  margin-top: 4em;
-background-color: var(--main-color)
+  background-color: var(--main-color);
+  padding: 2em;
 }
 
 .footer-content  {
-  font-weight: normal;
-  font-size: 0.9em;
   display: flex;
   flex-direction: column;
   justify-content: flex-end;
   align-items: center;
-  padding: 2em 4em 2em 4em;
 }
 
-
-.footer-break {
-  display: none;
-}
-
-@media only screen and (max-width: 38em) {
-  .footer-content  {
-  padding-left: 1em;
-  padding-right: 1em;
-  }
-}
-
-@media only screen and (max-width: 28em) {
-  .footer-break {
-    display: inline;
-  }
+.footer-content p {
+  line-height: 1em;
+  margin: 0.7em;
 }
