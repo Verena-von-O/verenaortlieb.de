@@ -9,20 +9,32 @@ copyright = "This work is licensed under a Creative Commons Attribution-ShareAli
 [blackfriday]
    hrefTargetBlank = true
 
-# [[menu.main]]
-#     name = "Design"
-#     identifier = "design"
-#     url = "/work/"
-#     weight = -110
+[[menu.main]]
+    name = "Ich"
+    identifier = "ich"
+    url = "/ich/"
+    weight = 110
 
-# [[menu.main]]
-#     name = "Websites"
-#     identifier = "design"
-#     url = "/websites/"
-#     weight = -100
+[[menu.main]]
+    name = "Du"
+    identifier = "du"
+    url = "/du/"
+    weight = 120
 
-# [[menu.main]]
-#     name = "Fun Stuff"
-#     identifier = "design"
-#     url = "/funstuff/"
-#     weight = -90
+[[menu.main]]
+    name = "Coaching"
+    identifier = "coaching"
+    url = "/coaching/"
+    weight = 130
+
+[[menu.main]]
+    name = "Lob"
+    identifier = "lob"
+    url = "/lob/"
+    weight = 140
+
+[[menu.main]]
+    name = "Blog"
+    identifier = "blog"
+    url = "/blog/"
+    weight = 150
