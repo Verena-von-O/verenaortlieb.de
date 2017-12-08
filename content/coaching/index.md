@@ -16,3 +16,17 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam rem inventore, a
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus delectus corrupti atque porro aliquid exercitationem tempore molestiae debitis amet dignissimos, alias aliquam at repellat fugit rem aperiam quis deserunt magnam.
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius architecto quas facilis adipisci ea repellat sit iste delectus sunt quos, necessitatibus recusandae, libero nulla fugiat obcaecati veritatis temporibus debitis enim.
+
+<div class="call-to-action">
+	 <h2>Bereit etwas zu verändern? Dann lass uns reden!</h2>
+	 <p>Schreib mir eine Nachricht und wir machen einen 20-minütigen Kennenlerntermin aus damit ich mehr über dich erfahren kann und herausfinden kann wie ich dir am Besten helfen kann.</p>
+
+<div class="button-action-container">
+	<a href="mailto:verena@verenaortlieb.de" target="_blank">
+		<div class="button-action">
+		Nachricht schreiben
+		</div>
+	</a>
+</div>
+
+</div>
