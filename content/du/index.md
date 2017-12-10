@@ -23,5 +23,4 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius architecto quas f
 		</div>
 	</a>
 </div>
-
 </div>

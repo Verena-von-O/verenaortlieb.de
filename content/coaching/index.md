@@ -3,19 +3,55 @@ title = "Coaching"
 layout = "default"
 +++
 
-<h2>Hör auf darauf zu warten, dass sich etwas ändert.</h2>
+## Hör auf darauf zu warten, dass sich etwas ändert.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam rem inventore, ad. Omnis pariatur officia animi magnam ut unde iste harum esse repudiandae, iusto blanditiis, inventore, aut consectetur, recusandae. Ipsam!
+Rapid Transformational Coaching (RTC) ist ein grundlegender Veränderungsprozess welcher tiefe, dauerhafte Veränderungen in nur einer Sitzung bewirkt.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus delectus corrupti atque porro aliquid exercitationem tempore molestiae debitis amet dignissimos, alias aliquam at repellat fugit rem aperiam quis deserunt magnam.
+### Was ist RTC?
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius architecto quas facilis adipisci ea repellat sit iste delectus sunt quos, necessitatibus recusandae, libero nulla fugiat obcaecati veritatis temporibus debitis enim.
+Rapid Transformational Coaching (RTC) ist eine Verbindung der innovativen Rapid Transformational Therapy (RTT) von Marisa Peer mit fundierten Coaching-Prozessen. 
+RTC verbindet heilende Modalitäten wie Coaching, Hypnotherapie, Psychologie und neurolinguistische Programmierung um eine schnelle, transformative und dauerhafte Wirkung auf Klienten zu erzielen.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam rem inventore, ad. Omnis pariatur officia animi magnam ut unde iste harum esse repudiandae, iusto blanditiis, inventore, aut consectetur, recusandae. Ipsam!
+### Was macht RTC anders?
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus delectus corrupti atque porro aliquid exercitationem tempore molestiae debitis amet dignissimos, alias aliquam at repellat fugit rem aperiam quis deserunt magnam.
+Im Gegensatz zu traditionellem Coaching schaut RTC auf die Ursache eines Problems, nicht auf die Symptome.
+Du wirst die darunter liegenden Gründe aufdecken und diese auf einem unterbewussten Leven verändern was eine starke emotionale Freisetzung bewirkt sowie Freiheit von Angst und Schmerz.
+Du wirst “unfinished business” hervorholen und starke Überzeugungssysteme kreieren welche dir erlauben zu heilen und unangefasste Probleme zu korrigieren damit du endlich deinen Traum leben kannst.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius architecto quas facilis adipisci ea repellat sit iste delectus sunt quos, necessitatibus recusandae, libero nulla fugiat obcaecati veritatis temporibus debitis enim.
+### Für wen ist RTC?
+
+RTC ist für Menschen die 100% dafür bereit sind weiter an den gleichen versteckten Blockaden und immer wiederkehrenden Herausforderungen, Schmerzen und Ängsten zu leiden die sie davon abhalten ein erfolgreiches, erfülltes Leben zu führen.
+Selbstbewusstsein, Selbstwert, Geldblockaden, Aufschieben, Angstzustände, Gewichtsreduzierung, öffentliches Reden, Sucht, Depression… dies sind nur eine Handvoll der Bereiche welche vollständig transformiert werden können.
+Klienten machen Erfahrungen wie…
+- eine massive Erhöhung des Selbstbewusstseins und Selbstwertgefühls
+- neue Geschäftsmöglichkeiten und größere finanzielle Freiheit
+- erfülltere Beziehungen mit der Familie und in der Partnerschaft
+- Leichteres Handeln und eine erhöhte Leistungsfähigkeit bei der Arbeit
+- Mehr Energie, Ausdauer und Fokus im täglichen Leben und bei der Arbeit
+- Freiheit von Depressionen und Angstzuständen
+- Starke Gewichtsreduzierungen und Veränderungen in der Ernährung und im sportlichen Leben
+- Erleichterung von schmerzhaften psychischen Symptomen welche durch Krankheiten verursacht wurde
+Die wichtige Frage ist: Bust du bereit für Veränderung?
+
+### Wie funktioniert es?
+
+#### Schritt 1: Aufdecken
+
+Die RTC Erfahrung beginnt mit einem tiefgründigen Coaching welches deine tiefsten Wünsche, Grundwerte und versteckte oder ersichtliche Blockaden aufdeckt welche dich in Schmerz, Angst oder Unzufriedenheit halten.
+
+#### Schritt 2: Neuprogrammierung
+
+Wenn die emotionalen und/oder körperlichen Blockaden identifiziert sind nutzen wir die RTT Methode von Marisa Peer um die Wurzel dieser Blockaden offen zu legen und neu zu programmieren. Diese werden buchstäblich auf einem unterbewussten Level aus deinem Kopf genommen.
+
+#### Schritt 3: Transformation
+
+Wöchentliche oder zweiwöchentliche Coaching Sitzungen in Zusammenarbeit mit einer individualisierten Aufnahme stellen sicher, dass die neuen Überzeugungen in alle Bereiche deines Lebens integriert werden um anhaltende, durchdringende Veränderungen zu schaffen.
+
+#### Schritt 4: Integration
+
+Ein neues Verhalten, neue Überzeugungen und Gewohnheiten werden integriert, weitere Bereiche für RTT werden kontinuierliche aufgedeckt durch andauernds Coaching was nach und nach jeden Bereich deines Lebens verändern wird.
+
+
 
 <div class="call-to-action">
 	 <h2>Bereit etwas zu verändern? Dann lass uns reden!</h2>
