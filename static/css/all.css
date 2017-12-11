@@ -13,7 +13,7 @@ h1, h2, h3, h4, h5, h6 {
   margin: 0;
   font-family: var(--font-special);
   letter-spacing: .03em;
-  font-weight: 400;
+  font-weight: 500;
 }
 
 h1 {
@@ -27,15 +27,14 @@ h2 {
 
 h3 {
   font-size: 1.65em;
-  line-height: 1em;
+  line-height: 1.2em;
+  padding: 1em 0 0 0;
 }
 
 h4 {
-  text-align: center;
-  text-transform: uppercase;
-  padding-top: 3.5em;
-  padding-bottom: 0;
-  font-size: 1.75em;
+  font-size: 1.25em;
+  line-height: 1.2em;
+  padding: 1em 0 0 0;
 }
 
 p {
@@ -43,6 +42,8 @@ p {
   font-weight: 300;
   display: block;
   letter-spacing: .045em;
+  margin: 0;
+  padding: 1em 0;
 }
 
 body {

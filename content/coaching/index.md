@@ -5,17 +5,17 @@ layout = "default"
 
 ## Hör auf darauf zu warten, dass sich etwas ändert.
 
-Rapid Transformational Coaching (RTC) ist ein grundlegender Veränderungsprozess welcher tiefe, dauerhafte Veränderungen in nur einer Sitzung bewirkt.
+
 
 ### Was ist RTC?
 
-Rapid Transformational Coaching (RTC) ist eine Verbindung der innovativen Rapid Transformational Therapy (RTT) von Marisa Peer mit fundierten Coaching-Prozessen. 
-RTC verbindet heilende Modalitäten wie Coaching, Hypnotherapie, Psychologie und neurolinguistische Programmierung um eine schnelle, transformative und dauerhafte Wirkung auf Klienten zu erzielen.
+Rapid Transformational Coaching (RTC) ist eine Verbindung der innovativen Rapid Transformational Therapy (RTT) von Marisa Peer mit fundierten Coaching-Tools. 
+RTC ist schnell, transformativ und dauerhaft.
 
 ### Was macht RTC anders?
 
 Im Gegensatz zu traditionellem Coaching schaut RTC auf die Ursache eines Problems, nicht auf die Symptome.
-Du wirst die darunter liegenden Gründe aufdecken und diese auf einem unterbewussten Leven verändern was eine starke emotionale Freisetzung bewirkt sowie Freiheit von Angst und Schmerz.
+Du wirst die tiefer liegenden Gründe für deine Schwierigkeiten aufdecken und diese auf einer unterbewussten Ebene verändern was eine starke emotionale Befreiung bewirkt.
 Du wirst “unfinished business” hervorholen und starke Überzeugungssysteme kreieren welche dir erlauben zu heilen und unangefasste Probleme zu korrigieren damit du endlich deinen Traum leben kannst.
 
 ### Für wen ist RTC?
@@ -23,6 +23,7 @@ Du wirst “unfinished business” hervorholen und starke Überzeugungssysteme k
 RTC ist für Menschen die 100% dafür bereit sind weiter an den gleichen versteckten Blockaden und immer wiederkehrenden Herausforderungen, Schmerzen und Ängsten zu leiden die sie davon abhalten ein erfolgreiches, erfülltes Leben zu führen.
 Selbstbewusstsein, Selbstwert, Geldblockaden, Aufschieben, Angstzustände, Gewichtsreduzierung, öffentliches Reden, Sucht, Depression… dies sind nur eine Handvoll der Bereiche welche vollständig transformiert werden können.
 Klienten machen Erfahrungen wie…
+
 - eine massive Erhöhung des Selbstbewusstseins und Selbstwertgefühls
 - neue Geschäftsmöglichkeiten und größere finanzielle Freiheit
 - erfülltere Beziehungen mit der Familie und in der Partnerschaft
