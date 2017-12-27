@@ -15,17 +15,18 @@
 			{{ range .Data.Pages }}
 			<li class="single-post-summary">
 				<a href="{{ .Permalink }}">
+				<p class="date-blog-summary">
+				{{ .Date.Format "02. 01. 2006" }}
+				</p>
 				<h2 class="titel-blog-summary">
 					{{ .Title }}
 				</h2>
 				</a>
-				<p class="date-blog-summary">
-				{{ .Date.Format "02. 01. 2006" }}
-				</p>
 				<a href="{{ .Permalink }}">
 				<img class="img-blog-summary" src="{{ .Site.BaseURL}}{{ .Params.image }}" alt="">
 				</a>
 				<p class="summary-blog-summary">{{ .Summary }}</p>
+
 				<a href="{{ .Permalink }}">
 					<p class="read-more-blog-summary">Weiter lesen...</p>
 				</a>

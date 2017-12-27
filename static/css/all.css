@@ -28,13 +28,14 @@ h2 {
 h3 {
   font-size: 1.65em;
   line-height: 1.2em;
-  padding: 1em 0 0 0;
+  padding: 2em 0 0 0;
 }
 
 h4 {
-  font-size: 1.25em;
-  line-height: 1.2em;
-  padding: 1em 0 0 0;
+  font-size: 1.1em;
+  line-height: 1em;
+  padding: 1em 0 0;
+  text-transform: uppercase;
 }
 
 p {
@@ -76,6 +77,10 @@ ul {
 
 img {
   height: 100%;
+}
+
+strong {
+  font-weight: 600;
 }
 
 /*header*/
@@ -203,7 +208,14 @@ img {
 /*index*/
 .index-title {
   text-align: center;
-  margin-bottom: 2em;
+  margin-bottom: 0.5em;
+}
+
+.hero-text {
+  text-align: center;
+  margin-bottom: 1.5em;
+  font-weight: 500;
+  font-size: 1.2em;
 }
 
 
@@ -215,12 +227,12 @@ img {
 
 .titel-blog-summary {
   text-align: center;
+  padding-bottom: 1em;
 }
 
 .date-blog-summary {
   text-align: center;
-  line-height: 1em;
-  margin: 0.8em auto 1.5em auto;
+  margin: auto;
 }
 
 .img-blog-summary {
@@ -241,13 +253,12 @@ img {
 
 .post-title {
   text-align: center;
-  margin-top: 1em;
+  margin-bottom: 1em;
 }
 
 .post-date {
   text-align: center;
-  line-height: 1em;
-  margin: 0.8em auto 1.5em auto;
+  margin: auto;
 }
 
 .post-hero-img {

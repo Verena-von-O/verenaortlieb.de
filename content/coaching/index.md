@@ -5,7 +5,9 @@ layout = "default"
 
 ## Hör auf darauf zu warten, dass sich etwas ändert.
 
+Mit Hilfe von Rapid Transformational Coaching kannst du schon nach einer Sitzung Veränderungen erreichen die dein Leben tiefgründig verändern.
 
+### Was ist RTT
 
 ### Was ist RTC?
 
@@ -52,6 +54,9 @@ Wöchentliche oder zweiwöchentliche Coaching Sitzungen in Zusammenarbeit mit ei
 
 Ein neues Verhalten, neue Überzeugungen und Gewohnheiten werden integriert, weitere Bereiche für RTT werden kontinuierliche aufgedeckt durch andauernds Coaching was nach und nach jeden Bereich deines Lebens verändern wird.
 
+## Wie viel kostet es?
+
+Für mehr Informationen über die verschiedenen Möglichkeiten und Preise schreibe mir einfach eine [E-Mail](mailto:verena@verenaortlieb.de{:target="_blank"}) um einen 20-minütigen Beratungstermin zu vereinbaren. Dann können wir besprechen welches Angebot deinen Bedürfnissen und deinem Budget entsprechen.
 
 
 <div class="call-to-action">

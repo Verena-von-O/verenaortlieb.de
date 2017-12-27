@@ -5,16 +5,26 @@ layout = "default"
 
 <h2>Hallo, ich bin Verena.</h2>
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab quae est, ipsa alias necessitatibus esse, vel dolores, rerum eligendi laudantium voluptate dignissimos ratione eum, aut quos quam. Reprehenderit, deleniti, sint?
+Ich bin hier um etwas zu verändern. Um etwas zu erreichen.
 
 <div class="image-halfe">
-<img class="text-wrap" src="/img/verena.jpg" alt="">
+<img class="text-wrap" src="/img/verena2.jpg" alt="">
 </div>
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem neque, sequi. Ipsum, accusantium nihil praesentium perferendis, vero numquam inventore adipisci non impedit. Iste quod praesentium, sapiente repellendus accusamus? Iure, autem.
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae laborum atque ad magnam soluta, blanditiis omnis ipsa iure! Laboriosam optio neque nulla nemo exercitationem quisquam earum hic architecto iusto suscipit.
+Die Dinge zu verändern die einen davon abhalten der Mensch zu sein der man sein soll.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et delectus perspiciatis quaerat ipsum modi illo exercitationem non vitae! Nobis perferendis laboriosam beatae, hic asperiores facilis ea cupiditate quo, quod voluptas.
+Ich helfe dabei das zu erreiche was einen bewegt, begeistert, berührt.
+
+Ich helfe Menschen die etwas verändern wollen. Menschen die wissen, dass da mehr ist. Menschen die die Kontrolle über ihr Leben übernemen wollen. Menschen die mehr wollen. 
+
+Ich bin nicht dafür da dir zuzustimmen sondern dir das zu sagen was du hören musst um weiter zu kommen. Weiter als du jemals dachtest du kannst kommen.
+
+Ich glaube dass du alles was du brauchst in dir trägst. Du musst nur an dich glauben und es hervorholen.
+
+Ich bin für dich da. Voll und ganz.
+
+
+
 
 <div class="call-to-action">
 	 <h2>Bereit etwas zu verändern? Dann lass uns reden!</h2>
