@@ -227,12 +227,13 @@ strong {
 
 .titel-blog-summary {
   text-align: center;
-  padding-bottom: 1em;
+  padding-bottom: 0.75em;
 }
 
 .date-blog-summary {
   text-align: center;
   margin: auto;
+  padding: 0;
 }
 
 .img-blog-summary {
@@ -240,11 +241,13 @@ strong {
 }
 
 .summary-blog-summary {
-
+  padding: 0.5em 0;
+  margin: 0;
 }
 
 .read-more-blog-summary {
   font-weight: 600;
+  padding: 0;
 }
 
 
@@ -314,8 +317,7 @@ strong {
 .footer {
   position: relative;
   text-align: center;
-/*  border-top: 1px solid black;
-*/  margin-top: 4em;
+  margin-top: 4em;
   background-color: var(--bg-color);
   color: var(--white-text);
   padding: 2em;

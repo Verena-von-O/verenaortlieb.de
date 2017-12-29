@@ -2,10 +2,10 @@
 title = "Post 2"
 date = "2017-12-15"
 layout = "blog"
-image = "/img/test.jpg"
+image = "/img/NZ2.jpg"
 +++
 
-I love to color. I always use the opportunity to color with a child in their coloring book (of course only if invited to do so).<!--more-->
+I love to color. I always use the opportunity to color with a child in their coloring book (of course only if invited to do so).
 
 In recent years more and more coloring books for adults became available and are a great pleasure for interested parties.
 
