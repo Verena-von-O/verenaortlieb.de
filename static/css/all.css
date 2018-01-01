@@ -92,9 +92,9 @@ strong {
   justify-content: space-between;
   align-items: center;
   text-align: center;
-/*  border-bottom: 1px solid black;
-*/  margin-bottom: 4em;
+  margin-bottom: 4em;
   background-color: var(--bg-color);
+  opacity: 0.95;
 }
 
 .header-title h1 a {
@@ -131,14 +131,11 @@ strong {
   color: var(--fun-color);
 }
 
-.nav-header div a {
-  border-bottom: 1px solid var(--bg-color);
-}
-
 .nav-header div a.active {
   color: var(--fun-color);
-  border-bottom: 1px solid var(--fun-color);
 }
+
+
 
 @media only screen and (max-width: 38em) {
   .nav-header {
@@ -228,6 +225,10 @@ strong {
 .titel-blog-summary {
   text-align: center;
   padding-bottom: 0.75em;
+}
+
+.titel-blog-summary:hover {
+  color: var(--fun-color);
 }
 
 .date-blog-summary {
@@ -321,6 +322,7 @@ strong {
   background-color: var(--bg-color);
   color: var(--white-text);
   padding: 2em;
+  opacity: 0.95;
 }
 
 .footer-content  {
