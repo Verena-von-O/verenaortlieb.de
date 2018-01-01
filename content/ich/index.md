@@ -5,7 +5,7 @@ layout = "default"
 
 <h2>Hallo, ich bin Verena.</h2>
 
-Ich bin hier um etwas zu verändern. Und dir dabei zu helfen etwas zu verändern.
+Ich bin hier um etwas zu verändern. Und dir dabei zu helfen.
 
 <div class="image-halfe">
 <img class="text-wrap" src="/img/verena2.jpg" alt="">

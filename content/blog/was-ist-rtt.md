@@ -5,7 +5,9 @@ layout = "blog"
 image = "/img/NZ1.jpg"
 +++
 
-Rapid Transformational Therapy (kurz: RTT) ist eine innovative, transformierende Methode welche unvergleichliche Ergebnisse bringt. Hierfür wird unter anderem das beste aus den Bereichen Hypnotherapie, NLP, Psychotherapie und kognitive Verhaltenstherapie kombiniert. Die Methode wurde von [Marisa Peer](https://www.marisapeer.com) entwickelt welche diese in den letzen 30 Jahren entwickelt und verbessert hat.
+Rapid Transformational Therapy (kurz: RTT) ist eine innovative, transformierende Methode welche unvergleichliche Ergebnisse bringt. Hierfür wird unter anderem das beste aus den Bereichen Hypnotherapie, NLP, Psychotherapie und kognitive Verhaltenstherapie kombiniert. 
+
+RTT wurde von [Marisa Peer](https://www.marisapeer.com) entwickelt. Marisa Peer ist seit mehr als 30 Jahren als Therapeutin sehr erfolgreich. Aus dieser langjährigen Erfahrung hat sie diese effektive und vielseitige Methode entwickelt.
 
 ### RTT ist effektiv
 
@@ -13,7 +15,7 @@ In nur einer Sitzung lassen sich durch RTT Probleme und Blockaden aufrecken und 
 
 ### RTT ist vielseitig
 
-RTT ist nicht nur effektiv sondern auch vielseitig. Es können Probleme gelöst, Angewohnheiten verändert und Ängste beseitigt werden. Eine Veränderung durch RTT ist unter anderem in den Bereichen Selbstbewusstsein, Selbstwert, Geldblockaden, Aufschieben, Angstzustände, Gewichtsreduzierung, öffentliches Reden, Sucht, Depression möglich.
+RTT ist nicht nur effektiv sondern auch vielseitig. Es können Probleme gelöst, Angewohnheiten verändert und Ängste beseitigt werden. Eine Veränderung durch RTT ist unter anderem in den Bereichen Selbstbewusstsein, Selbstwert, Geldblockaden, Aufschieben, Angstzustände, Gewichtsprobleme, öffentliches Reden, Sucht und Depression möglich.
 
 
 ### Das Vorgehen
