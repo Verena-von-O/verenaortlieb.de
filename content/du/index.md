@@ -5,75 +5,20 @@ layout = "default"
 
 <h2>Hört sich das nach dir an...</h2>
 
+Das Leben ist nicht immer einfach. Und das ist auch gut so. Aber manchmal kommt man an einen Punkt wo man weiss, dass es so nicht weiter geht.
 
-Du hinterfragst dich die ganze Zeit und bist gestresst.
+Und genau an diesem Punkt bist du jetzt. 
 
-Du hast keine Zeit für die Dinge die du gerne tun würdest.
+Du weisst, dass dein Leben so viel besser sein könnte. Du bist davon überzeugt, dass da mehr ist, dass du mehr erreichen, erleben, erfahren kannst. Du bist sicher, dass du dich nicht mehr mit deiner jetzigen Situation zufrieden geben willst da du weisst, dass das Leben dafür zu kurz ist.
 
-Du hast Angst alles zu verleiren.
+Das ist großartig. 
 
-Irgendwo auf dem Weg hast du dich selbst verloren.
+Und ich kann dir versichern, dass du alles was du brauchst um dein Leben zu verändern in dir trägst. Du hast alle Möglichkeiten und Fähigkeiten in dir um deine Zukunft so zu gestalten wie du sie haben möchtest.
 
-Du möchtest glücklich sein.
+Du musst diese Fähigkeiten nur hervorholen und aktivieren. Dann bist du nicht mehr zu stoppen.
 
-Du möchtest dich darauf freuen all deine Ziele zu erreichen.
+Egal was es ist das dich davon abhält das Leben zu führen das du führen möchtest, du kannst dies ändern. Und ich kann dir dabei helfen.
 
-Du möchtest mehr Geld verdienen.
-
-Du möchtest selbstbewusster und selbstsicherer sein.
-
-Du möchtest ruhiger werden.
-
-Du möchtest wieder an dich glauben.
-
-Du möchtest Erfolg und Freiheit.
-
-Du weisst nicht was du tun sollst.
-
-Du hast angst davor rückwärst zu gehen.
-
-Du hast Angst vor der Zukunft.
-
-Du hast Angst davor nicht zu erreichen was du willst.
-
-Du hast Angst davor einen Fehler zu machen.
-
-Du weisst nicht was du anderst machen sollst.
-
-Du fühlst den Druck.
-
-Du hast viel zu tun und möchtest keine Zeit mehr verschwenden.
-
-Die Gendaken und Stimmen in deinem Kopf machen dich verrückt.
-
-Du weisst nicht wo du anfangen sollst.
-
-Aber eins ist dir klar: Es ist Zeit etwas zu verändern.
-
-Du hast die Macht.
-Das Leben das du willst? Du kannst es Wirklichkeit werden lassen.
-Die Antowrten auf deine Herausforderungen sind in dir.
-Du hast alles was du brauchst um das Leben deiner Träume zu leben. 
-Du brauchts einfach ein wenig Hilfe.
-
-Du kannst greatness nicht alleine erreichen.
-Erfolgreiche Menschen wissen dass sie um efolgreich zu sein die richtigen Leute um sich haben müssen. 
-Sie brauchen Menschen die ihnen helfen an sich selbst zu glauebn, die Welt anders zu sehen und zu handeln.
-
-Du kannst ein Mitkämpfer haben.
-Jemanden der weiss wie er dir helfen kann.
-Jemand der sich deinem Erfolg verpfilchtet.
-Jemand der dich auf neue Ebenen bringen kann.
-
-Das ist mein Versprechen an dich.
-Ich werde den Raum, die Struktur und die Wekrzeuge zur Verfügung stellen die nötig sind dass du dein Wünsche in Realität umsetzen kannst.
-
-Du hast die Wahl.
-Dies ist dein Leben und es passiert jetzt.
-Du kannst haben was du willst.
-Du kannst Erfolg haben und dich frei, ruhig und erfüllt fühlen.
-Du kannst es schaffen.
-Lass es uns zusammen machen.
 
 
 <div class="call-to-action">

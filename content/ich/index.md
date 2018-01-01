@@ -5,23 +5,21 @@ layout = "default"
 
 <h2>Hallo, ich bin Verena.</h2>
 
-Ich bin hier um etwas zu verändern. Um etwas zu erreichen.
+Ich bin hier um etwas zu verändern. Und dir dabei zu helfen etwas zu verändern.
 
 <div class="image-halfe">
 <img class="text-wrap" src="/img/verena2.jpg" alt="">
 </div>
 
-Die Dinge zu verändern die einen davon abhalten der Mensch zu sein der man sein soll.
+Mein Weg war und ist alles andere als geradlinig. Und genau das liebe ich. Was manche als problematisch ansehen, das sehe ich als eine der besten Dinge überhaupt.
 
-Ich helfe dabei das zu erreiche was einen bewegt, begeistert, berührt.
+Ich gehe gerne meinen eigenen Weg, ich probiere gerne neues aus, ich teste gerne Grenzen und bin davon überzeugt, dass man immer einen Weg finden kann. Man muss sich nur trauen.
 
-Ich helfe Menschen die etwas verändern wollen. Menschen die wissen, dass da mehr ist. Menschen die die Kontrolle über ihr Leben übernemen wollen. Menschen die mehr wollen. 
+Und genau das ist es, was mich immer weiter machen lässt und was mich an meiner Arbeit so fasziniert. 
 
-Ich bin nicht dafür da dir zuzustimmen sondern dir das zu sagen was du hören musst um weiter zu kommen. Weiter als du jemals dachtest du kannst kommen.
+Gemeinsam schaffen wir es aus Situationen die ausweglos scheinen oder mit Problemen die erschlagend wirken einen Weg zu finden. Einen Weg zu dem Leben welches du schon immer führen wolltest. Einen Weg zu dir. 
 
-Ich glaube dass du alles was du brauchst in dir trägst. Du musst nur an dich glauben und es hervorholen.
-
-Ich bin für dich da. Voll und ganz.
+Ich bin für dich da. Ich bin dein Partner auf diesem Weg. Ich bin nicht da um dir bei allem zuzustimmen sondern dir zu helfen selbst das richtige für dich zu finden.
 
 
 

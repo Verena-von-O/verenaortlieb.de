@@ -33,7 +33,7 @@ h3 {
 
 h4 {
   font-size: 1.1em;
-  line-height: 1em;
+  line-height: 1;
   padding: 1em 0 0;
   text-transform: uppercase;
 }
@@ -70,10 +70,11 @@ a:hover {
 }
 
 ul {
-  margin: 0;
-  padding: 0;
-  list-style: none;
+  font-weight: 300;
+  line-height: 1.8;
 }
+
+
 
 img {
   height: 100%;
@@ -217,6 +218,12 @@ strong {
 
 
 /*blog summary*/
+
+.blog-summary {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
 
 .single-post-summary {
   margin-bottom: 7em;
