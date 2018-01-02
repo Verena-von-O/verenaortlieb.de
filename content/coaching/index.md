@@ -3,9 +3,11 @@ title = "Coaching"
 layout = "default"
 +++
 
-## Hör auf darauf zu warten, dass sich etwas ändert.
+<h2 class="sub-side-hero">Hör auf darauf zu warten, dass sich etwas ändert.</h2>
 
-**Nicht nur effektiv sondern auch schnell hilft das Rapid Transformational Coaching dabei das Leben tiefgründig zu verändern.**
+<p class="hero-text">
+Nicht nur effektiv sondern auch schnell hilft das Rapid Transformational Coaching dabei das Leben tiefgründig zu verändern.
+</p>
 
 ### Was ist RTC?
 
@@ -61,7 +63,7 @@ Für mehr Informationen über die verschiedenen Möglichkeiten und Preise schrei
 
 
 <div class="call-to-action">
-	 <h2>Bereit etwas zu verändern? Dann lass uns reden!</h2>
+	 <h2>Bereit etwas zu verändern? <br> Dann lass uns reden!</h2>
 	 <p>Schreib mir eine Nachricht und wir machen einen 20-minütigen Kennenlerntermin aus damit ich mehr über dich erfahren kann und herausfinden kann wie ich dir am Besten helfen kann.</p>
 
 <div class="button-action-container">

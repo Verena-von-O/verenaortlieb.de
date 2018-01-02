@@ -3,7 +3,7 @@ title = "Du"
 layout = "default"
 +++
 
-<h2>Hört sich das nach dir an...</h2>
+<h2 class="sub-side-hero">Hört sich das nach dir an...</h2>
 
 Das Leben ist nicht immer einfach. Und das ist auch gut so. Aber manchmal kommt man an einen Punkt wo man weiss, dass es so nicht weiter geht.
 
@@ -22,7 +22,7 @@ Egal was es ist das dich davon abhält das Leben zu führen das du führen möch
 
 
 <div class="call-to-action">
-	 <h2>Bereit etwas zu verändern? Dann lass uns reden!</h2>
+	 <h2>Bereit etwas zu verändern? <br> Dann lass uns reden!</h2>
 	 <p>Schreib mir eine Nachricht und wir machen einen 20-minütigen Kennenlerntermin aus damit ich mehr über dich erfahren kann und herausfinden kann wie ich dir am Besten helfen kann.</p>
 
 <div class="button-action-container">

@@ -3,7 +3,7 @@ title = "Ich"
 layout = "default"
 +++
 
-<h2>Hallo, ich bin Verena.</h2>
+<h2 class="sub-side-hero">Hallo, ich bin Verena.</h2>
 
 Ich bin hier um etwas zu verändern. Und dir dabei zu helfen.
 
@@ -25,7 +25,7 @@ Ich bin für dich da. Ich bin dein Partner auf diesem Weg. Ich bin nicht da um d
 
 
 <div class="call-to-action">
-	 <h2>Bereit etwas zu verändern? Dann lass uns reden!</h2>
+	 <h2>Bereit etwas zu verändern? <br> Dann lass uns reden!</h2>
 	 <p>Schreib mir eine Nachricht und wir machen einen 20-minütigen Kennenlerntermin aus damit ich mehr über dich erfahren kann und herausfinden kann wie ich dir am Besten helfen kann.</p>
 
 <div class="button-action-container">

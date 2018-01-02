@@ -4,7 +4,7 @@ layout = "default"
 +++
 
 
-## Was andere sagen...
+<h2 class="sub-side-hero">Was andere sagen...</h2>
 
 <div class="lob-text">
 <p>
@@ -35,7 +35,7 @@ layout = "default"
 </div>
 
 <div class="call-to-action">
-	 <h2>Bereit etwas zu verändern? Dann lass uns reden!</h2>
+	 <h2>Bereit etwas zu verändern? <br> Dann lass uns reden!</h2>
 	 <p>Schreib mir eine Nachricht und wir machen einen 20-minütigen Kennenlerntermin aus damit ich mehr über dich erfahren kann und herausfinden kann wie ich dir am Besten helfen kann.</p>
 
 <div class="button-action-container">
