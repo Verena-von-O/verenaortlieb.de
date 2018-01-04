@@ -52,6 +52,20 @@ p {
   padding: 1em 0;
 }
 
+
+@media only screen and (max-width: 38em) {
+
+  h2 {
+    font-size: 1.75em;
+  }
+  h3 {
+    font-size: 1.5em;
+  }
+  p {
+    font-size: 1em;
+  }
+}
+
 body {
   font-family: var(--font-normal);
   color: var(--text-color);
@@ -106,7 +120,7 @@ strong {
 
 .header-title h1 a {
   letter-spacing: 3px;
-  font-family: 'Nova Mono', monospace;
+  font-family: var(--font-hero);
   font-size: 1.5em;
   font-weight: 600;
   color: var(--white-text);
@@ -148,6 +162,20 @@ strong {
 
 .nav-header div a.active {
   color: var(--bg-light);
+}
+
+@media only screen and (max-width: 38em) {
+  .header-title h1 a {
+    letter-spacing: 2px;
+}
+  .nav-header div a {
+  font-size: 1em;
+  margin: 0.1em;
+  padding: 0.1em; 
+}
+.nav-header div {
+  padding: 1em 0.4em;
+}
 }
 
 
@@ -207,6 +235,11 @@ strong {
   font-size: 1.2em;
 }
 
+@media only screen and (max-width: 38em) {
+  .hero-text {
+  font-size: 1.1em;
+}
+}
 
 /*blog summary*/
 
