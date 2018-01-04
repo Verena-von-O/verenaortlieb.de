@@ -62,7 +62,7 @@ Durch die Integration des neuen Verhaltens, der neuen Überzeugungen und Gewohnh
 Für mehr Informationen über die verschiedenen Möglichkeiten und Preise schreibe mir einfach eine [E-Mail](mailto:verena@verenaortlieb.de{:target="_blank"}) um einen Beratungstermin zu vereinbaren. Dann können wir besprechen welches Angebot deinen Bedürfnissen und deinem Budget entsprechen.
 
 
-<div class="call-to-action">
+<!-- <div class="call-to-action">
 	 <h2>Bereit etwas zu verändern? <br> Dann lass uns reden!</h2>
 	 <p>Schreib mir eine Nachricht und wir machen einen 20-minütigen Kennenlerntermin aus damit ich mehr über dich erfahren kann und herausfinden kann wie ich dir am Besten helfen kann.</p>
 
@@ -74,4 +74,4 @@ Für mehr Informationen über die verschiedenen Möglichkeiten und Preise schrei
 	</a>
 </div>
 
-</div>
+</div> -->

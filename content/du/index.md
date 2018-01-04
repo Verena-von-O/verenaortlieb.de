@@ -21,7 +21,7 @@ Egal was es ist das dich davon abhält das Leben zu führen das du führen möch
 
 
 
-<div class="call-to-action">
+<!-- <div class="call-to-action">
 	 <h2>Bereit etwas zu verändern? <br> Dann lass uns reden!</h2>
 	 <p>Schreib mir eine Nachricht und wir machen einen 20-minütigen Kennenlerntermin aus damit ich mehr über dich erfahren kann und herausfinden kann wie ich dir am Besten helfen kann.</p>
 
@@ -32,4 +32,4 @@ Egal was es ist das dich davon abhält das Leben zu führen das du führen möch
 		</div>
 	</a>
 </div>
-</div>
+</div> -->

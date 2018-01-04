@@ -23,7 +23,7 @@ Ich bin für dich da. Ich bin dein Partner auf diesem Weg. Ich bin nicht da um d
 
 
 
-
+<!-- 
 <div class="call-to-action">
 	 <h2>Bereit etwas zu verändern? <br> Dann lass uns reden!</h2>
 	 <p>Schreib mir eine Nachricht und wir machen einen 20-minütigen Kennenlerntermin aus damit ich mehr über dich erfahren kann und herausfinden kann wie ich dir am Besten helfen kann.</p>
@@ -35,4 +35,4 @@ Ich bin für dich da. Ich bin dein Partner auf diesem Weg. Ich bin nicht da um d
 		</div>
 	</a>
 </div>
-</div>
+</div> -->
