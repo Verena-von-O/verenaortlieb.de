@@ -54,7 +54,6 @@ p {
 
 
 @media only screen and (max-width: 38em) {
-
   h2 {
     font-size: 1.75em;
   }
@@ -85,7 +84,7 @@ p a {
   padding: 0 0.2em;
 }
 
-a:hover {
+p a:hover {
   color: var(--bg-light);
   background-color: var(--bg-gold)
 }
@@ -137,7 +136,7 @@ strong {
 }
 
 .nav-header div {
-  padding: 1em 0.7em;
+  padding: 0.5em 0.7em 1em 0.7em;
   margin-top: 0.7em;
 }
 
@@ -226,6 +225,9 @@ strong {
 .index-title {
   text-align: center;
   margin-bottom: 0.5em;
+  background-color: var(--bg-light);
+  padding: 1.5em 0;
+  margin-top: -2em;
 }
 
 .hero-text {
@@ -269,7 +271,7 @@ strong {
 }
 
 .img-blog-summary {
-
+  background-color: none;
 }
 
 .summary-blog-summary {
