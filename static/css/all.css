@@ -220,12 +220,12 @@ strong {
 .sub-side-hero {
   text-align: center;
   background-color: var(--bg-light);
-  color: var(--bg-gold);
+  color: var(--text-color);
   padding: 2em 33.33%;
   margin-left: -33.33%;
   margin-right: -33.33%;
   font-weight: 600;
-  margin-top: -2.5em;
+  margin-top: -2em;
   margin-bottom: 2em;
 }
 
@@ -238,7 +238,25 @@ strong {
   font-weight: 600;
 }
 
+.highlight-light-small {
+  background-color: var(--bg-light);
+  color: var(--text-color);
+  padding: 1em 33.33%;
+  margin-left: -33.33%;
+  margin-right: -33.33%;
+  font-weight: 600;
+}
+
 .highlight-dark {
+  background-color: var(--bg-gold);
+  color: var(--bg-light);
+  padding: 2em 33.33%;
+  margin-left: -33.33%;
+  margin-right: -33.33%;
+  font-weight: 600;
+}
+
+.highlight-dark-small {
   background-color: var(--bg-gold);
   color: var(--bg-light);
   padding: 1em 33.33%;
@@ -256,7 +274,7 @@ strong {
   margin-left: -33.33%;
   margin-right: -33.33%;
   font-weight: 600;
-  margin-top: -2.5em;
+  margin-top: -2em;
   margin-bottom: 2em;
 }
 
