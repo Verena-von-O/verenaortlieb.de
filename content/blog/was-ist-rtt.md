@@ -2,7 +2,6 @@
 title = "Was ist RTT?"
 date = "2017-12-01"
 layout = "blog"
-image = "/img/NZ1.jpg"
 +++
 
 Rapid Transformational Therapy (kurz: RTT) ist eine innovative, transformierende Methode welche unvergleichliche Ergebnisse bringt. Hierfür wird unter anderem das beste aus den Bereichen Hypnotherapie, NLP, Psychotherapie und kognitive Verhaltenstherapie kombiniert. 

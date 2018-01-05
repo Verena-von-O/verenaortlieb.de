@@ -282,20 +282,22 @@ strong {
 }
 
 .single-post-summary {
-  margin-bottom: 7em;
+  padding-bottom: 3em;
+  margin-bottom: 3em;
+  border-bottom: 1px solid var(--fun-color);
 }
 
 .titel-blog-summary {
-  text-align: center;
-  padding-bottom: 0.75em;
-}
-
-.titel-blog-summary:hover {
+  padding-bottom: 0.25em;
+  padding-top: 0.35em;
   color: var(--fun-color);
 }
 
+.titel-blog-summary:hover {
+  color: var(--text-color);
+}
+
 .date-blog-summary {
-  text-align: center;
   margin: auto;
   padding: 0;
 }
@@ -314,17 +316,22 @@ strong {
   padding: 0;
 }
 
+.read-more-blog-summary:hover {
+  color: var(--fun-color)
+}
+
+
 
 
 /*blog posts*/
 
 .post-title {
-  text-align: center;
   margin-bottom: 1em;
+  color: var(--text-color);
+  border-bottom: 2px solid var(--fun-color);
 }
 
 .post-date {
-  text-align: center;
   margin: auto;
 }
 
