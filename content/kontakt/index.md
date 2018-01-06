@@ -5,9 +5,9 @@ layout = "default"
 
 <h2 class="sub-side-hero">Hallo, bereit etwas zu verändern?</h2>
 
-Dann schicke mir eine Nachricht per Mail an: <a href="mailto:verena@verenaortlieb.de">verena@verenaortlieb.de</a>
+Das freut mich zu hören. Schicke mir eine Nachricht per Mail an <a href="mailto:verena@verenaortlieb.de">verena@verenaortlieb.de</a>, dann können wir einen Termin ausmachen damit ich mehr über dich erfahren kann und herausfinden kann wie ich dir am Besten helfen kann.
 
-Manche kommen auch auf diese Seite weil sie noch ein paar Fragen haben. Die folgenden könnten dir weiterhelfen:
+<strong>Manche kommen auch auf diese Seite weil sie noch ein paar Fragen haben. Die folgenden könnten dir weiterhelfen:</strong>
 
 #### Ich bin mir nicht sicher ob Coaching das richtige für mich ist. Wie finde ich das raus?
 
@@ -15,19 +15,19 @@ Die meisten Menschen kommen auf Coaching aus dem gleichen Grund aus dem sie an d
 
 #### Welche Coaching Optionen gibt es?
 
-Jeder Mensch ist anders und braucht etwas anders. Was für dich das richtige ist, das können wir gerne persönlich besprechen. Du hast dann die wahl zwischen einer einzelnen RTT Sitzung oder einem länger begleitetes Coaching.
+Jeder Mensch ist anders und braucht etwas anders. Was für dich das richtige ist, das können wir gerne persönlich besprechen. Du hast dann die Wahl zwischen einer einzelnen RTT Sitzung oder einem länger begleitetes Coaching.
 
 #### Was kostet das alles?
 
-Je nachdem welche Coaching Option für dich in Frage kommt kostet es auch etwas anderes. Eine einzelne RTT Sitzung mit persönlicher Aufnahme und einer Nachbesprechung kostet 300 Euro. Wenn du gerne mehr Betreuung hast und ein ganzes Coaching haben möchtest, dann passt sich der Preis dementsprechen an.
+Je nachdem welche Coaching Option für dich in Frage kommt kostet es auch etwas anderes. Eine einzelne RTT Sitzung mit persönlicher Aufnahme und einer Nachbesprechung kostet 300 Euro. Wenn du gerne mehr Betreuung hast und ein ganzes Coaching haben möchtest, dann passt sich der Preis dementsprechend an.
 
 #### Was ist RTT?
 
-RTT ist die von Marisa Peer entwickelte Methode die auch Rapit Transformation Therapy genannt wird. Mehr darüber lesen kannst du [hier](/blog/was-ist-rtt).
+RTT ist die von Marisa Peer entwickelte Methode die auch Rapid Transformation Therapy genannt wird. Mehr darüber lesen kannst du [hier](/blog/was-ist-rtt).
 
 #### Wo findet das Coaching statt?
 
-Da ich vollzeit reise (ja, das ist möglich und macht mega Spass) habe ich keinen festen Standort. 90% meiner Sitzungen finden online statt. Wenn ich zufällig in deiner Stadt bin, dann lässt sich auch eine offline-Sitzung vereinbaren. 
+Da ich Vollzeit reise (ja, das ist möglich und macht mega Spass) habe ich keinen festen Standort. 90% meiner Sitzungen finden online statt. Wenn ich zufällig in deiner Stadt bin, dann lässt sich auch eine offline-Sitzung vereinbaren. 
 
 #### Ist online nicht schlechter als offline?
 

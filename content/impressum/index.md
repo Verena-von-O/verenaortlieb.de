@@ -3,36 +3,22 @@ title = "Ich"
 layout = "default"
 +++
 
-<h2 class="sub-side-hero">Hallo, ich bin Verena.</h2>
+<h2 class="sub-side-hero">Impressum</h2>
 
-Ich bin hier um etwas zu verändern. Und dir dabei zu helfen.
+Angaben gemäß § 5 TMG <br>
+Verena Ortlieb <br>
+Finkenweg 10 <br>
+34123 Malsfeld <br>
+Kontakt: <br>
+E-Mail: verena@verenaortlieb.de
 
-<div class="image-halfe">
-<img class="text-wrap" src="/img/verena2.jpg" alt="">
-</div>
+Umsatzsteuer-ID: DE306942000 <br>
+Umsatzsteuer-Identifikationsnummer gemäß §27a Umsatzsteuergesetz: Musterustid.
 
-Mein Weg war und ist alles andere als geradlinig. Und genau das liebe ich. Was manche als problematisch ansehen, das sehe ich als eine der besten Dinge überhaupt.
-
-Ich gehe gerne meinen eigenen Weg, ich probiere gerne neues aus, ich teste gerne Grenzen und bin davon überzeugt, dass man immer einen Weg finden kann. Man muss sich nur trauen.
-
-Und genau das ist es, was mich immer weiter machen lässt und was mich an meiner Arbeit so fasziniert. 
-
-Gemeinsam schaffen wir es aus Situationen die ausweglos scheinen oder mit Problemen die erschlagend wirken einen Weg zu finden. Einen Weg zu dem Leben welches du schon immer führen wolltest. Einen Weg zu dir. 
-
-Ich bin für dich da. Ich bin dein Partner auf diesem Weg. Ich bin nicht da um dir bei allem zuzustimmen sondern dir zu helfen selbst das richtige für dich zu finden.
-
+Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV: <br>
+Verena Ortlieb <br>
+Finkenweg 10 <br>
+34123 Malsfeld <br>
 
 
-<!-- 
-<div class="call-to-action">
-	 <h2>Bereit etwas zu verändern? <br> Dann lass uns reden!</h2>
-	 <p>Schreib mir eine Nachricht und wir machen einen 20-minütigen Kennenlerntermin aus damit ich mehr über dich erfahren kann und herausfinden kann wie ich dir am Besten helfen kann.</p>
-
-<div class="button-action-container">
-	<a href="mailto:verena@verenaortlieb.de" target="_blank">
-		<div class="button-action">
-		Nachricht schreiben
-		</div>
-	</a>
-</div>
-</div> -->
+Urheberrecht: Die Inhalte dieser Homepage sind urheberrechtlich geschützt und dürfen nicht verwertet, insbesondere vervielfältigt oder verbreitet werden. Google Analytics: Diese Website benutzt Google Analytics, einen Webanalysedienst der Google Inc. („Google“). Google Analytics verwendet sog. „Cookies“, Textdateien, die auf Ihrem Computer gespeichert werden und die eine Analyse der Benutzung der Website durch Sie ermöglichen. Verantwortlich für den Inhalt dieser Website nach § 6 MDStV Sibylle Schade, M.A.

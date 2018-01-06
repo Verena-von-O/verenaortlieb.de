@@ -38,3 +38,9 @@ copyright = "This work is licensed under a Creative Commons Attribution-ShareAli
     identifier = "blog"
     url = "/blog/"
     weight = 150
+
+[[menu.main]]
+    name = "Kontakt"
+    identifier = "kontakt"
+    url = "/kontakt/"
+    weight = 160

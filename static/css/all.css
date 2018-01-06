@@ -37,8 +37,7 @@ h3 {
 
 h4 {
   font-size: 1.1em;
-  line-height: 1;
-  padding: 1em 0 0;
+  padding: 1em 0 0 0;
   text-transform: uppercase;
 }
 
@@ -136,7 +135,7 @@ strong {
 }
 
 .nav-header div {
-  padding: 0.5em 0.7em 1em 0.7em;
+  padding: 0.5em 0.25em 1em 0.25em;
   margin-top: 0.7em;
 }
 
@@ -173,7 +172,7 @@ strong {
   padding: 0.1em; 
 }
 .nav-header div {
-  padding: 1em 0.4em;
+  padding: 1em 0.1em;
 }
 }
 
@@ -197,7 +196,7 @@ strong {
 
 @media only screen and (max-width: 38em) {
     .site-content {
-      width: 75%;  }
+      width: 85%;  }
 }
 
 
@@ -401,19 +400,12 @@ strong {
   margin: 0.2em;
 }
 
-.footer-extra {
-  display: flex;
-  flex-direction: row;
-  margin:auto;
-}
 .footer-extra a {
   color: var(--white-text); 
-  padding: 0 1em;
 }
 
 .footer-extra a:hover {
   color: var(--bg-light);
-  background-color: var(--bg-gold); 
 }
 
 .footer-social {
