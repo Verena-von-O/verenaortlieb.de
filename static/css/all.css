@@ -86,7 +86,7 @@ p a {
 
 p a:hover {
   color: var(--bg-light);
-  background-color: var(--bg-gold)
+  background-color: var(--bg-gold);
 }
 
 ul {
@@ -182,7 +182,7 @@ strong {
 .site-content {
   min-height: 100vh;
   margin: auto;
-  width: 60%;
+  width: 55%;
 }
 
 .site-content img {
@@ -219,62 +219,23 @@ strong {
 
 .sub-side-hero {
   text-align: center;
-  background-color: var(--bg-light);
   color: var(--text-color);
-  padding: 2em 33.33%;
-  margin-left: -33.33%;
-  margin-right: -33.33%;
-  font-weight: 600;
-  margin-top: -2em;
   margin-bottom: 2em;
-}
-
-.highlight-light {
-  background-color: var(--bg-light);
-  color: var(--text-color);
-  padding: 2em 33.33%;
-  margin-left: -33.33%;
-  margin-right: -33.33%;
-  font-weight: 600;
-}
-
-.highlight-light-small {
-  background-color: var(--bg-light);
-  color: var(--text-color);
-  padding: 1em 33.33%;
-  margin-left: -33.33%;
-  margin-right: -33.33%;
-  font-weight: 600;
 }
 
 .highlight-dark {
   background-color: var(--bg-gold);
   color: var(--bg-light);
-  padding: 2em 33.33%;
-  margin-left: -33.33%;
-  margin-right: -33.33%;
+  padding: 1em;
   font-weight: 600;
-}
-
-.highlight-dark-small {
-  background-color: var(--bg-gold);
-  color: var(--bg-light);
-  padding: 1em 33.33%;
-  margin-left: -33.33%;
-  margin-right: -33.33%;
-  font-weight: 600;
+  text-align: center;
 }
 
 /*index*/
 .index-title {
   text-align: center;
-  background-color: var(--bg-light);
   color: var(--text-color);
-  padding: 2em 33.33%;
-  margin-left: -33.33%;
-  margin-right: -33.33%;
   font-weight: 600;
-  margin-top: -2em;
   margin-bottom: 2em;
 }
 
@@ -382,6 +343,11 @@ strong {
   text-align: center;
 }
 
+.call-to-action p {
+  width: 55%;
+  margin: auto;
+}
+
 .button-action-container {
   width: 15em;
   max-width: 75%;
@@ -418,8 +384,7 @@ strong {
 .footer {
   position: relative;
   text-align: center;
-/*  margin-top: 4em;
-*/  background-color: var(--bg-gold);
+  background-color: var(--bg-gold);
   color: var(--white-text);
   padding: 1.5em;
 }
@@ -436,12 +401,26 @@ strong {
   margin: 0.2em;
 }
 
+.footer-extra {
+  display: flex;
+  flex-direction: row;
+  margin:auto;
+}
+.footer-extra a {
+  color: var(--white-text); 
+  padding: 0 1em;
+}
+
+.footer-extra a:hover {
+  color: var(--bg-light);
+  background-color: var(--bg-gold); 
+}
+
 .footer-social {
   display: flex;
   flex-direction: row;
+  padding: 1em 0;
 }
-
-
 .social-facebook {
   width: 2.5em;
   height: 2.5em;

@@ -9,17 +9,17 @@ layout = "default"
 Nicht nur effektiv sondern auch schnell hilft das Rapid Transformational Coaching dabei das Leben tiefgründig zu verändern.
 </p>
 
-<h3 class="highlight-light-small">Was ist RTC?</h3>
+### Was ist RTC?
 
 Rapid Transformational Coaching (RTC) ist die Verbindung der innovativen [Rapid Transformational Therapy (RTT)](/blog/was-ist-rtt/) von Marisa Peer mit fundierten Coaching-Tools. Diese Verbindung macht RTC **schnell, transformativ und dauerhaft**.
 
-<h3 class="highlight-light-small">Was macht RTC anders?</h3>
+### Was macht RTC anders?
 
 Im Gegensatz zu traditionellem Coaching befasst sich RTC mit der **Ursache eines Problems**, nicht mit den Symptomen. Die tiefer liegenden Gründe für deine Schwierigkeiten werden aufgedeckt und auf einer unterbewussten Ebene verändert. Dies bewirkt eine **starke emotionale Befreiung**. 
 
 Selbstbewusstsein, Selbstwert, Geldblockaden, Aufschieben, Angstzustände, Gewichtsprobleme, öffentliches Reden, Sucht, Depression… dies sind nur eine Handvoll der Bereiche welche vollständig transformiert werden können.
 
-<h3 class="highlight-light-small">Für wen ist RTC?</h3>
+### Für wen ist RTC?
 
 RTC ist für Menschen die **100% dafür bereit** sind nicht weiter an den gleichen versteckten Blockaden und immer wiederkehrenden Herausforderungen, Schmerzen und Ängsten zu leiden die sie davon abhalten **ein erfolgreiches, erfülltes Leben zu führen**.
 
@@ -38,7 +38,7 @@ Möglich sind beispielsweise Erfahrungen wie…
 
 <h2 class="highlight-dark">Die wichtige Frage ist: Bist du bereit für eine Veränderung?</h2>
 
-<h3 class="highlight-light-small">Wie funktioniert es?</h3>
+### Wie funktioniert es?
 
 #### Schritt 1: Aufdecken
 
@@ -57,21 +57,6 @@ Wöchentliche oder zweiwöchentliche Coaching Sitzungen in Zusammenarbeit mit ei
 Durch die Integration des neuen Verhaltens, der neuen Überzeugungen und Gewohnheiten werden **weitere Bereiche** aufgedeckt, welche durch RTT und Coaching nach und nach jeden Bereich deines Lebens verändern werden.
 
 
-<h3 class="highlight-light-small">Was kostet RTC?</h3>
+### Was kostet RTC?
 
 Für mehr Informationen über die verschiedenen Möglichkeiten und Preise schreibe mir einfach eine [E-Mail](mailto:verena@verenaortlieb.de{:target="_blank"}) um einen Beratungstermin zu vereinbaren. Dann können wir besprechen welches Angebot deinen Bedürfnissen und deinem Budget entsprechen.
-
-
-<!-- <div class="call-to-action">
-	 <h2>Bereit etwas zu verändern? <br> Dann lass uns reden!</h2>
-	 <p>Schreib mir eine Nachricht und wir machen einen 20-minütigen Kennenlerntermin aus damit ich mehr über dich erfahren kann und herausfinden kann wie ich dir am Besten helfen kann.</p>
-
-<div class="button-action-container">
-	<a href="mailto:verena@verenaortlieb.de" target="_blank">
-		<div class="button-action">
-		Nachricht schreiben
-		</div>
-	</a>
-</div>
-
-</div> -->

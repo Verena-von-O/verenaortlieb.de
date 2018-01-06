@@ -19,8 +19,20 @@ Und genau das ist es, was mich immer weiter machen lässt und was mich an meiner
 
 Gemeinsam schaffen wir es aus Situationen die ausweglos scheinen oder mit Problemen die erschlagend wirken einen Weg zu finden. Einen Weg zu dem Leben welches du schon immer führen wolltest. Einen Weg zu dir. 
 
-Ich bin für dich da. Ich bin dein Partner auf diesem Weg. Ich bin nicht da um dir bei allem zuzustimmen sondern dir zu helfen das richtige für dich zu finden.
+Ich bin für dich da. Ich bin dein Partner auf diesem Weg. Ich bin nicht da um dir bei allem zuzustimmen sondern dir zu helfen selbst das richtige für dich zu finden.
 
 
 
+<!-- 
+<div class="call-to-action">
+	 <h2>Bereit etwas zu verändern? <br> Dann lass uns reden!</h2>
+	 <p>Schreib mir eine Nachricht und wir machen einen 20-minütigen Kennenlerntermin aus damit ich mehr über dich erfahren kann und herausfinden kann wie ich dir am Besten helfen kann.</p>
 
+<div class="button-action-container">
+	<a href="mailto:verena@verenaortlieb.de" target="_blank">
+		<div class="button-action">
+		Nachricht schreiben
+		</div>
+	</a>
+</div>
+</div> -->
