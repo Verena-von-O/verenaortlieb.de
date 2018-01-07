@@ -1,17 +1,23 @@
 <!DOCTYPE html>
 <html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
-	<head>
-    <title>{{ .Title }} | {{ .Site.Title }}</title>
-		{{ partial "head.html" . }}
-	</head>
+
+<head>
+	{{ partial "head.html" . }}
+  <title>Blog | {{ .Site.Title }}</title>
+</head>
 	<body>
 
 	{{ partial "header.html"  . }} 
 
 	<main class="site-content">
 
-		
+		<p class="post-date">{{ .Date.Format "02. 01. 2006" }}
+		</p>
+		<h2 class="post-title">{{ .Title }}</h2>
+<!-- 		<img class="post-hero-img" src="{{ .Site.BaseURL}}{{ .Params.image }}" alt="">
+ -->
 		{{ .Content }}
+
 
 	</main>
 	
