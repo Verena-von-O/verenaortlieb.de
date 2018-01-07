@@ -15,7 +15,7 @@ Die meisten Menschen kommen auf Coaching aus dem gleichen Grund aus dem sie an d
 
 #### Welche Coaching Optionen gibt es?
 
-Jeder Mensch ist anders und braucht etwas anders. Was für dich das richtige ist, das können wir gerne persönlich besprechen. Du hast dann die Wahl zwischen einer einzelnen RTT Sitzung oder einem länger begleitetes Coaching.
+Jeder Mensch ist anders und braucht etwas anders. Was für dich das richtige ist, das können wir gerne persönlich besprechen. Du hast dann die Wahl zwischen einer einzelnen RTT Sitzung oder einem länger begleiteten Coaching.
 
 #### Was kostet das alles?
 

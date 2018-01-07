@@ -4,13 +4,15 @@ date = "2017-12-01"
 layout = "blog"
 +++
 
-Rapid Transformational Therapy (kurz: RTT) ist eine innovative, transformierende Methode welche unvergleichliche Ergebnisse bringt. Hierfür wird unter anderem das beste aus den Bereichen Hypnotherapie, NLP, Psychotherapie und kognitive Verhaltenstherapie kombiniert. 
+Wenn man in seinem Leben an den Punkt kommt dass man weiss dass sich etwas ändern muss, dann möchte man das sofort und nicht erst irgendwann. Und genau hier kommt RTT ins Spiel.
 
-RTT wurde von [Marisa Peer](https://www.marisapeer.com) entwickelt. Marisa Peer ist seit mehr als 30 Jahren als Therapeutin sehr erfolgreich. Aus dieser langjährigen Erfahrung hat sie diese effektive und vielseitige Methode entwickelt.
+Rapid Transformational Therapy (kurz: RTT) wurde von [Marisa Peer](https://www.marisapeer.com) entwickelt um Problemen schnell auf den Grund zu gehen und diese ebenso schnell zu beseitigen. Marisa Peer ist sein mehr als 30 Jahren sehr erfolgreich als Therapeutin tätig und hat sich entschlossen ihr Wissen in einer neuen Therapieform, dem RTT zu bündeln und weiter zu geben.
+
+In RTT werden das beste aus verschiedensten Bereichen kombiniert. Unter anderem gibt es Einflüsse aus der Hypnotherapie, NLP, Psychotherapie und kognitiver Verhaltenstherapie. Auf diese Weise wird ein umfassendes Werkzeug geschaffen das effektiv und vielseitig eingesetzt werden kann.
 
 ### RTT ist effektiv
 
-In nur einer Sitzung lassen sich durch RTT Probleme und Blockaden aufrecken und lösen. Erfolge sind hierbei nicht oberflächlich sondern durch die Arbeit mit dem Unterbewusstsein tief gehend und dauerhaft. Versteckte Blockaden werden aufgedeckt und somit nicht nur das Symptom sondern die grundlegende Ursache betrachtet, verstanden und verändert.
+In nur einer Sitzung lassen sich durch RTT Probleme und Blockaden aufdecken und lösen. Erfolge sind hierbei nicht oberflächlich sondern durch die Arbeit mit dem Unterbewusstsein tief gehend und dauerhaft. Versteckte Blockaden werden aufgedeckt und somit nicht nur das Symptom sondern die grundlegende Ursache betrachtet, verstanden und verändert.
 
 ### RTT ist vielseitig
 
@@ -23,13 +25,16 @@ In den meisten Fällen reicht schon eine RTT Sitzung um dauerhafte Erfolge zu er
 
 #### Schritt 1: Aufdecken
 
-Die Wünsche, Grundwerte und versteckte oder ersichtliche Blockaden welche dich in Schmerz, Angst oder Unzufriedenheit halten werden aufgedeckt.
+Das wichtigste und die Grundlage ist das, was du wirklich willst. Wie soll dein Leben aussehen, wer bist du in deiner Idealvorstellung. Wenn wir wissen was du willst dann können wir beginnen herauszufinden was dich davon abhält dieser Mensch zu sein.
 
 #### Schritt 2: Neuprogrammierung
 
-Wenn die emotionalen und/oder körperlichen Blockaden identifiziert sind nutzen wir die RTT Methode von Marisa Peer um die Wurzel dieser Blockaden offen zu legen und neu zu programmieren.
+Wir identifizieren die emotionalen und körperlichen Blockaden die dich davon abhalten der Mensch zu sein der du sein möchtest. Durch die RTT Methode wird die Wurzel dieser Blockaden gefunden, offen gelegt und neu programmiert. Neue Überzeugungen ersetzen die alten welche dich bisher blockiert haben.
 
 #### Schritt 3: Transformation
 
 Eine individuelle Aufnahme (ca. 15 Minuten lang) die du für die nächsten 21 Tage hörst stellt sicher, dass die neuen Überzeugungen in alle Bereiche deines Lebens integriert werden um anhaltende, durchdringende Veränderungen zu schaffen.
 
+### Was passiert danach?
+
+Was danach passiert kommt ganz auf dich an. Du kannst zufrieden sein mit dein Veränderungen und diese weiter in dein Leben integrieren oder du findest andere Bereich die du auch noch durch RTT verbessern möchtest. Deinen Möglichkeiten sind keine Grenzen gesetzt. Genieße dein neues Leben und strebe weiter nach dem was du sein möchtest.

@@ -105,6 +105,15 @@ strong {
 
 /*header*/
 
+
+header {
+  /*background: 
+  linear-gradient( rgba(3, 101, 100, 0.5), 
+      rgba(3, 101, 100, 0.5)),
+   url(/img/pfau.jpg);*/
+   background-color: var(--bg-gold)
+}
+
 .header-all {
   padding: 3em 0 1.5em 0;
   display: flex;
@@ -113,7 +122,6 @@ strong {
   align-items: center;
   text-align: center;
   margin-bottom: 4em;
-  background-color: var(--bg-gold)
 }
 
 .header-title h1 a {
@@ -148,7 +156,7 @@ strong {
   font-weight: 600;
   margin: 1em;
   padding: 0.25em; 
-  border-bottom: solid 2px var(--bg-gold);
+  border-bottom: solid 2px rgba(3, 101, 100, 0.0);
   transition: 0.25s ease-out;
 }
 
@@ -161,6 +169,7 @@ strong {
 .nav-header div a.active {
   color: var(--bg-light);
 }
+
 
 @media only screen and (max-width: 38em) {
   .header-title h1 a {
@@ -219,15 +228,18 @@ strong {
 .sub-side-hero {
   text-align: center;
   color: var(--text-color);
-  margin-bottom: 2em;
+  margin-bottom: 1em;
+  border-bottom: 2px solid var(--fun-color);
+  padding-bottom: 0.5em;
 }
 
 .highlight-dark {
-  background-color: var(--bg-gold);
-  color: var(--bg-light);
-  padding: 1em;
+  padding: 1em 0;
   font-weight: 600;
+  font-style: italic;
   text-align: center;
+  border-top: 2px solid var(--fun-color);
+  border-bottom: 2px solid var(--fun-color);
 }
 
 /*index*/
@@ -236,6 +248,8 @@ strong {
   color: var(--text-color);
   font-weight: 600;
   margin-bottom: 2em;
+  border-bottom: 2px solid var(--fun-color);
+  padding-bottom: 0.5em;
 }
 
 .hero-text {
@@ -262,7 +276,7 @@ strong {
 .single-post-summary {
   padding-bottom: 3em;
   margin-bottom: 3em;
-  border-bottom: 1px solid var(--fun-color);
+  border-bottom: 2px solid var(--fun-color);
 }
 
 .titel-blog-summary {

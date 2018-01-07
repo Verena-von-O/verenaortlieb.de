@@ -1,7 +1,9 @@
 +++
 title = "Coaching"
 layout = "default"
+img = "/img/pfau.jpg"
 +++
+
 
 <h2 class="sub-side-hero">Hör auf darauf zu warten, dass sich etwas ändert.</h2>
 
@@ -36,6 +38,7 @@ Möglich sind beispielsweise Erfahrungen wie…
 
 <br>
 
+
 <h2 class="highlight-dark">Die wichtige Frage ist: Bist du bereit für eine Veränderung?</h2>
 
 ### Wie funktioniert es?
@@ -59,4 +62,4 @@ Durch die Integration des neuen Verhaltens, der neuen Überzeugungen und Gewohnh
 
 ### Was kostet RTC?
 
-Für mehr Informationen über die verschiedenen Möglichkeiten und Preise schreibe mir einfach eine [E-Mail](mailto:verena@verenaortlieb.de{:target="_blank"}) um einen Beratungstermin zu vereinbaren. Dann können wir besprechen welches Angebot deinen Bedürfnissen und deinem Budget entsprechen.
+Eine einzelne RTT Sitzung inklusive persönlicher Aufnahme und einem Termin zur Nachbesprechung kostet 300 Euro. Wenn du mehr haben möchtest, dann passt sich der Preis dementsprechend an. Für mehr Informationen über die verschiedenen Möglichkeiten und Preise schreibe mir einfach eine [E-Mail](mailto:verena@verenaortlieb.de{:target="_blank"}) um einen Beratungstermin zu vereinbaren. Dann können wir besprechen welches Angebot deinen Bedürfnissen und deinem Budget entsprechen.
