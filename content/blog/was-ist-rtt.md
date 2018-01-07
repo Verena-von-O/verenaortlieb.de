@@ -4,7 +4,7 @@ date = "2017-12-01"
 layout = "blog"
 +++
 
-Wenn man in seinem Leben an den Punkt kommt dass man weiss dass sich etwas ändern muss, dann möchte man das sofort und nicht erst irgendwann. Und genau hier kommt RTT ins Spiel.
+Wenn man in seinem Leben an den Punkt kommt dass man weiss dass sich etwas ändern muss, dann möchte man das sofort und nicht erst irgendwann. Und genau hier kommt RTT ins Spiel.	
 
 Rapid Transformational Therapy (kurz: RTT) wurde von [Marisa Peer](https://www.marisapeer.com) entwickelt um Problemen schnell auf den Grund zu gehen und diese ebenso schnell zu beseitigen. Marisa Peer ist sein mehr als 30 Jahren sehr erfolgreich als Therapeutin tätig und hat sich entschlossen ihr Wissen in einer neuen Therapieform, dem RTT zu bündeln und weiter zu geben.
 
