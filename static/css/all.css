@@ -99,6 +99,12 @@ img {
   height: 100%;
 }
 
+.img-schmal {
+  height: 15em;
+  object-fit: cover;
+  object-position: 50%;
+}
+
 strong {
   font-weight: 600;
 }
@@ -107,15 +113,11 @@ strong {
 
 
 header {
-  /*background: 
-  linear-gradient( rgba(3, 101, 100, 0.5), 
-      rgba(3, 101, 100, 0.5)),
-   url(/img/pfau.jpg);*/
    background-color: var(--bg-gold)
 }
 
 .header-all {
-  padding: 3em 0 1.5em 0;
+  padding: 3em 0 0.5em 0;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -364,7 +366,7 @@ header {
 .button-action-container {
   width: 15em;
   max-width: 75%;
-  margin: 2em auto;
+  margin: 1em auto;
   text-align: center;
   font-size: 1.25em;
 }
@@ -374,8 +376,7 @@ header {
   border-radius: 0.25em;
   text-align: center;
   padding: 1em 2em;
-/*  background-color: var(--bg-gold);
-*/}
+}
 
 .button-action:hover {
   border: 2px solid var(--bg-gold);

@@ -7,9 +7,9 @@ layout = "default"
 
 Ich bin hier um etwas zu verändern. Und dir dabei zu helfen.
 
-<div class="image-halfe">
+<!-- <div class="image-halfe">
 <img class="text-wrap" src="/img/verena2.jpg" alt="">
-</div>
+</div> -->
 
 Mein Weg war und ist alles andere als geradlinig. Und genau das liebe ich. Was manche als problematisch ansehen, das sehe ich als eine der besten Dinge überhaupt.
 
