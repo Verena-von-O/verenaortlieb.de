@@ -15,15 +15,15 @@
 <div class="doodle-flowers">
 <css-doodle>
   :doodle {
-   @grid: 5 / 98vmax;
+   @grid: 5 / 100vw;
     background: #fff;
   }
   @shape: clover 5;
   background: none;
   transform:
-    scale(@rand(.1, .8))
+    scale(@rand(.2, .8))
     translate(
-   		@rand(-40%, 40%), @rand(-40%, 40%)
+      @rand(-50%, 50%), @rand(-50%, 50%)
     );
     @col(1) {
   background: linear-gradient(hsla(
@@ -36,7 +36,6 @@
 	    41, 100%, 68%, .2));
 	}
 	 @row(even) {
- 	 background: #fff;
 	}
 </css-doodle>
 </div> 
