@@ -39,7 +39,7 @@ Möglich sind beispielsweise Erfahrungen wie…
 <br>
 
 
-<h2 class="highlight-dark">Die wichtige Frage ist: Bist du bereit für eine Veränderung?</h2>
+<h2 class="highlight-text">Die wichtige Frage ist: Bist du bereit für eine Veränderung?</h2>
 
 ### Wie funktioniert es?
 

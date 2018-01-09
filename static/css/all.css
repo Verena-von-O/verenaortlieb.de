@@ -9,7 +9,6 @@ html {
   --font-special: 'EB Garamond', serif;
   --font-normal: 'Open Sans', sans-serif;
   --font-hero: 'Nova Mono', monospace;
-
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -78,14 +77,15 @@ a {
 p a {
   color: var(--text-color);
   text-decoration: none;
-  border-bottom: 1px solid var(--bg-gold);
+  border-bottom: 1px solid var(--fun-color);
   font-weight: bolder;
   padding: 0 0.2em;
 }
 
 p a:hover {
-  color: var(--bg-light);
-  background-color: var(--bg-gold);
+  color: var(--text-color);
+  background-color: var(--fun-color);
+  border-bottom: 1px solid var(--fun-color);
 }
 
 ul {
@@ -109,12 +109,9 @@ strong {
   font-weight: 600;
 }
 
+
+
 /*header*/
-
-
-header {
-   background-color: var(--bg-gold)
-}
 
 .header-all {
   padding: 3em 0 0.5em 0;
@@ -123,7 +120,7 @@ header {
   justify-content: space-between;
   align-items: center;
   text-align: center;
-  margin-bottom: 4em;
+  margin-bottom: 6em;
 }
 
 .header-title h1 a {
@@ -131,11 +128,12 @@ header {
   font-family: var(--font-hero);
   font-size: 1.5em;
   font-weight: 600;
-  color: var(--white-text);
+  color: var(--text-color);
+  padding: 0.1em;
 }
 
 .header-title h1 a:hover {
-  color: var(--bg-light);
+  background-color: var(--fun-color);
 }
 
 .nav-header {
@@ -152,26 +150,41 @@ header {
 .nav-header div a {
   display: inline-block;
   text-decoration: none;
-  color: var(--white-text);
+  color: var(--text-color);
   position: relative;
   font-size: 1.2em;
   font-weight: 600;
   margin: 1em;
   padding: 0.25em; 
-  border-bottom: solid 2px rgba(3, 101, 100, 0.0);
-  transition: 0.25s ease-out;
+  border-bottom: solid 2px var(--white-text);
 }
 
 .nav-header div a:hover {
-  color: var(--bg-light);
-  border-bottom: solid 2px var(--bg-light);
-
+  border-bottom: solid 2px var(--fun-color);
+  background-color: var(--fun-color);
 }
 
 .nav-header div a.active {
-  color: var(--bg-light);
+  border-bottom: solid 2px var(--fun-color);
+  background-color: var(--fun-color);
 }
 
+.line {
+  border-bottom: 5px solid var(--fun-color);
+  width:75%;
+  position: absolute;
+  left: 0;
+  top: 11.5em;
+}
+
+.line-two {
+  border-bottom: 5px solid var(--fun-color);
+  width: 75%;
+  margin-top: 1em;
+  position: absolute;
+  right: 0;
+  top: 12em;
+}
 
 @media only screen and (max-width: 38em) {
   .header-title h1 a {
@@ -179,14 +192,30 @@ header {
 }
   .nav-header div a {
   font-size: 1em;
-  margin: 0.1em;
-  padding: 0.1em; 
+  margin: 0.4em;
+  padding: 0.4em; 
 }
 .nav-header div {
   padding: 1em 0.1em;
 }
 }
 
+@media only screen and (max-width: 28em) {
+  .header-all {
+    margin-bottom: 3em;
+  }
+  .nav-header div a {
+  font-size: 1em;
+  margin: 0.1em;
+  padding: 0.1em; 
+  }
+  .line {
+    top: 12.5em;
+  }
+  .line-two {
+    top: 13em;
+  }
+}
 
 /*site*/
 .site-content {
@@ -231,17 +260,18 @@ header {
   text-align: center;
   color: var(--text-color);
   margin-bottom: 1em;
-  border-bottom: 2px solid var(--fun-color);
+  border-bottom: 5px solid var(--fun-color);
   padding-bottom: 0.5em;
 }
 
-.highlight-dark {
+.highlight-text {
   padding: 1em 0;
   font-weight: 600;
   font-style: italic;
   text-align: center;
-  border-top: 2px solid var(--fun-color);
-  border-bottom: 2px solid var(--fun-color);
+  border-top: 5px solid var(--fun-color);
+  border-bottom: 5px solid var(--fun-color);
+  margin-top: -1em;
 }
 
 /*index*/
@@ -250,7 +280,7 @@ header {
   color: var(--text-color);
   font-weight: 600;
   margin-bottom: 2em;
-  border-bottom: 2px solid var(--fun-color);
+  border-bottom: 5px solid var(--fun-color);
   padding-bottom: 0.5em;
 }
 
@@ -278,17 +308,16 @@ header {
 .single-post-summary {
   padding-bottom: 3em;
   margin-bottom: 3em;
-  border-bottom: 2px solid var(--fun-color);
+  border-bottom: 5px solid var(--fun-color);
 }
 
 .titel-blog-summary {
   padding-bottom: 0.25em;
   padding-top: 0.35em;
-  color: var(--fun-color);
 }
 
 .titel-blog-summary:hover {
-  color: var(--text-color);
+  background-color: var(--fun-color);
 }
 
 .date-blog-summary {
@@ -311,7 +340,7 @@ header {
 }
 
 .read-more-blog-summary:hover {
-  color: var(--fun-color)
+  background-color: var(--fun-color);
 }
 
 
@@ -322,7 +351,7 @@ header {
 .post-title {
   margin-bottom: 1em;
   color: var(--text-color);
-  border-bottom: 2px solid var(--fun-color);
+  border-bottom: 5px solid var(--fun-color);
 }
 
 .post-date {
@@ -353,9 +382,11 @@ header {
 /*Call to action*/
 .call-to-action {
   margin-top: 4em; 
-  padding: 2em;
-  background-color: var(--bg-light);
+  padding: 1em;
+  background-color: var(--fun-color);
   text-align: center;
+  border-top: 5px solid var(--fun-color);
+  border-bottom: 5px solid var(--fun-color);
 }
 
 .call-to-action p {
@@ -373,22 +404,30 @@ header {
 
 .button-action {
   border: 2px solid var(--text-color);
-  border-radius: 0.25em;
+ /* color: var(--white-text);*/
+  border-radius: 0.2em;
   text-align: center;
   padding: 1em 2em;
 }
 
 .button-action:hover {
-  border: 2px solid var(--bg-gold);
-  color: var(--bg-light);
+  border: 2px solid var(--text-color);
+  color: var(--fun-color);
   transition: 0.1s;
-  background-color: var(--bg-gold);
+  background-color: var(--text-color);
+}
+
+@media only screen and (max-width: 58em) {
+.call-to-action p {
+  width: 85%;
+}
 }
 
 @media only screen and (max-width: 38em) {
 .button-action-container {
   font-size: 1.1em;
 }
+
 }
 
 
@@ -398,8 +437,7 @@ header {
 .footer {
   position: relative;
   text-align: center;
-  background-color: var(--bg-gold);
-  color: var(--white-text);
+  color: var(--text-color);
   padding: 1.5em;
 }
 
@@ -416,11 +454,7 @@ header {
 }
 
 .footer-extra a {
-  color: var(--white-text); 
-}
-
-.footer-extra a:hover {
-  color: var(--bg-light);
+  border-bottom: solid 2px var(--fun-color);
 }
 
 .footer-social {
@@ -432,27 +466,25 @@ header {
   width: 2.5em;
   height: 2.5em;
   padding: 0 0.5em;
-  background-image: url(/img/facebook-1.png);
+  background-image: url(/img/facebook-3.png);
   background-size: 2.5em 2.5em;
   background-repeat: no-repeat;
 }
 
 .social-facebook:hover {
-  background-image: url(/img/facebook-6.png);
-  transition: 0.1s;
+  background-image: url(/img/facebook-7.png);
 }
 
 .social-mail {
   width: 2.5em;
   height: 2.5em;
-  background-image: url(/img/mail-1.png);
+  background-image: url(/img/mail-3.png);
   background-size: 2.5em 2.5em;
   background-repeat: no-repeat;
 }
 
 .social-mail:hover {
-  background-image: url(/img/mail-6.png);
-  transition: 0.1s;
+  background-image: url(/img/mail-7.png);
 }
 
 @media only screen and (max-width: 38em) {
@@ -470,3 +502,13 @@ header {
   background-size: 2em 2em;
 }
 }
+
+
+
+.doodle-flowers {
+  margin-top: -10em;
+  position: absolute;
+  z-index: -100;
+}
+
+

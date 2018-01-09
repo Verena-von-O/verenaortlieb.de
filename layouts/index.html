@@ -4,14 +4,46 @@
 <head>
 		{{ partial "head.html" . }}
     <title>{{ .Site.Title }}</title>
-	</head>
+</head>
 
 <body>
+
 
 	{{ partial "header.html"  . }} 
 
 
+<div class="doodle-flowers">
+<css-doodle>
+  :doodle {
+   @grid: 5 / 98vmax;
+    background: #fff;
+  }
+  @shape: clover 5;
+  background: none;
+  transform:
+    scale(@rand(.1, .8))
+    translate(
+   		@rand(-40%, 40%), @rand(-40%, 40%)
+    );
+    @col(1) {
+  background: linear-gradient(hsla(
+    41, 100%, 68%, 1), hsla(
+    41, 100%, 68%, .2));
+	}
+	@col(5) {
+	  background: linear-gradient(hsla(
+	    41, 100%, 68%, 1), hsla(
+	    41, 100%, 68%, .2));
+	}
+	 @row(even) {
+ 	 background: #fff;
+	}
+</css-doodle>
+</div> 
+
+
 <div class="site-content">
+
 
 <h2 class="index-title">Bereit etwas zu verändern?</h2>
 
@@ -22,6 +54,8 @@
  <p>
  	Warum? Ohne wirklich zu verstehen warum wir tun was wir tun, warum wir uns selbst von Veränderung abhalten, warum wir reagieren wie wir es tun, ohne dieses warum kommen wir nicht weiter.
  </p>
+
+
 
  <p>
  	<strong>Wir kommen nicht all zu weit ohne zu verstehen warum. </strong>
@@ -44,6 +78,8 @@
 	{{ partial "footer.html" . }}
 
 	<script src="{{ .Site.BaseURL }}js/functions.js"></script>
+	<script src="{{ .Site.BaseURL }}js/css-doodle.js"></script>
+	
 	</body>
 </html>
 

@@ -2,12 +2,41 @@
 <html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
 
 <head>
+<title>Blog | {{ .Site.Title }}</title>
 	{{ partial "head.html" . }}
-  <title>Blog | {{ .Site.Title }}</title>
 </head>
 <body>
 
 	{{ partial "header.html"  . }}
+
+<div class="doodle-flowers">
+<css-doodle>
+  :doodle {
+   @grid: 5 / 98vmax;
+    background: #fff;
+  }
+  @shape: clover 5;
+  background: none;
+  transform:
+    scale(@rand(.1, .8))
+    translate(
+   		@rand(-40%, 40%), @rand(-40%, 40%)
+    );
+    @col(1) {
+  background: linear-gradient(hsla(
+    41, 100%, 68%, 1), hsla(
+    41, 100%, 68%, .2));
+	}
+	@col(5) {
+	  background: linear-gradient(hsla(
+	    41, 100%, 68%, 1), hsla(
+	    41, 100%, 68%, .2));
+	}
+ 	@row(even) {
+ 	 background: #fff;
+	}
+</css-doodle>
+</div>
 
 	<div class="site-content">
 
@@ -22,11 +51,7 @@
 					{{ .Title }}
 				</h2>
 				</a>
-				<!-- <a href="{{ .Permalink }}">
-				<img class="img-blog-summary" src="{{ .Site.BaseURL}}{{ .Params.image }}" alt="">
-				</a> -->
 				<p class="summary-blog-summary">{{ .Summary }}</p>
-
 				<a href="{{ .Permalink }}">
 					<p class="read-more-blog-summary">Weiter lesen...</p>
 				</a>
@@ -39,6 +64,7 @@
 	{{ partial "footer.html" . }}
 
 	<script src="{{ .Site.BaseURL }}js/functions.js"></script>
+	<script src="{{ .Site.BaseURL }}js/css-doodle.js"></script>
 
 </body>
 </html>
