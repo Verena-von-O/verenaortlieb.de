@@ -1,7 +1,8 @@
 +++
-title = "Mein Post zum Artikel “Ist alles was du über Depressionen denkst falsch?” von Johann Hari"
+title = "Ist alles was du über Depressionen denkst falsch?"
 date = "2018-01-13"
 layout = "blog"
+draft = true
 +++
 
 Sowohl bei meiner Arbeit als auch im privaten Leben komme ich immer wieder mit Depressionen in Berührung. Und mit den vielen, vielen Mythen die sich um dieses Thema gebildet haben sowie den großen Berührungsängsten.
