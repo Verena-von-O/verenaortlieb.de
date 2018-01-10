@@ -8,7 +8,7 @@ Wenn man in seinem Leben an den Punkt kommt dass man weiss dass sich etwas ände
 
 Rapid Transformational Therapy (kurz: RTT) wurde von [Marisa Peer](https://www.rapidtransformationaltherapy.com/whatisrtt/) entwickelt um Problemen schnell auf den Grund zu gehen und diese ebenso schnell zu beseitigen. Marisa Peer ist sein mehr als 30 Jahren sehr erfolgreich als Therapeutin tätig und hat sich entschlossen ihr Wissen in einer neuen Therapieform, dem RTT zu bündeln und weiter zu geben.
 
-In RTT werden das beste aus verschiedensten Bereichen kombiniert. Unter anderem gibt es Einflüsse aus der Hypnotherapie, NLP, Psychotherapie und kognitiver Verhaltenstherapie. Auf diese Weise wird ein umfassendes Werkzeug geschaffen das effektiv und vielseitig eingesetzt werden kann.
+RTT ist eine einzigartige Methode welche aus anderen Bereichen das beste nimmt und dieses weiterentwickelt und sich eigen macht. Unter anderem gibt es Einflüsse aus Hypnotherapie, NLP, Psychotherapie und kognitiver Verhaltenstherapie. Auf diese Weise wird ein umfassendes Werkzeug geschaffen das effektiv und vielseitig eingesetzt werden kann.
 
 ### RTT ist effektiv
 

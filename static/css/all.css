@@ -109,6 +109,12 @@ strong {
   font-weight: 600;
 }
 
+.seperator-text {
+  border-bottom: 3px solid var(--fun-color);
+  width: 25%;
+  margin: 1.5em auto;
+}
+
 
 
 /*header*/
@@ -502,6 +508,8 @@ strong {
   margin: -8em auto 0 auto;
   position: absolute;
   z-index: -100;
+  opacity: 0.5;
+  display: none;
 }
 
 @media only screen and (max-width: 38em) {
