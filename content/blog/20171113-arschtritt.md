@@ -4,11 +4,11 @@ date = "2017-11-13"
 layout = "blog"
 +++
 
-Ok, lass uns eine Sache kurz klarstellen: Du wirst eines Tages sterben. 
+Ok, lass uns eine Sache kurz klarstellen: Du wirst eines Tages sterben.
 
 Das passiert dir, das passiert mir, das passiert früher oder später alles von uns (soweit ich weiss).
 
-Und noch etwas: Meistens behandelst du deine Zeit so, als hättest du einen unendlichen Vorrat davon. Als würde das Ende nicht irgendwann bevor stehen. Und du verschwendest Stunden, Tage, Monate und Jahre mit Dingen die du eigentlich garnicht tun willst statt Dinge zu tun dich dich glücklich machen und deinem Leben einen Sinn geben. 
+Und noch etwas: Meistens behandelst du deine Zeit so, als hättest du einen unendlichen Vorrat davon. Als würde das Ende nicht irgendwann bevor stehen. Und du verschwendest Stunden, Tage, Monate und Jahre mit Dingen die du eigentlich gar nicht tun willst statt Dinge zu tun, dich dich glücklich machen und deinem Leben einen Sinn geben.
 
 Dies ist dein Leben. Und du hast nur dieses eine. Es gibt keine zweite Change, keine Wiederholung, keinen weiteren Versuch. Jeder Moment den du verschwendest wirst du nicht zurück bekommen.
 
@@ -16,11 +16,11 @@ Also hör endlich damit auf Zeit zu verschwenden und fange an dein Leben zu lebe
 
 Du willst dein eigenes Unternehmen gründen? Hör auf Pro und Contra abzuwägen und fange an daran zu arbeiten. 
 
-Du willst ein Buch schreiben? Höre auf andere Bücher zur inspiration zu lesen und beginne zu schreiben. 
+Du willst ein Buch schreiben? Höre auf andere Bücher zur Inspiration zu lesen und beginne zu schreiben. 
 
 Du hasst deinen Job? Ändere etwas daran!
 
-Du bist ein einer Beziehung die dich nicht glücklich macht? Dann ändere deinen Beziehungsstatus.
+Du bist in einer Beziehung die dich nicht glücklich macht? Dann ändere deinen Beziehungsstatus. Nicht nur auf Facebook!
 
 Du möchtest einen Marathon laufen? Dann zieh deine Laufschuhe an und lauf los (vielleicht nicht gleich den ganzen Marathon beim ersten Mal).
 
@@ -28,7 +28,7 @@ Warum du bisher nicht angefangen hast? Du bist weder faul noch unmotiviert oder 
 
 Vielleicht ist es die Angst zu versagen, die Angst einen Fehler zu machen, die Angst deine Komfortzone zu verlassen oder eine von Millionen anderen Möglichkeiten der Angst. Und das ist normal, da Veränderung immer Angst macht. 
 
-Unser Gehirn möchte uns beschützen. Und das kann es nur machen wenn es weiss was passiert. Wenn du also zu etwas neuem aufbrichst, dann wird automatisch in Panik Modus geschaltet. Das ist eine ganz normale Reaktion. Die haben wir alle. 
+Unser Gehirn möchte uns beschützen. Und das kann es nur machen wenn es weiss was passiert. Wenn du also zu etwas Neuem aufbrichst, dann wird automatisch in Panik Modus geschaltet. Das ist eine ganz normale Reaktion. Die haben wir alle. 
 
 Aber es ist deine Entscheidung wie du damit umgehst. Ob du aufgibst oder endlich Verantwortung für dein Leben übernimmst und beginnst.
 
