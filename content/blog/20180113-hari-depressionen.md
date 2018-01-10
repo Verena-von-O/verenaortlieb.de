@@ -5,7 +5,7 @@ layout = "blog"
 draft = true
 +++
 
-Sowohl bei meiner Arbeit als auch im privaten Leben komme ich immer wieder mit Depressionen in Berührung. Und mit den vielen, vielen Mythen die sich um dieses Thema gebildet haben sowie den großen Berührungsängsten.
+Sowohl bei meiner Arbeit als auch im privaten Leben komme ich immer wieder mit Depressionen in Berührung. Sowie mit den vielen Mythen die sich um dieses Thema gebildet haben als auch den großen Berührungsängsten.
 
 Wer weiss schon was wirklich zu tun ist, wenn jemand im eigenen Umfeld, geschweige denn man selbst, Depressionen hat? 
 
@@ -27,27 +27,27 @@ Dr. Joanne Cacciatore, die selbst ihr Baby während der Geburt verloren hat, sag
 
 Eines der größten Mysterien rund um das Thema Depressionen ist Serotonin. 
 
-Serotonin ist ein Stoff der im Gehirn produziert wird. Und wenn zu wenig davon produziert wird, dann hat man Depressionen. Punkt. So einfach ist das. Um das Serotonin zu puschen gibt es dann eine Pille und dann geht es einem wieder gut. Zumindest für einige Zeit, dann wird aber einfach die Dosis erhöht und schon ist wieder alles gut. Und so weiter. 
+Serotonin ist ein Stoff der im Gehirn produziert wird. Und wenn zu wenig davon produziert wird, dann bekommst du Depressionen. Punkt. So einfach ist das. Um das Serotonin zu puschen gibt es dann eine Pille und dann geht es dir wieder gut. Zumindest für einige Zeit, dann wird aber einfach die Dosis erhöht und schon ist wieder alles gut. Und so weiter. 
 
-Da auch Johann Hari, wie so viele anderen, schon als Teenager die ersten Antidepressiva verschrieben bekam, welche nach und nach erhöht wurden, fragte er sich eines Tages wie es sein kann, dass er alles macht was ihm gesagt wurde aber er trotzdem immer mehr Medikamente braucht und sich trotzdem nicht wirklich besser fühlt. ::Der Satz ist sehr lang und verschachtelt. Vielleicht splitten::
+Da auch Johann Hari, wie so viele anderen, schon als Teenager die ersten Antidepressiva verschrieben bekam, welche nach und nach erhöht wurden, fragte er sich eines Tages wie es sein kann. Er macht alles, was ihm gesagt wird aber er trotzdem braucht er immer mehr Medikamente und fühlt sich trotzdem nicht wirklich besser.
 
-Heutzutage nimmt einer von 5 erwachsenen US Amerikanern und 1 von 11 erwachsenen Briten verschriebene Antidepressiva. Diese Werte verdoppelten sich in den letzten 10 Jahren.  
+Heute nimmt einer von 5 erwachsenen US Amerikanern und 1 von 11 erwachsenen Briten verschriebene Antidepressiva. Diese Werte verdoppelten sich in den letzten 10 Jahren.  
 
 Johann Hari fragt nun ob es wirklich sein kann, dass sich die chemische Balance all dieser Menschen so massiv verschlechtert hat in so kurzer Zeit. **Oder ob es doch andere Gründe gibt als das berühmte Serotonin.**
 
-Johann Hari machte sich also auf den Weg um die Welt um mit Experten zu sprechen und mit Menschen die Depressionen hinter sich gelassen haben. Er identifizierte 9 Faktoren für Depressionen von denen 2 biologisch sind.
+Johann Hari macht sich also auf den Weg um die Welt um mit Experten zu sprechen und mit Menschen die Depressionen hinter sich gelassen haben. Er identifizierte 9 Faktoren für Depressionen von denen 2 biologisch sind.
 
-Um noch genauer zu verstehen warum heutzutage so viel auf Antidepressiva und Serotonin gesetzt wird hat sich Johann Hari auf die Suche gemacht nach dem Ursprung. 
+Um noch genauer zu verstehen warum heute so viel auf Antidepressiva und Serotonin gesetzt wird hat sich Johann Hari auf die Suche gemacht nach dem Ursprung. 
 
-Er fand heraus dass die meisten der Studien die gemacht wurden um die Wirkung von Antidepressiva zu bestätigen von den Medikamentenherstellern selbst gemacht wurden. Und nicht nur das, sondern es wurden nun die Ergebnisse veröffentlich von den Patienten die auch Erfolge zeigten. Beispielsweise wurde in einer Studie mit 245 Patienten nur die Ergebnisse von 27 Patienten veröffentlicht. Die 27 bei der das Medikament eine Verbesserung gezeigt hat.
+Er fand heraus, dass die meisten der Studien die gemacht wurden um die Wirkung von Antidepressiva zu bestätigen von den Medikamentenherstellern selbst gemacht wurden. Und nicht nur das, sondern es wurden nun die Ergebnisse veröffentlich von den Patienten die auch Erfolge zeigten. Beispielsweise wurde in einer Studie mit 245 Patienten nur die Ergebnisse von 27 Patienten veröffentlicht. Die 27 bei der das Medikament eine Verbesserung gezeigt hat.
 
 **Heute wurde in unabhängigen Studien festgestellt, dass 65 bis 80% der Menschen die Antidepressiva nehmen nach einem Jahr wieder depressiv sind.**
 
 Ja, Antidepressiva haben eine positive Wirkung auf einige Menschen. Und für manche ist es der richtige Weg. Aber sie sind kein Allheilmittel für alle. Antidepressiva sind eine Möglichkeit, aber zu oft wird sie als einzige Möglichkeit vorgestellt. 
 
-Professor Irving Kirsch von der Harvard University stellte sich nach diesen Erkenntnissen die Frage, was es mit dem Serotonin wirklich auf sich hat. Nach einiger Recherche Arbeit stellt er fest, dass die Beweislage hierfür sehr dürftig ist. Dr David Healy sagt, dass es nie einen Basis für die Aussage gab, es war reines Marketing der Medikamentenfirmen.
+Professor Irving Kirsch von der Harvard University stellte sich nach diesen Erkenntnissen die Frage, was es mit dem Serotonin wirklich auf sich hat. Nach einiger Recherche stellt er fest, dass die Beweislage hierfür sehr dürftig ist. Dr. David Healy sagt, dass es nie einen Basis für die Aussage gab, es war reines Marketing der Medikamentenfirmen.
 
-Nach all diesen Erkenntnissen erläutert Johann Hari, dass der Mensch nicht nur physikalische Bedürfnisse wie Nahrung, Wasser und ein Dach über dem Kopf hat, sondern auch psychische Bedürfnisse. Hierzu gehören beispielsweise das Gefühl dazu zu gehören, einen Sinn zu haben und dass das eigene Leben einen Wert hat. Und diese Bedürfnisse sind in der heutigen Gesellschaft für die meisten Menschen nicht gedeckt. Das nicht decken dieser Bedürfnissen führ zu der bestehenden Epidemie an Depressionen und Angstzuständen.
+Nach all diesen Erkenntnissen erläutert Johann Hari, dass der Mensch nicht nur physische Bedürfnisse wie Nahrung, Wasser und ein Dach über dem Kopf hat, sondern auch psychische Bedürfnisse. Hierzu gehören beispielsweise das Gefühl dazu zu gehören, einen Sinn zu haben und dass das eigene Leben einen Wert hat. Und diese Bedürfnisse sind in der heutigen Gesellschaft für die meisten Menschen nicht gedeckt. Das nicht decken dieser Bedürfnissen führ zu der bestehenden Epidemie an Depressionen und Angstzuständen.
 
 Wenn wir dies nun verstehen, dann lässt sich das Problem anders betrachten und angehen. Es sieht also so aus als müssten Menschen einen Sinn in ihrem Leben haben. Einen Grund für das Dasein, das Gefühl einen Unterschied zu erzielen. Das womit wir die meiste Zeit in unserem Leben verbringen ist Arbeiten. 2011/2012 wurde eine Studie durchgeführt die feststellt, dass nur 13% der Arbeitnehmer denken, dass sie einen bedeutsamen Job haben und einen Unterscheid machen. Das lässt also 87% die ihre Arbeit nicht wirklich mögen. Natürlich zu unterschiedlichen Graden.
 
@@ -57,7 +57,7 @@ Er stellt fest, dass wenn du keine Kontrolle über deine Arbeit hast, du das gr�
 
 Aber die Ergebnisse zu denen Johann Hari in seinem Buch kommt sind nicht nur seine eigene Meinung. Sie werden unter anderem von den United Nations am [World Health Day in 2017](http://www.who.int/campaigns/world-health-day/2017/en/) unterstrichen. So sagen sie, dass bisherige, einseitige und selektive Forschung zum Thema Depressionen und Antidepressiva verlassen werden muss. Es soll von einem “chemischen Ungleichgewicht” abgekommen werden. 
 
-Depressionen zu haben ist keine Einbildung. Es ist nichts was man einfach so abschalten kann indem dass man sich zusammen reißt. Depressionen sind eine Einladung tiefer zu schauen. Welche psychischen Bedürfnisse werden nicht gedeckt? Höre darauf was dein Körper und Geist dir sagen. 
+Depressionen zu haben ist keine Einbildung. Es ist nichts was man einfach so abschalten kann indem dass man sich zusammen reißt. Depressionen sind eine Einladung tiefer zu schauen. Welche psychischen Bedürfnisse werden nicht gedeckt? Was wollen dein Körper und Geist dir sagen? 
 
 Depressionen sind nicht nur ein Zeichen dafür, dass es dir schlecht geht, sondern dass es der Gesellschaft schlecht geht. Depressionen zeigen uns, dass wir auf einem falschen Weg sind. Wir müssen wieder Kontakt knüpfen. Kontakt zu anderen Menschen, Kontakt zu unserer Umwelt aber ganz wichtig, auch Kontakt zu uns.
 
