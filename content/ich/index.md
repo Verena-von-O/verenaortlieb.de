@@ -1,6 +1,9 @@
 +++
 title = "Ich"
 layout = "default"
+[menu.main]
+identifier = "ich"
+weight = 1
 +++
 
 <h2 class="sub-side-hero">Hallo, ich bin Verena.</h2>

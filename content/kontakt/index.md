@@ -1,6 +1,9 @@
 +++
-title = "Ich"
+title = "Kontakt"
 layout = "default"
+[menu.main]
+identifier = "contact"
+weight = 6
 +++
 
 <h2 class="sub-side-hero">Hallo, bereit etwas zu verändern?</h2>

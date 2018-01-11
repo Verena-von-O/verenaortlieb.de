@@ -1,6 +1,9 @@
 +++
 title = "Lob"
 layout = "default"
+[menu.main]
+identifier = "lob"
+weight = 4
 +++
 
 

@@ -1,6 +1,9 @@
 +++
 title = "Coaching"
 layout = "default"
+[menu.main]
+identifier = "coaching"
+weight = 3
 +++
 
 

@@ -1,6 +1,9 @@
 +++
 title = "Du"
 layout = "default"
+[menu.main]
+identifier = "du"
+weight = 2
 +++
 
 <h2 class="sub-side-hero">Hört sich das nach dir an...</h2>
