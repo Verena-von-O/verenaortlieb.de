@@ -28,7 +28,7 @@ layout = "default"
 </p>
 
 <p>
-"Nachdem ich jahrelang versucht habe Familie und Beruf unter einen Hut zu bekommen habe ich germerkt dass ich in diesem Prozess mich vergessen habe. Durch die Hilfe von Verena konnte ich nicht nur herausfinden woran dies lag sonder auch wie ich das ändern kann. Nun habe ich nicht nur die Famile und den Beruf den ich mich immer gewünscht habe sondern bin dabei auch glücklich und zufrienden mit mir selbst. Ich kann jedem nur empfehlen mit Verena zu arbeiten, sie wird euer Leben verändern " <br>
+"Nachdem ich jahrelang versucht habe Familie und Beruf unter einen Hut zu bekommen habe ich gemerkt dass ich in diesem Prozess mich vergessen habe. Durch die Hilfe von Verena konnte ich nicht nur herausfinden woran dies lag sonder auch wie ich das ändern kann. Nun habe ich nicht nur die Familie und den Beruf den ich mich immer gewünscht habe sondern bin dabei auch glücklich und zufrieden mit mir selbst. Ich kann jedem nur empfehlen mit Verena zu arbeiten, sie wird euer Leben verändern " <br>
 <strong>- Sophie C.</strong>
 </p>
 

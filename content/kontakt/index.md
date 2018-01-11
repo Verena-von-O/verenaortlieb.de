@@ -31,7 +31,7 @@ Da ich Vollzeit reise (ja, das ist möglich und macht mega Spass) habe ich keine
 
 #### Ist online nicht schlechter als offline?
 
-Ganz und garnicht. Die Ergebnisse in einer online Sitzung sind die selben wie in einer offline Sitzung. Und es hat sogar einige Vorteile. Du musst dich nicht hübsch anziehen, das Haus verlassen und den Weg zu mir aufnehmen sondern wir können uns ganz einfach und gemütlich in deiner gewohnten Umgebung "treffen".
+Ganz und gar nicht. Die Ergebnisse in einer online Sitzung sind die selben wie in einer offline Sitzung. Und es hat sogar einige Vorteile. Du musst dich nicht hübsch anziehen, das Haus verlassen und den Weg zu mir aufnehmen sondern wir können uns ganz einfach und gemütlich in deiner gewohnten Umgebung "treffen".
 
 #### Kann ich auch einfach nur Hallo sagen?
 

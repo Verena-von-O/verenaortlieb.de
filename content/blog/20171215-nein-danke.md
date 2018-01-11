@@ -8,11 +8,11 @@ Vor kurzem hat mich eine Freundin angeschrieben mit einer Frage. Sie wurde zu ei
 
 Und wer kennt die Situation nicht. Eine Einladung zu einer Party auf die man nicht gehen möchte und bei der man niemanden wirklich kennt. Ein Abendessen mit der entfernen Verwandtschaft dem man fern bleiben möchte. Der Beteiligung an einem Geschenk für einen Kollegen den man nicht mal wirklich kennt und bisher nur 2 Mal gesehen hat. Und trotzdem fühlt man diesen Druck und möchte nicht wirklich nein sagen.
 
-Damit habe ich über Jahre hinweg gehadert. Ich würde zu Parties gehen auf die ich nicht gehen wollte, mich an Geschenken beteiligen für Menschen die ich nicht kenne und freundlich lächeln bei Mittagessen mit Kollegen mit denen ich nichts gemeinsam hatte. 
+Damit habe ich über Jahre hinweg gehadert. Ich würde zu Partys gehen auf die ich nicht gehen wollte, mich an Geschenken beteiligen für Menschen die ich nicht kenne und freundlich lächeln bei Mittagessen mit Kollegen mit denen ich nichts gemeinsam hatte. 
 
 Es ist schwierig “Nein” zu sagen denn dann wird man komisch angeschaut und Leute denken schlecht über einen und man wird als Außenseiter oder Langweiler abgestempelt.
 
-Apropos Langweiler, vor einer Weile habe ich mich dazu entschlossen eine Party schon um 22 Uhr zu verlassen. Vor allem weil ich müde war aber auch weil ich doch recht introvertiert bin und Parties nicht immer sonderlich gerne mag. Aber nach der Entscheidung hat das verabschieden dann nochmal eine halbe Stunde gedauert denn jeder dem ich “Tschüß.” sagen wollte fing an mit “Geh noch nicht!” “Bleib doch noch für ein wenig.” “Die Party hat ja noch garnicht angefangen.” und “Sei doch nicht so langweilig.”
+Apropos Langweiler, vor einer Weile habe ich mich dazu entschlossen eine Party schon um 22 Uhr zu verlassen. Vor allem weil ich müde war aber auch weil ich doch recht introvertiert bin und Partys nicht immer sonderlich gerne mag. Aber nach der Entscheidung hat das verabschieden dann nochmal eine halbe Stunde gedauert denn jeder dem ich “Tschüss.” sagen wollte fing an mit “Geh noch nicht!” “Bleib doch noch für ein wenig.” “Die Party hat ja noch gar nicht angefangen.” und “Sei doch nicht so langweilig.”
 
 Ich bin trotzdem gegangen. Trotz des Zwangs und des komischen Gefühls ins mir nicht dazu zu gehören. Und jeder hält mich jetzt für langweilig. Und dazu gehören tun ich jetzt sowieso nicht mehr.
 

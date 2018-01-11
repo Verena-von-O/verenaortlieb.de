@@ -39,7 +39,7 @@ Johann Hari macht sich also auf den Weg um die Welt um mit Experten zu sprechen 
 
 Um noch genauer zu verstehen warum heute so viel auf Antidepressiva und Serotonin gesetzt wird hat sich Johann Hari auf die Suche gemacht nach dem Ursprung. 
 
-Er fand heraus, dass die meisten der Studien die gemacht wurden um die Wirkung von Antidepressiva zu bestätigen von den Medikamentenherstellern selbst gemacht wurden. Und nicht nur das, sondern es wurden nun die Ergebnisse veröffentlich von den Patienten die auch Erfolge zeigten. Beispielsweise wurde in einer Studie mit 245 Patienten nur die Ergebnisse von 27 Patienten veröffentlicht. Die 27 bei der das Medikament eine Verbesserung gezeigt hat.
+Er fand heraus, dass die meisten der Studien die gemacht wurden um die Wirkung von Antidepressiva zu bestätigen von den Medikamentenherstellern selbst gemacht wurden. Und nicht nur das, sondern es wurden nun die Ergebnisse veröffentlicht von den Patienten die auch Erfolge zeigten. Beispielsweise wurde in einer Studie mit 245 Patienten nur die Ergebnisse von 27 Patienten veröffentlicht. Die 27 bei der das Medikament eine Verbesserung gezeigt hat.
 
 **Heute wurde in unabhängigen Studien festgestellt, dass 65 bis 80% der Menschen die Antidepressiva nehmen nach einem Jahr wieder depressiv sind.**
 
@@ -47,9 +47,9 @@ Ja, Antidepressiva haben eine positive Wirkung auf einige Menschen. Und für man
 
 Professor Irving Kirsch von der Harvard University stellte sich nach diesen Erkenntnissen die Frage, was es mit dem Serotonin wirklich auf sich hat. Nach einiger Recherche stellt er fest, dass die Beweislage hierfür sehr dürftig ist. Dr. David Healy sagt, dass es nie einen Basis für die Aussage gab, es war reines Marketing der Medikamentenfirmen.
 
-Nach all diesen Erkenntnissen erläutert Johann Hari, dass der Mensch nicht nur physische Bedürfnisse wie Nahrung, Wasser und ein Dach über dem Kopf hat, sondern auch psychische Bedürfnisse. Hierzu gehören beispielsweise das Gefühl dazu zu gehören, einen Sinn zu haben und dass das eigene Leben einen Wert hat. Und diese Bedürfnisse sind in der heutigen Gesellschaft für die meisten Menschen nicht gedeckt. Das nicht decken dieser Bedürfnissen führ zu der bestehenden Epidemie an Depressionen und Angstzuständen.
+Nach all diesen Erkenntnissen erläutert Johann Hari, dass der Mensch nicht nur physische Bedürfnisse wie Nahrung, Wasser und ein Dach über dem Kopf hat, sondern auch psychische Bedürfnisse. Hierzu gehören beispielsweise das Gefühl dazu zu gehören, einen Sinn zu haben und dass das eigene Leben einen Wert hat. Und diese Bedürfnisse sind in der heutigen Gesellschaft für die meisten Menschen nicht gedeckt. Das nicht decken dieser Bedürfnissen führt zu der bestehenden Epidemie an Depressionen und Angstzuständen.
 
-Wenn wir dies nun verstehen, dann lässt sich das Problem anders betrachten und angehen. Es sieht also so aus als müssten Menschen einen Sinn in ihrem Leben haben. Einen Grund für das Dasein, das Gefühl einen Unterschied zu erzielen. Das womit wir die meiste Zeit in unserem Leben verbringen ist Arbeiten. 2011/2012 wurde eine Studie durchgeführt die feststellt, dass nur 13% der Arbeitnehmer denken, dass sie einen bedeutsamen Job haben und einen Unterscheid machen. Das lässt also 87% die ihre Arbeit nicht wirklich mögen. Natürlich zu unterschiedlichen Graden.
+Wenn wir dies nun verstehen, dann lässt sich das Problem anders betrachten und angehen. Es sieht also so aus als müssten Menschen einen Sinn in ihrem Leben haben. Einen Grund für das Dasein, das Gefühl einen Unterschied zu erzielen. Das womit wir die meiste Zeit in unserem Leben verbringen ist Arbeiten. 2011/2012 wurde eine Studie durchgeführt die feststellt, dass nur 13% der Arbeitnehmer denken, dass sie einen bedeutsamen Job haben und einen Unterschied machen. Das lässt also 87% die ihre Arbeit nicht wirklich mögen. Natürlich zu unterschiedlichen Graden.
 
 Der Australier Michael Marmot hat schon in den 1970er Jahren untersucht, was Stress am Arbeitsplatz verursacht. Er unterteilte ein Unternehmen in 19 Schichten, vom Top-Management zum untersten Angestellten. Er stellte die Frage, wer am ehesten einen stressbedingten Herzinfarkt erleiden würde. Der oberste Boss oder jemand darunter?
 
@@ -67,4 +67,4 @@ Dies war eine Zusammenfassung mit meinen eigenen Worten und auch meinen eigenen 
 
 <div class="seperator-text"></div>
 
-Leidest du auch an Depressionen oder kennst du jemand der Hilfe braucht? Dann informiere dich und sprich darüber. Nur wenn immer mehr Menschen sich damit auseinandersetzen und Depressionen ins Licht holen kann geholfen werden. Nicht nur dem einzelnen Manschen sondern auch der ganzen Gesellschaft.
+Leidest du auch an Depressionen oder kennst du jemand der Hilfe braucht? Dann informiere dich und sprich darüber. Nur wenn immer mehr Menschen sich damit auseinandersetzen und Depressionen ins Licht holen kann geholfen werden. Nicht nur dem einzelnen Menschen sondern auch der ganzen Gesellschaft.

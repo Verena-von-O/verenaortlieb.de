@@ -10,9 +10,9 @@ Das passiert dir, das passiert mir, das passiert früher oder später allen von 
 
 Und noch etwas: Meistens behandelst du deine Zeit so, als hättest du einen unendlichen Vorrat davon. Als würde das Ende nicht irgendwann bevor stehen. Und du verschwendest Stunden, Tage, Monate und Jahre mit Dingen die du eigentlich gar nicht tun willst statt Dinge zu tun, dich dich glücklich machen und deinem Leben einen Sinn geben.
 
-Dies ist dein Leben. Und du hast nur dieses eine. Es gibt keine zweite Change, keine Wiederholung, keinen weiteren Versuch. Keinen Moment den du verschwendest wirst du zurück bekommen.
+Dies ist dein Leben. Und du hast nur dieses eine. Es gibt keine zweite Chance, keine Wiederholung, keinen weiteren Versuch. Keinen Moment den du verschwendest wirst du zurück bekommen.
 
-Also hör endlich damit auf Zeit zu verschwenden und fange an dein Leben zu leben als wäre es dein einziges, denn dies ist es nunmal. Höre auf Dinge zu verschieben auf den richtigen Zeitpunkt, denn der Zeitpunkt wird nie gut genug sein. Weder nächste Woche noch nächsten Monat noch am 1. Januar wird die Zeit richtig sein. Also kannst du auch gleich damit anfangen.
+Also hör endlich damit auf Zeit zu verschwenden und fange an dein Leben zu leben als wäre es dein einziges, denn dies ist es nun mal. Höre auf Dinge zu verschieben auf den richtigen Zeitpunkt, denn der Zeitpunkt wird nie gut genug sein. Weder nächste Woche noch nächsten Monat noch am 1. Januar wird die Zeit richtig sein. Also kannst du auch gleich damit anfangen.
 
 Du willst dein eigenes Unternehmen gründen? Hör auf Pro und Contra abzuwägen und fange an daran zu arbeiten. 
 
