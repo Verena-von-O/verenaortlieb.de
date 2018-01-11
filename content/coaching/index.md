@@ -13,7 +13,7 @@ Nicht nur effektiv sondern auch schnell hilft das Rapid Transformational Coachin
 
 ### Was ist RTC?
 
-Rapid Transformational Coaching (RTC) ist die Verbindung der innovativen [Rapid Transformational Therapy (RTT)](/blog/was-ist-rtt/) von Marisa Peer mit fundierten Coaching-Tools. Diese Verbindung macht RTC **schnell, transformativ und dauerhaft**.
+Rapid Transformational Coaching (RTC) ist die Verbindung der innovativen [Rapid Transformational Therapy (RTT)](/blog/20171201-was-ist-rtt) von Marisa Peer mit fundierten Coaching-Tools. Diese Verbindung macht RTC **schnell, transformativ und dauerhaft**.
 
 ### Was macht RTC anders?
 

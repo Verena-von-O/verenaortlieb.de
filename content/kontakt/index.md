@@ -11,7 +11,7 @@ Das freut mich zu hören. Schicke mir eine Nachricht per Mail an <a href="mailto
 
 #### Ich bin mir nicht sicher ob Coaching das richtige für mich ist. Wie finde ich das raus?
 
-Die meisten Menschen kommen auf Coaching aus dem gleichen Grund aus dem sie an dieser Stelle zweifeln. Irgendetwas in ihrem Leben hält sie zurück. Und wenn auch du zweifelst, dann weisst du dass das ok ist. Andere sind hier weiter gegangen. Darüber lesen kannst du [hier](/lob). Und wenn das noch nicht hilft, dann versuche [das hier](/blog/arschtritt)! 
+Die meisten Menschen kommen auf Coaching aus dem gleichen Grund aus dem sie an dieser Stelle zweifeln. Irgendetwas in ihrem Leben hält sie zurück. Und wenn auch du zweifelst, dann weisst du dass das ok ist. Andere sind hier weiter gegangen. Darüber lesen kannst du [hier](/lob). Und wenn das noch nicht hilft, dann versuche [das hier](/blog/20171113-arschtritt)! 
 
 #### Welche Coaching Optionen gibt es?
 
@@ -23,7 +23,7 @@ Je nachdem welche Coaching Option für dich in Frage kommt kostet es auch etwas 
 
 #### Was ist RTT?
 
-RTT ist die von Marisa Peer entwickelte Methode die auch Rapid Transformation Therapy genannt wird. Mehr darüber lesen kannst du [hier](/blog/was-ist-rtt).
+RTT ist die von Marisa Peer entwickelte Methode die auch Rapid Transformation Therapy genannt wird. Mehr darüber lesen kannst du [hier](/blog/20171201-was-ist-rtt).
 
 #### Wo findet das Coaching statt?
 
