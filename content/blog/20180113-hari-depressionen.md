@@ -2,6 +2,7 @@
 title = "Ist alles was du über Depressionen denkst falsch?"
 date = "2018-01-13"
 layout = "blog"
+slug = "hari-depressionen"
 draft = true
 +++
 

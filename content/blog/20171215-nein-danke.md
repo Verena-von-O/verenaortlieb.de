@@ -1,5 +1,5 @@
 +++
-title = "Nein, danke."
+title = "Nein, danke"
 date = "2017-12-15"
 layout = "blog"
 +++

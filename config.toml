@@ -4,6 +4,8 @@ copyright = "This work is licensed under a Creative Commons Attribution-ShareAli
 
 baseurl = "https://www.verenaortlieb.de/"
 
+[permalinks]
+  blog = "/blog/:slug/"
 
 [author]
   name = "Verena Ortlieb"
