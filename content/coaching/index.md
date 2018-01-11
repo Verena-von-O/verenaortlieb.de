@@ -1,7 +1,6 @@
 +++
 title = "Coaching"
 layout = "default"
-img = "/img/pfau.jpg"
 +++
 
 
@@ -49,7 +48,7 @@ Die RTC Erfahrung beginnt mit einem tiefgründigen Coaching welches deine **Wün
 
 #### Schritt 2: Neuprogrammierung
 
-Wenn die emotionalen und/oder körperlichen Blockaden identifiziert sind nutzen wir die [RTT Methode](/blog/was-ist-rtt/) von Marisa Peer um die **Wurzel dieser Blockaden offen zu legen und neu zu programmieren**. Diese werden buchstäblich auf einer unterbewussten Ebene aus deinem Kopf genommen.
+Wenn die emotionalen und/oder körperlichen Blockaden identifiziert sind nutzen wir die [RTT Methode](/blog/20171201-was-ist-rtt) von Marisa Peer um die **Wurzel dieser Blockaden offen zu legen und neu zu programmieren**. Diese werden buchstäblich auf einer unterbewussten Ebene aus deinem Kopf genommen.
 
 #### Schritt 3: Transformation
 
