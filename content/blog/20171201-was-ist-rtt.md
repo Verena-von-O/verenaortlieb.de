@@ -2,6 +2,7 @@
 title = "Was ist RTT?"
 date = "2017-12-01"
 layout = "blog"
+slug = "was-ist-rtt"
 +++
 
 Wenn man in seinem Leben an den Punkt kommt dass man weiss dass sich etwas ändern muss, dann möchte man das sofort und nicht erst irgendwann. Und genau hier kommt RTT ins Spiel.	

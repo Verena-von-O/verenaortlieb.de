@@ -1,6 +1,7 @@
 +++
 title = "Der Arschtritt."
 date = "2017-11-13"
+slug = "arschtritt"
 layout = "blog"
 +++
 

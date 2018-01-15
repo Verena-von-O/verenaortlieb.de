@@ -2,6 +2,7 @@
 title = "Nein, danke"
 date = "2017-12-15"
 layout = "blog"
+slug = "nein-danke"
 +++
 
 Vor kurzem hat mich eine Freundin angeschrieben mit einer Frage. Sie wurde zu einer Hochzeitsfeier eingeladen von jemandem den sie früher gut kannte aber jetzt kaum noch Kontakt hat. Und außerdem nicht mal mehr wirklich gerne mag. Sie fragte was sie nun machen soll. Sie möchte nicht gehen aber findet es auch falsch eine Ausrede zu erfinden nur um aus der Situation raus zu kommen. Ich schlug vor zu antworten “Danke für die Einladung, leider kann ich nicht kommen. Habt eine schöne Feier.”
