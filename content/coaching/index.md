@@ -62,6 +62,6 @@ Wöchentliche oder zweiwöchentliche Coaching Sitzungen in Zusammenarbeit mit ei
 Durch die Integration des neuen Verhaltens, der neuen Überzeugungen und Gewohnheiten werden **weitere Bereiche** aufgedeckt, welche durch RTT und Coaching nach und nach jeden Bereich deines Lebens verändern werden.
 
 
-### Was kostet RTC?
+<!-- ### Was kostet RTC?
 
-Eine einzelne RTT Sitzung inklusive persönlicher Aufnahme und einem Termin zur Nachbesprechung kostet 300 Euro. Wenn du mehr haben möchtest, dann passt sich der Preis dementsprechend an. Für mehr Informationen über die verschiedenen Möglichkeiten und Preise schreibe mir einfach eine [E-Mail](mailto:verena@verenaortlieb.de{:target="_blank"}) um einen Beratungstermin zu vereinbaren. Dann können wir besprechen welches Angebot deinen Bedürfnissen und deinem Budget entsprechen.
+Eine einzelne RTT Sitzung inklusive persönlicher Aufnahme und einem Termin zur Nachbesprechung kostet 300 Euro. Wenn du mehr haben möchtest, dann passt sich der Preis dementsprechend an. Für mehr Informationen über die verschiedenen Möglichkeiten und Preise schreibe mir einfach eine [E-Mail](mailto:verena@verenaortlieb.de{:target="_blank"}) um einen Beratungstermin zu vereinbaren. Dann können wir besprechen welches Angebot deinen Bedürfnissen und deinem Budget entsprechen. -->

@@ -22,7 +22,7 @@ Jeder Mensch ist anders und braucht etwas anders. Was für dich das richtige ist
 
 #### Was kostet das alles?
 
-Je nachdem welche Coaching Option für dich in Frage kommt kostet es auch etwas anderes. Eine einzelne RTT Sitzung mit persönlicher Aufnahme und einer Nachbesprechung kostet 300 Euro. Wenn du gerne mehr Betreuung hast und ein ganzes Coaching haben möchtest, dann passt sich der Preis dementsprechend an.
+Sehr gute Frage. Und diese beantworte ich dir sehr gerne persönlich. Melde dich einfach bei mir dann können wir über alles reden. Am Besten per Mail an <a href="mailto:verena@verenaortlieb.de">verena@verenaortlieb.de</a>.
 
 #### Was ist RTT?
 
