@@ -127,6 +127,10 @@ strong {
   align-items: center;
   text-align: center;
   margin-bottom: 6em;
+  background-image: url(/img/logo-icon.png);
+  background-size: 10em;
+  background-repeat: no-repeat;
+  background-position: 30% 30%;
 }
 
 .header-title h1 a {
@@ -190,6 +194,12 @@ strong {
   position: absolute;
   right: 0;
   top: 12em;
+}
+
+@media only screen and (max-width: 48em) {
+  .header-all {
+      background-position: 10% 30%;
+  }
 }
 
 @media only screen and (max-width: 38em) {
