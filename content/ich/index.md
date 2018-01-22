@@ -10,11 +10,15 @@ weight = 1
 
 Ich bin hier um etwas zu verändern. Und dir dabei zu helfen.
 
-<!-- <div class="image-halfe">
-<img class="text-wrap" src="/img/verena2.jpg" alt="">
+<!-- <div class="image-half">
+<img class="text-wrap" src="/img/verena.jpg" alt="">
 </div> -->
 
 Mein Weg war und ist alles andere als geradlinig. Und genau das liebe ich. Was manche als problematisch ansehen, das sehe ich als eine der besten Dinge überhaupt.
+
+<div class="image-ego-container">
+	<img id="image-ego" src="/img/verena.jpg" alt="">
+</div>
 
 Ich gehe gerne meinen eigenen Weg, ich probiere gerne neues aus, ich teste gerne Grenzen und bin davon überzeugt, dass man immer einen Weg finden kann. Man muss sich nur trauen.
 
