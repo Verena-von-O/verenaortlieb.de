@@ -11,36 +11,6 @@
 
 	{{ partial "header.html"  . }} 
 
-
-<div class="doodle-flowers">
-<css-doodle>
-  :doodle {
-   @grid: 5 / 100vw;
-    background: #fff;
-  }
-  @shape: clover 5;
-  background: none;
-  transform:
-    scale(@rand(.2, .8))
-    translate(
-      @rand(-50%, 50%), @rand(-50%, 50%)
-    );
-    @col(1) {
-  background: linear-gradient(hsla(
-    41, 100%, 68%, 1), hsla(
-    41, 100%, 68%, .2));
-	}
-	@col(5) {
-	  background: linear-gradient(hsla(
-	    41, 100%, 68%, 1), hsla(
-	    41, 100%, 68%, .2));
-	}
-	 @row(even) {
-	}
-</css-doodle>
-</div> 
-
-
 <div class="site-content">
 
 
@@ -53,8 +23,6 @@
  <p>
  	Warum? Ohne wirklich zu verstehen warum wir tun was wir tun, warum wir uns selbst von Veränderung abhalten, warum wir reagieren wie wir es tun, ohne dieses warum kommen wir nicht weiter.
  </p>
-
-
 
  <p>
  	<strong>Wir kommen nicht all zu weit ohne zu verstehen warum. </strong>

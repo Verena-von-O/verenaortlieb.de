@@ -39,7 +39,7 @@ Stehe dazu, stehe zu dir und mach weiter.
 
 Lasse dich von anderen Menschen inspirieren statt dich mit negativen Menschen zu umgeben. Denn jedes Baby wird dutzende Male hinfallen bevor es richtig laufen kann. Und auch du wirst straucheln. Aber das ist kein Grund aufzugeben. Steh wieder auf, richte deine Krone und gehe weiter.
 
-Sei ehrlich. Sei da. Sei du selbst, denn du bist fantastisch und brillant und andere Menschen mögen dich. Wirklich!
+Sei ehrlich. Sei da. Sei du selbst, denn du bist fantastisch und brillant!
 
 Wenn du nicht das Leben lebst, dass du gerne leben möchtest dann finde heraus was es ist dass du willst. Zwinge dich. Es wird nie einfach sein. Denn wenn es einfach wäre dann hätte jeder das was er wirklich will. Wir würden alle in unserem Traumhaus am Strand wohnen oder einen mega SixPack haben oder den ganzen Tag Berge besteigen oder non-stop die Welt bereisen oder für das bezahlt werden was uns absolut erfüllt. 
 
