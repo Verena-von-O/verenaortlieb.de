@@ -529,21 +529,6 @@ strong {
 
 
 
-.doodle-flowers {
-  margin: -8em auto 0 auto;
-  position: absolute;
-  z-index: -100;
-  opacity: 0.5;
-  display: none;
-}
-
-@media only screen and (max-width: 38em) {
-  .doodle-flowers {
-      display: none;
-  }
-}
-
-
 
 /*Contact Form*/
 .container-contact-form {

@@ -9,34 +9,6 @@
 
 	{{ partial "header.html"  . }} 
 
-<div class="doodle-flowers">
-<css-doodle>
-  :doodle {
-   @grid: 5 / 100vw;
-    background: #fff;
-  }
-  @shape: clover 5;
-  background: none;
-  transform:
-    scale(@rand(.2, .8))
-    translate(
-      @rand(-50%, 50%), @rand(-50%, 50%)
-    );
-    @col(1) {
-  background: linear-gradient(hsla(
-    41, 100%, 68%, 1), hsla(
-    41, 100%, 68%, .2));
-	}
-	@col(5) {
-	  background: linear-gradient(hsla(
-	    41, 100%, 68%, 1), hsla(
-	    41, 100%, 68%, .2));
-	}
-	 @row(even) {
-	}
-</css-doodle>
-</div> 
-
 
 	<main class="site-content">
 		
@@ -49,7 +21,6 @@
 	{{ partial "footer.html" . }}
 
 	<script src="{{ .Site.BaseURL }}js/functions.js"></script>
-	<script src="{{ .Site.BaseURL }}js/css-doodle.js"></script>
 
 	</body>
 </html>
