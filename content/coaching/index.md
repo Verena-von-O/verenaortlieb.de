@@ -17,9 +17,6 @@ weight = 3
 Dein Leben gehört dir! Und du hast die Möglichkeit dein Leben so zu verändern wie du es möchtest. Sobald du verstehst, dass du die Macht hast kann dich nichts mehr aufhalten.
 </p>
 
-### Was ich denke
-
-
 
 ### Wie ich dir helfen kann
 
@@ -31,28 +28,38 @@ Das, was dich davon abhält glücklich zu sein ist das, was wir gemeinsam änder
 
 ### Was passiert wenn du Interesse hast
 
+Yeah! Das ist der erste Schritt in die richtige Richtung. Die Entscheidung zu treffen, dass es Zeit ist etwas zu tun ist fantastisch. Und du fühlst dich bestimmt auch schon etwas besser. Denn wenn dein Kopf weiss, dass sich etwas verbessern wird, dann fängt er schon damit an sich gut zu fühlen. 
+
+Als nächstes heisst es herausfinden wie es weiter geht. Wenn du das Gefühl hast, dass ich dir dabei helfen kann, dann melde dich bei mir. Schicke mir einfach eine E-Mail an verena@verenaortlieb.de und dann reden wir darüber. Natürlich ganz unverbindlich und kostenlos. Einfach nur um herauszufinden ob wir zusammen passen.
+
 
 ### Was passiert wenn du JA sagst
+
+Wenn wir beide nach unserem ersten Kennenlernen wissen, dass das passt, dann kann es los gehen. Was genau passieren wird das erkläre ich dir in unserem ersten Gespräch, aber hier schon mal ein kurzer Überblick:
+
+
+
+#### Schritt 1: Aufdecken
+
+Zuerst finden wir heraus, wo du hin möchtest. Wenn wir das wissen decken wir auf welche Blockaden dir diesen Weg momentan noch versperren. 
+
+#### Schritt 2: Tiefer gehen
+
+Wenn wir wissen welche Blockaden da sind nutzen wir die [RTT Methode](/blog/was-ist-rtt) von Marisa Peer um die Wurzen dieser Blockaden offen zu legen. Dabei finden wir heraus wann und warum diese Blockaden entstanden sind. Wenn wir das wissen, dann können wir diese Denkweisen verändern und dadurch die Blockaden auflösen.
+
+#### Schritt 3: Verändern
+
+Um die neu gewonnenen Denkweisen und Überzeugunge zu verfestigen bekommst du eine persönliche Aufnahme. Diese ist etwa 10-15 Minuten lang und wird von dir für 21 Tage einmal täglich angehört. Durch die Wiederholung wird das neue Verhalten gefestigt.
+
+#### Schritt 4: Weiter gehen
+
+Durch die Integration und Festigung des neuen Verhaltens, der neuen Überzeugungen und Gewohnheiten wird sich dein Leben nach und nach verändern. Du wirst immer mehr zu dem Menschen der du sein möchtest. 
+
 
 <div  class="img-halfe">
 <img src="/img/you-after.png" alt="">
 </div>
 
-#### Schritt 1: Aufdecken
-
-Die RTC Erfahrung beginnt mit einem tiefgründigen Coaching welches deine **Wünsche, Grundwerte und versteckte oder ersichtliche Blockaden aufdeckt** welche dich in Schmerz, Angst oder Unzufriedenheit halten.
-
-#### Schritt 2: Neuprogrammierung
-
-Wenn die emotionalen und/oder körperlichen Blockaden identifiziert sind nutzen wir die [RTT Methode](/blog/was-ist-rtt) von Marisa Peer um die **Wurzel dieser Blockaden offen zu legen und neu zu programmieren**. Diese werden buchstäblich auf einer unterbewussten Ebene aus deinem Kopf genommen.
-
-#### Schritt 3: Transformation
-
-Wöchentliche oder zweiwöchentliche Coaching Sitzungen in Zusammenarbeit mit einer individualisierten Aufnahme stellen sicher, dass **die neuen Überzeugungen in alle Bereiche deines Lebens integriert werden um anhaltende, durchdringende Veränderungen zu schaffen**.
-
-#### Schritt 4: Integration
-
-Durch die Integration des neuen Verhaltens, der neuen Überzeugungen und Gewohnheiten werden **weitere Bereiche** aufgedeckt, welche durch RTT und Coaching nach und nach jeden Bereich deines Lebens verändern werden.
 
 ### Und jetzt?
 

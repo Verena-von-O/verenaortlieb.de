@@ -8,6 +8,10 @@ weight = 6
 
 <h2 class="sub-side-hero">Hallo, bereit etwas zu verändern?</h2>
 
+<div  class="img-halfe">
+<img src="/img/you-waving.png" alt="">
+</div>
+
 Das freut mich zu hören. Schicke mir eine Nachricht per Mail an <a href="mailto:verena@verenaortlieb.de">verena@verenaortlieb.de</a>, dann können wir einen Termin ausmachen damit ich mehr über dich erfahren kann und herausfinden kann wie ich dir am Besten helfen kann.
 
 <strong>Manche kommen auch auf diese Seite weil sie noch ein paar Fragen haben. Die folgenden könnten dir weiterhelfen:</strong>

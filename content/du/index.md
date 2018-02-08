@@ -8,6 +8,10 @@ weight = 2
 
 <h2 class="sub-side-hero">Hört sich das nach dir an...</h2>
 
+<div  class="img-halfe">
+<img src="/img/you-standing.png" alt="">
+</div>
+
 Ich weiss warum du auf meiner Webseite gelandet bist. Zumindest habe ich eine starke Vermutung.
 
 Darf ich raten?

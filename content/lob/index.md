@@ -9,6 +9,12 @@ weight = 4
 
 <h2 class="sub-side-hero">Was andere sagen...</h2>
 
+<img src="/img/you-them.png" alt="">
+
+<!-- <div  class="img-halfe">
+<img src="/img/you-them.png" alt="">
+</div> -->
+
 <div class="lob-text">
 <p>
 "Verena hat mir versichert dass alles was ich brauche um mein Leben zu verändern in mir liegt. Und sie hatte recht. Nach kurzer Zeit war mit klar warum ich mich selbst davon abhalte weiter zu kommen und wie ich dies überkommen kann. Mein Leben hat sich komplett verändert dank dem Coaching mit Verena. Ich kann jedem nur empfehlen diese Erfahrung selbst zu machen und selbst zu erleben wie großartig es sich anfühlt." <br>
