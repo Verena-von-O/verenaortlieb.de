@@ -20,7 +20,7 @@ Dein Leben gehört dir! Und du hast die Möglichkeit dein Leben so zu verändern
 
 ### Wie ich dir helfen kann
 
-Gemeinsam finden wir heraus, was es genau ist was dich davon abhält die Person zu sein die su sein möchtest. Wir finden die tieferliegenden Gründe und Ursachen für dein Problem denn wenn du wirlich verstehst warum, dann kannst du es auch ändern.
+Gemeinsam finden wir heraus, was es genau ist was dich davon abhält die Person zu sein die du sein möchtest. Wir finden die tieferliegenden Gründe und Ursachen für dein Problem denn wenn du wirklich verstehst warum, dann kannst du es auch ändern.
 
 ### Bei was ich dir helfen kann
 
@@ -52,7 +52,7 @@ Wenn wir wissen welche Blockaden da sind nutzen wir die [RTT Methode](/blog/was-
 
 #### Schritt 3: Verändern
 
-Um die neu gewonnenen Denkweisen und Überzeugunge zu verfestigen bekommst du eine persönliche Aufnahme. Diese ist etwa 10-15 Minuten lang und wird von dir für 21 Tage einmal täglich angehört. Durch die Wiederholung wird das neue Verhalten gefestigt.
+Um die neu gewonnenen Denkweisen und Überzeugungen zu verfestigen bekommst du eine persönliche Aufnahme. Diese ist etwa 10-15 Minuten lang und wird von dir für 21 Tage einmal täglich angehört. Durch die Wiederholung wird das neue Verhalten gefestigt.
 
 #### Schritt 4: Weiter gehen
 
