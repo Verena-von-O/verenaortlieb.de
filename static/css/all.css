@@ -105,6 +105,12 @@ img {
   object-position: 50%;
 }
 
+.img-halfe {
+width: 40%; 
+margin: 1em auto; 
+text-align: center;
+}
+
 strong {
   font-weight: 600;
 }
@@ -127,7 +133,7 @@ strong {
   align-items: center;
   text-align: center;
   margin-bottom: 6em;
-  background-image: url(/img/logo-icon.png);
+  background-image: url(/img/logo-icon.svg);
   background-size: 10em;
   background-repeat: no-repeat;
   background-position: 30% 30%;

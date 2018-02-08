@@ -8,17 +8,21 @@ weight = 6
 
 <h2 class="sub-side-hero">Hallo, bereit etwas zu verändern?</h2>
 
+<div  class="img-halfe">
+<img src="/img/you-waving.svg" alt="">
+</div>
+
 Das freut mich zu hören. Schicke mir eine Nachricht per Mail an <a href="mailto:verena@verenaortlieb.de">verena@verenaortlieb.de</a>, dann können wir einen Termin ausmachen damit ich mehr über dich erfahren kann und herausfinden kann wie ich dir am Besten helfen kann.
 
-<strong>Manche kommen auch auf diese Seite weil sie noch ein paar Fragen haben. Die folgenden könnten dir weiterhelfen:</strong>
+<strong>Manche kommen auch auf diese Seite weil sie noch ein paar Fragen haben. Vielleicht findest du hier ja schon ein paar Antworten:</strong>
 
 #### Ich bin mir nicht sicher ob Coaching das richtige für mich ist. Wie finde ich das raus?
 
-Die meisten Menschen kommen auf Coaching aus dem gleichen Grund aus dem sie an dieser Stelle zweifeln. Irgendetwas in ihrem Leben hält sie zurück. Und wenn auch du zweifelst, dann weisst du dass das ok ist. Andere sind hier weiter gegangen. Darüber lesen kannst du [hier](/lob). Und wenn das noch nicht hilft, dann versuche [das hier](/blog/arschtritt)! 
+Die meisten Menschen kommen auf Coaching aus dem gleichen Grund aus dem sie an dieser Stelle zweifeln. Irgendetwas in ihrem Leben hält sie zurück. Und wenn auch du zweifelst, dann weisst du, dass das ok ist, dass du nicht alleine bist. Aber jetzt kommt es darauf an, ob du du weiter gehst oder nicht. Andere sind weiter gegangen. Darüber lesen kannst du [hier](/lob). Und wenn das noch nicht hilft, dann versuche [das hier](/blog/arschtritt)! 
 
 #### Welche Coaching Optionen gibt es?
 
-Jeder Mensch ist anders und braucht etwas anders. Was für dich das richtige ist, das können wir gerne persönlich besprechen. Du hast dann die Wahl zwischen einer einzelnen RTT Sitzung oder einem länger begleiteten Coaching.
+Jeder Mensch ist anders und braucht etwas anders. Was für dich das richtige ist, das können wir gerne persönlich besprechen. Du hast dann die Wahl zwischen einer einzelnen RTT Sitzung, mehreren RTT Sitzungen oder einem länger begleiteten Coaching.
 
 #### Was kostet das alles?
 
@@ -26,7 +30,7 @@ Sehr gute Frage. Und diese beantworte ich dir sehr gerne persönlich. Melde dich
 
 #### Was ist RTT?
 
-RTT ist die von Marisa Peer entwickelte Methode die auch Rapid Transformation Therapy genannt wird. Mehr darüber lesen kannst du [hier](/blog/was-ist-rtt).
+Rapid Transformation Therapy, kurz: RTT, ist die von Marisa Peer entwickelte Methode die dabei hilft schnelle, effektive Veränderungen zu bewirken. Mehr darüber lesen kannst du [hier](/blog/was-ist-rtt).
 
 #### Wo findet das Coaching statt?
 

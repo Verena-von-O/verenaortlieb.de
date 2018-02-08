@@ -10,10 +10,6 @@ weight = 1
 
 Ich bin hier um etwas zu verändern. Und dir dabei zu helfen.
 
-<!-- <div class="image-half">
-<img class="text-wrap" src="/img/verena.jpg" alt="">
-</div> -->
-
 Mein Weg war und ist alles andere als geradlinig. Und genau das liebe ich. Was manche als problematisch ansehen, das sehe ich als eine der besten Dinge überhaupt.
 
 <div class="image-ego-container">
@@ -28,6 +24,4 @@ Gemeinsam schaffen wir es aus Situationen die ausweglos scheinen oder mit Proble
 
 Ich bin für dich da. Ich bin dein Partner auf diesem Weg. Ich bin nicht da um dir bei allem zuzustimmen sondern dir zu helfen das richtige für dich zu finden.
 
-
-
-
+Und wenn du sojemanden suchst, dann freue ich mich darauf von dir zu hören!
