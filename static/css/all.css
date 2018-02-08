@@ -105,6 +105,12 @@ img {
   object-position: 50%;
 }
 
+.img-halfe {
+width: 40%; 
+margin: auto; 
+text-align: center;
+}
+
 strong {
   font-weight: 600;
 }

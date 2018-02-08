@@ -9,8 +9,12 @@ weight = 3
 
 <h2 class="sub-side-hero">Hör auf darauf zu warten, dass sich etwas ändert.</h2>
 
+<div  class="img-halfe">
+<img src="/img/you-before.png" alt="">
+</div>
+
 <p class="hero-text">
-Nicht nur effektiv sondern auch schnell hilft das Rapid Transformational Coaching dabei das Leben tiefgründig zu verändern.
+Dein Leben gehört dir! Und du hast die Möglichkeit dein Leben so zu verändern wie du es möchtest. Sobald du verstehst, dass du die Macht hast kann dich nichts mehr aufhalten.
 </p>
 
 ### Was ist RTC?
