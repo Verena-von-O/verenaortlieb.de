@@ -9,7 +9,7 @@ weight = 4
 
 <h2 class="sub-side-hero">Was andere sagen...</h2>
 
-<img src="/img/you-them.png" alt="">
+<img src="/img/you-them.svg" alt="">
 
 <!-- <div  class="img-halfe">
 <img src="/img/you-them.png" alt="">

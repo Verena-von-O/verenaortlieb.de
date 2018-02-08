@@ -10,7 +10,7 @@ weight = 3
 <h2 class="sub-side-hero">Hör auf darauf zu warten, dass sich etwas ändert.</h2>
 
 <div  class="img-halfe">
-<img src="/img/you-before.png" alt="">
+<img src="/img/you-before.svg" alt="">
 </div>
 
 <p class="hero-text">
@@ -60,7 +60,7 @@ Durch die Integration und Festigung des neuen Verhaltens, der neuen Überzeugung
 
 
 <div  class="img-halfe">
-<img src="/img/you-after.png" alt="">
+<img src="/img/you-after.svg" alt="">
 </div>
 
 
