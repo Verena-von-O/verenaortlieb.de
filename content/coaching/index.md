@@ -26,6 +26,10 @@ Gemeinsam finden wir heraus, was es genau ist was dich davon abhält die Person 
 
 Das, was dich davon abhält glücklich zu sein ist das, was wir gemeinsam ändern werden. Und das ist bei jeder Person etwas anderes. 
 
+Bei manchen ist es das Gewicht, bei anderen das Selbstbewusstsein, beim nächsten das Rauchen. Der nächste hat Probleme beim Schlafen oder schafft es nicht mit Geld umzugehen oder Vorträge zu halten. Und die nächste kann aus unergründlichen Gründen nicht schwanger werden oder hat Depressionen oder traut sich nicht zu fliegen. 
+
+Es sind die kleinen und die ganz großen Dinge im Leben. Egal was es ist, es kann angegangen und geändert werden. Du musst es nur wollen.
+
 ### Was passiert wenn du Interesse hast
 
 Yeah! Das ist der erste Schritt in die richtige Richtung. Die Entscheidung zu treffen, dass es Zeit ist etwas zu tun ist fantastisch. Und du fühlst dich bestimmt auch schon etwas besser. Denn wenn dein Kopf weiss, dass sich etwas verbessern wird, dann fängt er schon damit an sich gut zu fühlen. 
@@ -36,7 +40,6 @@ Als nächstes heisst es herausfinden wie es weiter geht. Wenn du das Gefühl has
 ### Was passiert wenn du JA sagst
 
 Wenn wir beide nach unserem ersten Kennenlernen wissen, dass das passt, dann kann es los gehen. Was genau passieren wird das erkläre ich dir in unserem ersten Gespräch, aber hier schon mal ein kurzer Überblick:
-
 
 
 #### Schritt 1: Aufdecken
@@ -64,56 +67,5 @@ Durch die Integration und Festigung des neuen Verhaltens, der neuen Überzeugung
 ### Und jetzt?
 
 Jetzt liegt es an dir wie es weiter geht. Es liegt an dir die Verantwortung für dein Leben zu übernehmen und das zu schaffen was du dir erwünschst und erträumst. Und wenn du willst, dann helfe ich dir dabei. Schick mir einfach eine [E-Mail](mailto:verena@verenaortlieb.de{:target="_blank"}), ich freu mich von dir zu hören.
-
-
-
-
-
-<!-- 
-Rapid Transformational Coaching (RTC) ist die Verbindung der innovativen [Rapid Transformational Therapy (RTT)](/blog/was-ist-rtt) von Marisa Peer mit fundierten Coaching-Tools. Diese Verbindung macht RTC **schnell, transformativ und dauerhaft**.
-
-### Was macht RTC anders?
-
-Im Gegensatz zu traditionellem Coaching befasst sich RTC mit der **Ursache eines Problems**, nicht mit den Symptomen. Die tiefer liegenden Gründe für deine Schwierigkeiten werden aufgedeckt und auf einer unterbewussten Ebene verändert. Dies bewirkt eine **starke emotionale Befreiung**. 
-
-Selbstbewusstsein, Selbstwert, Geldblockaden, Aufschieben, Angstzustände, Gewichtsprobleme, öffentliches Reden, Sucht, Depression… dies sind nur eine Handvoll der Bereiche welche vollständig transformiert werden können.
-
-### Für wen ist RTC?
-
-RTC ist für Menschen die **100% dafür bereit** sind nicht weiter an den gleichen versteckten Blockaden und immer wiederkehrenden Herausforderungen, Schmerzen und Ängsten zu leiden die sie davon abhalten **ein erfolgreiches, erfülltes Leben zu führen**.
-
-Möglich sind beispielsweise Erfahrungen wie…
-
-- eine massive Erhöhung des **Selbstbewusstseins und Selbstwertgefühls**
-- neue Geschäftsmöglichkeiten und größere finanzielle **Freiheit**
-- **erfülltere Beziehungen** mit der Familie und in der Partnerschaft
-- Leichteres Handeln und eine **erhöhte Leistungsfähigkeit** bei der Arbeit
-- **mehr Energie, Ausdauer und Fokus** im täglichen Leben und bei der Arbeit
-- **Freiheit** von Depressionen und Angstzuständen
-- Starke **Gewichtsreduzierung** und Veränderung in der Ernährung und im sportlichen Leben
-- **Erleichterung** von schmerzhaften psychischen Symptomen welche durch Krankheiten verursacht wurde
-
-<br>
-
-
-<h2 class="highlight-text">Die wichtige Frage ist: Bist du bereit für eine Veränderung?</h2>
-
-### Wie funktioniert es?
-
-#### Schritt 1: Aufdecken
-
-Die RTC Erfahrung beginnt mit einem tiefgründigen Coaching welches deine **Wünsche, Grundwerte und versteckte oder ersichtliche Blockaden aufdeckt** welche dich in Schmerz, Angst oder Unzufriedenheit halten.
-
-#### Schritt 2: Neuprogrammierung
-
-Wenn die emotionalen und/oder körperlichen Blockaden identifiziert sind nutzen wir die [RTT Methode](/blog/was-ist-rtt) von Marisa Peer um die **Wurzel dieser Blockaden offen zu legen und neu zu programmieren**. Diese werden buchstäblich auf einer unterbewussten Ebene aus deinem Kopf genommen.
-
-#### Schritt 3: Transformation
-
-Wöchentliche oder zweiwöchentliche Coaching Sitzungen in Zusammenarbeit mit einer individualisierten Aufnahme stellen sicher, dass **die neuen Überzeugungen in alle Bereiche deines Lebens integriert werden um anhaltende, durchdringende Veränderungen zu schaffen**.
-
-#### Schritt 4: Integration
-
-Durch die Integration des neuen Verhaltens, der neuen Überzeugungen und Gewohnheiten werden **weitere Bereiche** aufgedeckt, welche durch RTT und Coaching nach und nach jeden Bereich deines Lebens verändern werden. -->
 
 
