@@ -172,16 +172,13 @@ strong {
   font-weight: 600;
   margin: 1em;
   padding: 0.25em; 
-  border-bottom: solid 2px var(--white-text);
 }
 
 .nav-header div a:hover {
-  border-bottom: solid 2px var(--fun-color);
   background-color: var(--fun-color);
 }
 
 .nav-header div a.active {
-  border-bottom: solid 2px var(--fun-color);
   background-color: var(--fun-color);
 }
 
