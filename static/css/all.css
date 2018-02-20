@@ -490,7 +490,8 @@ strong {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  width: 20%;
+  width: 15%;
+  max-width: 8em;
   padding: 1em 0;
 }
 .social-facebook {
@@ -524,16 +525,6 @@ strong {
 
 .footer-social {
   width: 35%;
-}
-.social-facebook {
-  width: 2.5em;
-  height: 2.5em;
-  background-size: 2.5em 2.5em;
-}
-.social-mail {
-  width: 2.5em;
-  height: 2.5em;
-  background-size: 2.5em 2.5em;
 }
 }
 
