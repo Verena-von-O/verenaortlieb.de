@@ -8,14 +8,16 @@ weight = 6
 
 <div class="sub-hero img-contact"></div>
 
-<h2 class="sub-hero-img-text">Hallo!</h2>
+<h2 class="sub-hero-img-text">Kontakt</h2>
 
 
-<h2 class="sub-side-hero">Hallo, bereit etwas zu verändern?</h2>
+<h2 class="sub-side-hero">Hallo, bist du bereit etwas zu verändern?</h2>
 
 Das freut mich zu hören. Schicke mir eine Nachricht per Mail an <a href="mailto:verena@verenaortlieb.de">verena@verenaortlieb.de</a>, dann können wir einen Termin ausmachen damit ich mehr über dich erfahren kann und herausfinden kann wie ich dir am Besten helfen kann.
 
-<strong>Manche kommen auch auf diese Seite weil sie noch ein paar Fragen haben. Vielleicht findest du hier ja schon ein paar Antworten:</strong>
+<div class="contact-highlight-text">
+	<h3>Manche kommen auch auf diese Seite weil sie noch ein paar Fragen haben. <br> Vielleicht findest du hier ja schon ein paar Antworten:</h3>
+</div>
 
 #### Ich bin mir nicht sicher ob Coaching das richtige für mich ist. Wie finde ich das raus?
 

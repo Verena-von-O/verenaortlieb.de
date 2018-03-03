@@ -2,7 +2,7 @@ html {
   text-rendering: optimizeLegibility;
   --text-color: #394047;
   --white-text: #fff;
-  --fun-color: #ffcc5c;
+  --fun-color: #57BFBF;
   --bg-color: #191919;
   --bg-gold: #036564;
   --bg-light: #FFEDC5;
@@ -43,7 +43,6 @@ h4 {
 p {
   font-size: 1.1em;
   line-height: 1.6;
-  font-weight: 300;
   display: block;
   letter-spacing: .045em;
   margin: 0 0 10px;
@@ -336,7 +335,6 @@ strong {
 
 .image-ego-container {
   text-align: center;
-  background-color: #ce2e86; 
   margin-left: -41%;
   margin-right: -41%;
 }
@@ -383,12 +381,28 @@ strong {
 
 .index-highlight-text {
   text-align: center;
-  font-size: 1.5em;
-  background-color: var(--text-color);
-  padding: 1em;
-  margin: 1em -41%;
+  background-color: var(--fun-color);
+  margin: 2em -41%;
   color: white;
+  height: 10em;
 }
+
+/*contact*/
+.contact-highlight-text {
+  background-color: var(--fun-color);
+  text-align: center;
+  margin: 1em -41%;
+  padding: 2em;
+  vertical-align: middle;
+}
+
+.contact-highlight-text h3 {
+  width: 60%;
+  margin: auto;
+  padding: 0;
+  font-size: 1.35em;
+}
+
 
 /*blog summary*/
 .blog-summary {
@@ -548,7 +562,7 @@ strong {
 }
 
 .social-facebook:hover {
-  background-image: url(/img/facebook-3.png);
+  background-image: url(/img/facebook-2.png);
 }
 
 .social-mail {
@@ -560,7 +574,7 @@ strong {
 }
 
 .social-mail:hover {
-  background-image: url(/img/mail-3.png);
+  background-image: url(/img/mail-2.png);
 }
 
 @media only screen and (max-width:38em) {
@@ -604,3 +618,7 @@ input[type=submit]:hover {
   color: var(--text-color);
   cursor: pointer;
 }
+
+
+
+
