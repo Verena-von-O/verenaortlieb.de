@@ -6,7 +6,7 @@ identifier = "contact"
 weight = 6
 +++
 
-<div class="sub-hero-img-coaching"></div>
+<div class="sub-hero img-contact"></div>
 
 <h2 class="sub-hero-img-text">Hallo!</h2>
 

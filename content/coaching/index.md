@@ -6,7 +6,7 @@ identifier = "coaching"
 weight = 3
 +++
 
-<div class="sub-hero-img-coaching"></div>
+<div class="sub-hero img-coaching"></div>
 
 <h2 class="sub-hero-img-text">Hör auf darauf zu warten, dass sich etwas ändert.</h2>
 

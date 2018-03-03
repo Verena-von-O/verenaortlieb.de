@@ -6,7 +6,10 @@ identifier = "ich"
 weight = 1
 +++
 
-<h2 class="sub-side-hero">Hallo, ich bin Verena.</h2>
+<div class="sub-hero img-ich"></div>
+
+<h2 class="sub-hero-img-text">Hallo, ich bin Verena.</h2>
+
 
 Ich bin hier um etwas zu verändern. Und dir dabei zu helfen.
 

@@ -6,11 +6,9 @@ identifier = "du"
 weight = 2
 +++
 
-<h2 class="sub-side-hero">Hört sich das nach dir an...</h2>
+<div class="sub-hero img-du"></div>
 
-<div  class="img-halfe">
-<img src="/img/you-standing.svg" alt="">
-</div>
+<h2 class="sub-hero-img-text">Hört sich das nach dir an...</h2>
 
 Ich weiss warum du auf meiner Webseite gelandet bist. Zumindest habe ich eine starke Vermutung.
 
