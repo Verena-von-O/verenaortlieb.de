@@ -6,11 +6,12 @@ identifier = "contact"
 weight = 6
 +++
 
-<h2 class="sub-side-hero">Hallo, bereit etwas zu verändern?</h2>
+<div class="sub-hero-img-coaching"></div>
 
-<div  class="img-halfe">
-<img src="/img/you-waving.svg" alt="">
-</div>
+<h2 class="sub-hero-img-text">Hallo!</h2>
+
+
+<h2 class="sub-side-hero">Hallo, bereit etwas zu verändern?</h2>
 
 Das freut mich zu hören. Schicke mir eine Nachricht per Mail an <a href="mailto:verena@verenaortlieb.de">verena@verenaortlieb.de</a>, dann können wir einen Termin ausmachen damit ich mehr über dich erfahren kann und herausfinden kann wie ich dir am Besten helfen kann.
 

@@ -6,12 +6,9 @@ identifier = "coaching"
 weight = 3
 +++
 
+<div class="sub-hero-img-coaching"></div>
 
-<h2 class="sub-side-hero">Hör auf darauf zu warten, dass sich etwas ändert.</h2>
-
-<div  class="img-halfe">
-<img src="/img/you-before.svg" alt="">
-</div>
+<h2 class="sub-hero-img-text">Hör auf darauf zu warten, dass sich etwas ändert.</h2>
 
 <p class="hero-text">
 Dein Leben gehört dir! Und du hast die Möglichkeit dein Leben so zu verändern wie du es möchtest. Sobald du verstehst, dass du die Macht hast kann dich nichts mehr aufhalten.
@@ -57,11 +54,6 @@ Um die neu gewonnenen Denkweisen und Überzeugungen zu verfestigen bekommst du e
 #### Schritt 4: Weiter gehen
 
 Durch die Integration und Festigung des neuen Verhaltens, der neuen Überzeugungen und Gewohnheiten wird sich dein Leben nach und nach verändern. Du wirst immer mehr zu dem Menschen der du sein möchtest. 
-
-
-<div  class="img-halfe">
-<img src="/img/you-after.svg" alt="">
-</div>
 
 
 ### Und jetzt?
