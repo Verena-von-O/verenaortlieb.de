@@ -3,9 +3,7 @@ html {
   --text-color: #394047;
   --white-text: #fff;
   --fun-color: #93D5D5;
-  --bg-color: #191919;
-  --bg-gold: #036564;
-  --bg-light: #FFEDC5;
+  --fun-color-two: #D99DBB; 
   --font-hero: 'Roboto Slab', serif;
   --font-normal: 'Open Sans', sans-serif;
   --font-signature-hero: 'Waiting for the Sunrise', cursive;
@@ -384,8 +382,9 @@ strong {
 
 .index-highlight-text {
   text-align: center;
-  background-image: url(/img/bg-triangle.jpg);
-  background-repeat: no-repeat;
+/*  background-image: url(/img/bg-triangle.jpg);*/
+/*  background-color: var(--fun-color);
+*/  background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
   margin: 2em -41%;
@@ -400,6 +399,97 @@ strong {
     position: relative;
     top: 20%;
 }
+
+
+/* Slideshow container */
+.slideshow-container {
+  height: 18em;
+  position: relative;
+  margin: auto;
+  background-color: var(--fun-color);
+  margin: 2em -41%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  line-height: 1.5em;
+}
+
+.slideshow-container h3 {
+  width: 40%;
+  margin: auto;
+  padding: 1em;
+  position: absolute;
+  top: 0%;
+  left: 30%;
+}
+
+
+/* Next & previous buttons */
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  padding: 16px;
+  margin-top: -22px;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+}
+
+/* Position the "next button" to the right */
+.prev {
+  left: 20%;
+  border-radius: 3px 0 0 3px;
+}
+.next {
+  right: 20%;
+  border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover, .next:hover {
+  background-color: var(--fun-color-two);
+}
+
+.slide {
+  background-color: white;
+  width: 40%;
+  margin: auto;
+  padding: 1em;
+  position: absolute;
+  top: 25%;
+  left: 30%;
+}
+
+
+/* Fading animation */
+.fade {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 1s;
+  animation-name: fade;
+  animation-duration: 1s;
+}
+
+@-webkit-keyframes fade {
+  from {opacity: .95} 
+  to {opacity: 1}
+}
+
+@keyframes fade {
+  from {opacity: .95} 
+  to {opacity: 1}
+}
+
+/* On smaller screens, decrease text size */
+@media only screen and (max-width: 300px) {
+  .prev, .next,.text {font-size: 11px}
+}
+
+
 
 /*contact*/
 .contact-highlight-text {
@@ -469,14 +559,12 @@ strong {
 }*/
 
 .sub-hero-blogpost {
-  height: 13em;
-  background-color: var(--fun-color);
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center center;
+  border-bottom: 0.35em solid var(--fun-color);
+  border-top: 0.35em solid var(--fun-color);
   margin-left: -41%;
   margin-right: -41%;
-  margin-bottom: 1em;
+  margin-bottom: 2em;
+  margin-top: 3em;
 }
 
 .post-date {
@@ -485,16 +573,13 @@ strong {
   margin: auto;
   background-color: white;
   position: relative;
-  top: 35%;
   padding: 0.25em;
 }
 
 .post-title {
   width: 55%;
   margin: auto;
-  background-color: white;
   position: relative;
-  top: 35%;
   padding: 0.25em;
 }
 
