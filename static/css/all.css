@@ -2,7 +2,7 @@ html {
   text-rendering: optimizeLegibility;
   --text-color: #394047;
   --white-text: #fff;
-  --fun-color: #57BFBF;
+  --fun-color: #93D5D5;
   --bg-color: #191919;
   --bg-gold: #036564;
   --bg-light: #FFEDC5;
@@ -337,11 +337,14 @@ strong {
   text-align: center;
   margin-left: -41%;
   margin-right: -41%;
+  background-image: url(/img/bg-triangle.jpg);
+  padding: 0;
 }
 
 #image-ego {
   width: 50%;
-  margin: auto;
+  margin: 0 auto;
+  padding: 0;
 }
 
 @media only screen and (max-width:38em) {
@@ -381,10 +384,21 @@ strong {
 
 .index-highlight-text {
   text-align: center;
-  background-color: var(--fun-color);
+  background-image: url(/img/bg-triangle.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
   margin: 2em -41%;
-  color: white;
-  height: 10em;
+  height: 15em;
+}
+
+.index-highlight-text h3 {
+    width: 45%;
+    margin: auto;
+    background-color: white;
+    padding: 1em;
+    position: relative;
+    top: 20%;
 }
 
 /*contact*/
@@ -450,14 +464,38 @@ strong {
 }
 
 /*blog posts*/
-.post-title {
+/*.img-blogpost {
+    background-image: url(/img/bg-triangle.jpg);
+}*/
+
+.sub-hero-blogpost {
+  height: 13em;
+  background-color: var(--fun-color);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  margin-left: -41%;
+  margin-right: -41%;
   margin-bottom: 1em;
-  color: var(--text-color);
-  border-bottom: 5px solid var(--fun-color);
 }
 
 .post-date {
+  margin: 3em auto auto;
+  width: 55%;
   margin: auto;
+  background-color: white;
+  position: relative;
+  top: 35%;
+  padding: 0.25em;
+}
+
+.post-title {
+  width: 55%;
+  margin: auto;
+  background-color: white;
+  position: relative;
+  top: 35%;
+  padding: 0.25em;
 }
 
 /*Lob Seite*/
@@ -548,7 +586,7 @@ strong {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  width: 10%;
+  width: 15%;
   max-width: 8em;
   padding: 1em 0;
 }
