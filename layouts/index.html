@@ -1,110 +1,92 @@
 <!DOCTYPE html>
 <html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
-
-<head>
+	<head>
 		{{ partial "head.html" . }}
-    <title>{{ .Site.Title }}</title>
-</head>
-
-<body>
-
-
-	{{ partial "header.html"  . }} 
-
-<div class="hero">
-
-<h2 class="hero-img-text">Dein Leben hat mehr zu bieten!</h2>
-</div>
-
-<div class="site-content">
-
-<h2 class="index-title">Bereit etwas zu verändern?</h2>
-
-<p>Hast du das Gefühl, dass da mehr ist? Ist dein Leben auch noch nicht so, wie du es gerne hättest?</p>
-
-<p>Wenn du bereit bist das in Angriff zu nehmen und der Mensch zu werden, der du sein möchtest, dann bist du hier richtig. Und ich möchte dich sehr gerne auf diesem Weg begleiten.</p>
-
-<div class="index-highlight-text" style="background-color: var(--fun-color);">
-<h3>Du weisst, dass dein Leben mehr zu bieten hat, <br> also lass uns beginnen.</h3>
-</div>
-
-<h2 class="index-title">Hallo, ich bin Verena!</h2>
-
-<p>Ich liebe es Menschen dabei zu helfen mit ihrem Leben klar zu kommen. Ich bin Coach, Digitale Nomadin, Designerin, Blog-Schreiberin und Lebensbegeisterte. <br> <a href="/ich/">Mehr über mich...</a>
+		<title>{{ .Site.Title }}</title>
+	</head>
+	<body>
+		{{ partial "header.html"  . }}
+		<div class="hero">
+			<h2 class="hero-img-text">Dein Leben hat mehr zu bieten!</h2>
+		</div>
+		<div class="site-content">
+			<h2 class="index-title">Bereit etwas zu verändern?</h2>
+			<p>Hast du das Gefühl, dass da mehr ist? Ist dein Leben auch noch nicht so, wie du es gerne hättest?</p>
+			<p>Wenn du bereit bist das in Angriff zu nehmen und der Mensch zu werden, der du sein möchtest, dann bist du hier richtig. Und ich möchte dich sehr gerne auf diesem Weg begleiten.</p>
+			<div class="index-highlight-text" style="background-color: var(--fun-color);">
+				<h3>Du weisst, dass dein Leben mehr zu bieten hat, <br> also lass uns beginnen.</h3>
+			</div>
+			<h2 class="index-title">Hallo, ich bin Verena!</h2>
+			<p>Ich liebe es Menschen dabei zu helfen mit ihrem Leben klar zu kommen. Ich bin Coach, Digitale Nomadin, Designerin, Blog-Schreiberin und Lebensbegeisterte. <br> <a href="/ich/">Mehr über mich...</a>
+		</p>
+		<div class="blog-index-container">
+			<h3><a href="/blog/">Mein Blog</a></h3>
+			<ul class="blog-index">
+				{{ range first 2 .Data.Pages }}
+				<li class="single-post-index">
+					<p class="date-blog-index">
+						{{ .Date.Format "02.01.2006" }}
+					</p>
+					<a href="{{ .Permalink }}">
+						<h2 class="titel-blog-index">
+						{{ .Title }}
+						</h2>
+					</a>
+					<p class="summary-blog-index">{{ .Summary }}</p>
+					<a href="{{ .Permalink }}">
+						<p class="read-more-blog-index">Weiter lesen...</p>
+					</a>
+				</li>
+				{{ end }}
+			</ul>
+		</div>
+		<h2 class="index-title">Coaching</h2>
+		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloremque obcaecati at quaerat nesciunt voluptatem quam eius perferendis magnam, voluptatum veritatis et cum iusto vero ipsa, veniam nihil necessitatibus, rerum excepturi. <br> <a href="/ich/">Mehr über das was ich tue...</a>
+	</p>
+	<div class="slideshow-container">
+		<h3>Was andere sagen</h3>
+		<div class="mySlides fade slide">
+			<div class="text">"Ich bin begeistert. Nach nur einem Termin mit Verena habe ich meine Panikattacken los. Ich fühle mich fitter, freier und bereit dazu alles in Angriff zu nehmen." <br> <strong>Carola R.</strong></div>
+		</div>
+		<div class="mySlides fade slide">
+			<div class="text">"Ich bin davon überzeugt dass das Coaching mit Verena mein Leben verändert hat. Wenn du bereit bist etwas zu verändern kann sie dir helfen. Egal was dich zurück hält, hier wirst du es los." <br> <strong>Tom D.</strong></div>
+		</div>
+		<div class="mySlides fade slide">
+			<div class="text">"Nachdem ich jahrelang versuchte Familie und Beruf unter einen Hut zu bekommen habe ich gemerkt, dass ich mich vergessen habe. Durch die Hilfe von Verena konnte dies ändern." <br> <strong>Sophie C.</strong></div>
+		</div>
+		<a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+		<a class="next" onclick="plusSlides(1)">&#10095;</a>
+	</div>
+	<h2 class="index-title">Something else</h2>
+	<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloremque obcaecati at quaerat nesciunt voluptatem quam eius perferendis magnam, voluptatum veritatis et cum iusto vero ipsa, veniam nihil necessitatibus, rerum excepturi. <br> <a href="/ich/">Mehr über das was ich tue...</a>
 </p>
-
-<div class="index-highlight-text" style="background-color: var(--fun-color-two);">
-<h3>Blogposts</h3>
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur assumenda a quo explicabo, deserunt vel, velit eveniet temporibus sint reprehenderit architecto natus mollitia atque enim rerum tenetur quia quam esse.</p>
 </div>
-
-<h2 class="index-title">Coaching</h2>
-
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloremque obcaecati at quaerat nesciunt voluptatem quam eius perferendis magnam, voluptatum veritatis et cum iusto vero ipsa, veniam nihil necessitatibus, rerum excepturi. <br> <a href="/ich/">Mehr über das was ich tue...</a>
-</p>
-
-
-
-<div class="slideshow-container">
-<h3>Was andere sagen</h3>
-
-<div class="mySlides fade slide">
-  <!-- <img src="/img/pic/imgpic1.jpg" style="width:100%"> -->
-  <div class="text">"Ich bin begeistert. Nach nur einem Termin mit Verena habe ich meine Panikattacken los. Ich fühle mich fitter, freier und bereit dazu alles in Angriff zu nehmen." <br> <strong>Carola R.</strong></div>
-</div>
-
-<div class="mySlides fade slide">
- <!--  <img src="/img/pic/imgpic2.jpg" style="width:100%"> -->
-  <div class="text">"Ich bin davon überzeugt dass das Coaching mit Verena mein Leben verändert hat. Wenn du bereit bist etwas zu verändern kann sie dir helfen. Egal was dich zurück hält, hier wirst du es los." <br> <strong>Tom D.</strong></div>
-</div>
-
-<div class="mySlides fade slide">
-  <!-- <img src="/img/pic/imgpic3.jpg" style="width:100%"> -->
-  <div class="text">"Nachdem ich jahrelang versuchte Familie und Beruf unter einen Hut zu bekommen habe ich gemerkt, dass ich mich vergessen habe. Durch die Hilfe von Verena konnte dies ändern." <br> <strong>Sophie C.</strong></div>
-</div>
-
-<a class="prev" onclick="plusSlides(-1)">&#10094;</a>
-<a class="next" onclick="plusSlides(1)">&#10095;</a>
-
-</div>
-
-
-</div>	
-	
-	{{ partial "footer.html" . }}
-
-	<script src="{{ .Site.BaseURL }}js/functions.js"></script>
-
+{{ partial "footer.html" . }}
+<script src="{{ .Site.BaseURL }}js/functions.js"></script>
 <script>
 var slideIndex = 1;
 showSlides(slideIndex);
-
 function plusSlides(n) {
-  showSlides(slideIndex += n);
+showSlides(slideIndex += n);
 }
-
 function currentSlide(n) {
-  showSlides(slideIndex = n);
+showSlides(slideIndex = n);
 }
-
 function showSlides(n) {
-  var i;
-  var slides = document.getElementsByClassName("mySlides");
-  var dots = document.getElementsByClassName("dot");
-  if (n > slides.length) {slideIndex = 1}    
-  if (n < 1) {slideIndex = slides.length}
-  for (i = 0; i < slides.length; i++) {
-      slides[i].style.display = "none";  
-  }
-  for (i = 0; i < dots.length; i++) {
-      dots[i].className = dots[i].className.replace(" active", "");
-  }
-  slides[slideIndex-1].style.display = "block";  
-  dots[slideIndex-1].className += " active";
+var i;
+var slides = document.getElementsByClassName("mySlides");
+var dots = document.getElementsByClassName("dot");
+if (n > slides.length) {slideIndex = 1}
+if (n < 1) {slideIndex = slides.length}
+for (i = 0; i < slides.length; i++) {
+slides[i].style.display = "none";
+}
+for (i = 0; i < dots.length; i++) {
+dots[i].className = dots[i].className.replace(" active", "");
+}
+slides[slideIndex-1].style.display = "block";
+dots[slideIndex-1].className += " active";
 }
 </script>
-	
-	</body>
+</body>
 </html>
-
-
