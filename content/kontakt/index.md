@@ -11,13 +11,34 @@ weight = 6
 <h2 class="sub-hero-img-text">Kontakt</h2>
 
 
-<h2 class="sub-side-hero">Hallo, bist du bereit etwas zu verändern?</h2>
+<!-- <h2 class="sub-side-hero">Hallo, bist du bereit etwas zu verändern?</h2>
 
-Das freut mich zu hören. Schicke mir eine Nachricht per Mail an <a href="mailto:verena@verenaortlieb.de">verena@verenaortlieb.de</a>, dann können wir einen Termin ausmachen damit ich mehr über dich erfahren kann und herausfinden kann wie ich dir am Besten helfen kann.
+Das freut mich zu hören. Schicke mir eine Nachricht per Mail an <a href="mailto:verena@verenaortlieb.de">verena@verenaortlieb.de</a>, dann können wir einen Termin ausmachen damit ich mehr über dich erfahren kann und herausfinden kann wie ich dir am Besten helfen kann. -->
 
-<div class="contact-highlight-text">
-	<h3>Manche kommen auch auf diese Seite weil sie noch ein paar Fragen haben. <br> Vielleicht findest du hier ja schon ein paar Antworten:</h3>
+
+<h2>Bereit etwas zu verändern? <br> Dann lass uns reden!</h2>
+
+<div class="container-contact-form-site">
+  <form action="action_page.php">
+<label for="fname">Vorname</label>
+    <input type="text" id="fname" name="firstname" placeholder="">
+
+<label for="lname">Nachname</label>
+    <input type="text" id="lname" name="lastname" placeholder="">
+
+<label for="email">E-Mail Adresse</label>
+    <input type="text" id="email" name="email" placeholder="">
+
+<label for="subject">Grund aus dem ich Kontakt aufnehme</label>
+    <textarea id="subject" name="subject" placeholder="" style="height:8em"></textarea>
+
+<input type="submit" value="Senden">
+
+  </form>
 </div>
+
+
+<h3>Manche kommen auch auf diese Seite weil sie noch ein paar Fragen haben. <br> Vielleicht findest du hier ja schon ein paar Antworten:</h3>
 
 #### Ich bin mir nicht sicher ob Coaching das richtige für mich ist. Wie finde ich das raus?
 

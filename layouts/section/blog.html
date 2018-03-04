@@ -14,7 +14,7 @@
 
 <div class="sub-hero img-blog"></div>
 
-<h2 class="sub-hero-img-text">Blog</h2>
+<h2 class="sub-hero-img-text">Mein Blog</h2>
 
 		<ul class="blog-summary">			
 			{{ range .Data.Pages }}
@@ -31,6 +31,7 @@
 				<a href="{{ .Permalink }}">
 					<p class="read-more-blog-summary">Weiter lesen...</p>
 				</a>
+				<div class="seperator-blog-posts"></div>
 			</li>
 			{{ end }}
 		</ul>
