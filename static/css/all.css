@@ -43,11 +43,12 @@ p {
   line-height: 1.6;
   display: block;
   letter-spacing: .045em;
-  margin: 0 0 10px;
   padding: 1em 0;
+  width: 55%;
+  margin: auto;
 }
 
-@media only screen and (max-width:38em) {
+@media only screen and (max-width:48em) {
   h2 {
     font-size: 1.75em;
   }
@@ -58,6 +59,14 @@ p {
 
   p {
     font-size: 1em;
+    width: 65%;
+  }
+
+}
+
+@media only screen and (max-width:28em) {
+  p {
+    width: 85%;
   }
 
 }
@@ -96,18 +105,6 @@ ul {
 
 img {
   height: 100%;
-}
-
-.img-schmal {
-  height: 15em;
-  object-fit: cover;
-  object-position: 50%;
-}
-
-.img-halfe {
-  width: 40%;
-  margin: 1em auto;
-  text-align: center;
 }
 
 strong {
@@ -237,8 +234,6 @@ strong {
   background-size: cover;
   background-position: center center;
   margin-bottom: 3em;
-  margin-left: -41%;
-  margin-right: -41%;
 }
 
 .img-coaching {
@@ -246,7 +241,7 @@ strong {
 }
 
 .img-ich {
-    background-image: url(/img/pic/imgpic11.jpg);
+    background-image: url(/img/verena-snow-sun.jpg);
 }
 
 .img-du {
@@ -302,27 +297,12 @@ strong {
 .site-content {
   min-height: 100vh;
   margin: auto;
-  width: 55%;
 }
 
 .site-content img {
   width: 100%;
 }
 
-@media only screen and (max-width:58em) {
-  .site-content {
-    width: 65%;
-  }
-
-}
-
-@media only screen and (max-width:38em) {
-  .site-content {
-    width: 85%;
-    margin: auto;
-  }
-
-}
 
 .text-wrap {
   float: right;
@@ -333,8 +313,6 @@ strong {
 
 .image-ego-container {
   text-align: center;
-  margin-left: -41%;
-  margin-right: -41%;
   background-image: url(/img/bg-triangle.jpg);
   padding: 0;
 }
@@ -382,33 +360,32 @@ strong {
 
 .index-highlight-text {
   text-align: center;
-/*  background-image: url(/img/bg-triangle.jpg);*/
-/*  background-color: var(--fun-color);
-*/  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center center;
-  margin: 2em -41%;
-  height: 15em;
+  background-color: var(--fun-color);
+  height: 20em;
+  margin: 2em 0 3em 0;
 }
 
 .index-highlight-text h3 {
-    width: 45%;
+    width: 65%;
     margin: auto;
     padding: 1em;
     position: relative;
-    top: 20%;
+    top: 10%;
+    font-size: 2.5em;
+    line-height: 1.5em;
 }
 
 .blog-index-container {
   display: flex;
   flex-direction: column;
+  justify-content: flex-start;
   height: 100%;
   background-image: url(/img/pic/imgpic10.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
   text-align: center;
-  margin: 2em -41%;
+  margin: 2em 0 3em 0;
   padding: 0 0 2em 0;
 }
 
@@ -421,10 +398,11 @@ strong {
   flex-direction: row;
   list-style: none;
   text-align: left;
+  align-items: flex-start;
 }
 .single-post-index {
   width: 40%;
-  margin: auto;
+  margin: 0 auto;
   background-color: white;
   padding: 1em; 
 }
@@ -440,9 +418,10 @@ strong {
 }
 
 .summary-blog-index {
-  font-size: 1em;
+  font-size: 0.9em;
   margin: 0.5em 0;
   padding: 0;
+  width: 100%;
 }
 .read-more-blog-index {
   font-weight: 600;
@@ -460,12 +439,12 @@ strong {
   position: relative;
   margin: auto;
   background-color: var(--fun-color);
-  margin: 2em -41%;
   display: flex;
   flex-direction: column;
   align-items: center;
   text-align: center;
   line-height: 1.5em;
+  margin: 2em 0 3em 0;
 }
 
 .slideshow-container h3 {
@@ -495,11 +474,11 @@ strong {
 
 /* Position the "next button" to the right */
 .prev {
-  left: 20%;
+  left: 25%;
   border-radius: 3px 0 0 3px;
 }
 .next {
-  right: 20%;
+  right: 25%;
   border-radius: 3px 0 0 3px;
 }
 
@@ -509,12 +488,12 @@ strong {
 }
 
 .slide {
-/*  background-color: white;
-*/  width: 40%;
+  background-color: white;
+  width: 40%;
   margin: auto;
   padding: 1em;
   position: absolute;
-  top: 25%;
+  top: 28%;
   left: 30%;
 }
 
@@ -548,7 +527,6 @@ strong {
 .contact-highlight-text {
   background-color: var(--fun-color);
   text-align: center;
-  margin: 1em -41%;
   padding: 2em;
   vertical-align: middle;
 }
@@ -614,8 +592,6 @@ strong {
 .sub-hero-blogpost {
   border-bottom: 0.35em solid var(--fun-color);
   border-top: 0.35em solid var(--fun-color);
-  margin-left: -41%;
-  margin-right: -41%;
   margin-bottom: 2em;
   margin-top: 3em;
 }
