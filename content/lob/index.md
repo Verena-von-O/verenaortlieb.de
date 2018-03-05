@@ -1,10 +1,11 @@
 +++
 title = "Lob"
 layout = "default"
-[menu.main]
-identifier = "lob"
-weight = 4
 +++
+
+<!-- [menu.main]
+identifier = "lob"
+weight = 4 -->
 
 <div class="sub-hero img-lob"></div>
 
