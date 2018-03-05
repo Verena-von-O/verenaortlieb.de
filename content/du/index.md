@@ -1,10 +1,11 @@
 +++
 title = "Du"
 layout = "default"
-[menu.main]
-identifier = "du"
-weight = 2
 +++
+
+<!-- [menu.main]
+identifier = "du"
+weight = 2 -->
 
 <div class="sub-hero img-du"></div>
 
