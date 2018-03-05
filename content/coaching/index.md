@@ -43,6 +43,9 @@ Yeah! Das ist der erste Schritt in die richtige Richtung. Die Entscheidung zu tr
 
 Als nächstes kannst du gerne Kontakt mit mir aufnehmen. Am Besten gehst du zuerst auf meine Kontaktseite. Dort gibt es schon ein paar Antworten auf oft gestellte Fragen. Und danach schickst du mir einfach eine Nachricht. 
 
+<p class="coaching-highlight-text">Mache deine Träume größer als deine Ausreden.
+</p>
+
 ### Was passiert, wenn du JA sagst.
 
 Zuerst lernen wir uns kennen. Dabei können wir herausfinden ob das was ich anbiete das ist, was du brauchst. Ist das der Fall, dann geht’s los. 

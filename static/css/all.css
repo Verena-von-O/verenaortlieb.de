@@ -253,6 +253,10 @@ strong {
   background-image: url(/img/pic/imgpic3.jpg);
 }
 
+.dankecontact {
+  background-image: url(/img/pic/imgpic9.jpg);
+}
+
 .sub-hero-img-text {
   text-align: center;
   position: absolute;
@@ -407,8 +411,12 @@ strong {
   align-items: flex-start;
 }
 
+ul.blog-index {
+  width: 100%;
+}
+
 .single-post-index {
-  width: 40%;
+  width: 47%;
   margin: 0 auto;
   background-color: white;
   padding: 1em;
@@ -424,6 +432,7 @@ strong {
   font-size: 1.25em;
   padding: 0.5em 0 0 0;
   margin: 0;
+  width: 100%;
 }
 
 .summary-blog-index {
@@ -542,24 +551,33 @@ strong {
 
 }
 
-
 /*coaching*/
 .hero-text-coaching {
   text-align: center;
+}
 
+.coaching-highlight-text {
+  text-align: center;
+  background-color: var(--fun-color);
+  font-size: 2em;
+  line-height: 1.25em;
+  height: auto;
+  margin: 1em auto;
+  font-weight: 600;
+  width: 100%;
+  padding: 1em;
 }
 
 /*contact*/
- .contact-highlight-text {
-    text-align: center;
-    background-color: var(--fun-color);
-    height: auto;
-    padding: 2em 0;
-    margin: 2em auto;
-    width: 100%;
-    font-weight: 600;
-  }
-
+.contact-highlight-text {
+  text-align: center;
+  background-color: var(--fun-color);
+  height: auto;
+  padding: 1.5em 3em;
+  margin: 2em auto;
+  width: 100%;
+  font-weight: 600;
+}
 
 /*blog summary*/
 .blog-summary {
@@ -708,7 +726,7 @@ strong {
   position: relative;
   text-align: center;
   color: white;
-  padding: 1em;
+  padding: 0;
   background-color: var(--text-color);
 }
 
@@ -717,11 +735,14 @@ strong {
   flex-direction: column;
   justify-content: flex-end;
   align-items: center;
+  padding-bottom: 1em;
+  padding-top: 1em; 
 }
 
 .footer-content p {
   font-size: 1em;
   font-weight: 400;
+  padding: 0.4em;
 }
 
 .footer-extra a {
@@ -771,6 +792,17 @@ strong {
 }
 
 input[type=text], select, textarea {
+  width: 100%;
+  padding: 0.35em;
+  border: 1px solid var(--text-color);
+  border-radius: 0.2em;
+  box-sizing: border-box;
+  margin-top: 0.75em;
+  margin-bottom: 0.75em;
+  resize: vertical;
+}
+
+input[type=email], select, textarea {
   width: 100%;
   padding: 0.35em;
   border: 1px solid var(--text-color);
@@ -853,13 +885,6 @@ input[type=submit]:hover {
     line-height: 1.25em;
   }
 
-  .single-post-index {
-    width: 45%;
-    margin: 0 auto;
-    background-color: white;
-    padding: 0.5em;
-  }
-
   .blog-summary {
     width: 80%;
   }
@@ -900,10 +925,10 @@ input[type=submit]:hover {
     width: 100%;
   }
 
-.summary-blog-index {
-  font-size: 0.8em;
-  margin: 0;
-}
+  .summary-blog-index {
+    font-size: 0.8em;
+    margin: 0;
+  }
 
   .read-more-blog-index {
     font-weight: 400;
@@ -937,6 +962,10 @@ input[type=submit]:hover {
     left: 15%;
     margin-top: 1em;
   }
+
+.dankecontact {
+  height: 20em;
+}
 
 }
 

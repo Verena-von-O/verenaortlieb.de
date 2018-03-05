@@ -11,17 +11,19 @@ weight = 6
 <h2 class="sub-hero-img-text">Kontakt</h2>
 
 
-<p>Du möchtest mehr über mein Coaching Angebot erfahren, hast Fragen oder Anregungen zu dem was ich tue oder willst einfach nur Hallo sagen?</p>
+<p>Du möchtest mehr über mein Coaching Angebot erfahren, hast Fragen oder Anregungen zu dem was ich tue oder willst einfach nur Hallo sagen?
+<br><br>
+Dann schreib mir doch einfach eine Nachricht. Entweder über das Kontaktformular ganz unten oder per E-Mail an <a href="mailto:verena@verenaortlieb.de" target="_blank">verena@verenaortlieb.de</a> <br><br>
+Ich freue mich von dir zu hören!</p>
 
-<p>Dann schreib mir doch einfach eine Nachricht. Entweder über das Kontaktformular ganz unten oder per E-Mail an <a href="mailto:verena@verenaortlieb.de" target="_blank">verena@verenaortlieb.de</a></p>
-
-<p>Ich freue mich von dir zu hören!</p>
-
-
-<p class="contact-highlight-text">Manche kommen auch auf diese Seite weil sie noch ein paar Fragen haben. <br> Vielleicht findest du hier ja schon ein paar Antworten:
-</p>
+<h1 style="font-family: var(--font-signature-hero); font-size: 2.5em; margin: auto;">Deine Verena</h1>
 
 
+<h2 class="contact-highlight-text">Tue heute etwas, wofür dir dein zukünftiges Ich dankbare sein wird.
+</h2>
+
+### Manche kommen auch auf diese Seite weil sie noch ein paar Fragen haben. <br><br> Vielleicht findest du hier ja schon ein paar Antworten:
+<br>
 
 #### Wer bist du eigentlich?
 
