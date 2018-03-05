@@ -542,19 +542,16 @@ strong {
 }
 
 /*contact*/
-.contact-highlight-text {
-  background-color: var(--fun-color);
-  text-align: center;
-  padding: 2em;
-  vertical-align: middle;
-}
+ .contact-highlight-text {
+    text-align: center;
+    background-color: var(--fun-color);
+    height: auto;
+    padding: 2em 0;
+    margin: 2em auto;
+    width: 100%;
+    font-weight: 600;
+  }
 
-.contact-highlight-text h3 {
-  width: 60%;
-  margin: auto;
-  padding: 0;
-  font-size: 1.35em;
-}
 
 /*blog summary*/
 .blog-summary {

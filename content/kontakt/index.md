@@ -11,56 +11,46 @@ weight = 6
 <h2 class="sub-hero-img-text">Kontakt</h2>
 
 
+<p>Du möchtest mehr über mein Coaching Angebot erfahren, hast Fragen oder Anregungen zu dem was ich tue oder willst einfach nur Hallo sagen?</p>
 
-<h2>Bereit etwas zu verändern? <br> Dann lass uns reden!</h2>
+<p>Dann schreib mir doch einfach eine Nachricht. Entweder über das Kontaktformular ganz unten oder per E-Mail an <a href="mailto:verena@verenaortlieb.de" target="_blank">verena@verenaortlieb.de</a></p>
 
-<div class="container-contact-form-site">
-  <form action="action_page.php">
-<label for="fname">Vorname</label>
-    <input type="text" id="fname" name="firstname" placeholder="">
-
-<label for="lname">Nachname</label>
-    <input type="text" id="lname" name="lastname" placeholder="">
-
-<label for="email">E-Mail Adresse</label>
-    <input type="text" id="email" name="email" placeholder="">
-
-<label for="subject">Grund aus dem ich Kontakt aufnehme</label>
-    <textarea id="subject" name="subject" placeholder="" style="height:8em"></textarea>
-
-<input type="submit" value="Senden">
-
-  </form>
-</div>
+<p>Ich freue mich von dir zu hören!</p>
 
 
-<h3 style="font-size: 1.25em;">Manche kommen auch auf diese Seite weil sie noch ein paar Fragen haben. <br> <br> Vielleicht findest du hier ja schon ein paar Antworten:</h3>
+<p class="contact-highlight-text">Manche kommen auch auf diese Seite weil sie noch ein paar Fragen haben. <br> Vielleicht findest du hier ja schon ein paar Antworten:
+</p>
 
-<br>
+
+
+#### Wer bist du eigentlich?
+
+Das ist eine gute Frage. Hier ein versuch einer Antwort. Also, ich bin Verena. Ich bereise die Welt. Ich helfe Menschen dabei mit ihrem Leben klar zu kommen. Ich lerne sehr gerne neues. Ich gebe mich nicht mit einem “das ist halt so” zufrieden. Ich liebes es zu lachen und Hunde zu streicheln. Katzen auch. Und Alpakas. Und ich würde gerne mal mehr Zeit mit einem Pinguin verbringen. Ja, ich bin Tierverrückt. Du willst noch mehr wissen? Dann solltest du mir doch eine E-Mail schreiben mit deinen Fragen :) 
+
+#### Was machst du eigentlich?
+
+Ich reise, ich lerne und ich gebe mein Wissen weiter. Ich beschäftige mich viel mit Dingen die anders sind. Alles was abweicht vom Standard fasziniert mich. Und ich helfe Menschen dabei herauszufinden wer sie sind, wo sie hin wollen und ganz wichtig in der Vergangenheit aufzuräumen damit sie nicht von falschen Überzeugungen zurückgehalten werden.
 
 #### Ich bin mir nicht sicher ob Coaching das richtige für mich ist. Wie finde ich das raus?
 
-Die meisten Menschen kommen auf Coaching aus dem gleichen Grund aus dem sie an dieser Stelle zweifeln. Irgendetwas in ihrem Leben hält sie zurück. Und wenn auch du zweifelst, dann weisst du, dass das ok ist, dass du nicht alleine bist. Aber jetzt kommt es darauf an, ob du du weiter gehst oder nicht. Andere sind weiter gegangen. Darüber lesen kannst du [hier](/lob). Und wenn das noch nicht hilft, dann versuche [das hier](/blog/arschtritt)! 
+Die meisten Menschen kommen auf Coaching aus dem gleichen Grund aus dem sie an dieser Stelle zweifeln. Irgendetwas in ihrem Leben hält sie zurück. Und wenn auch du zweifelst, dann weisst du, dass das ok ist, dass du nicht alleine bist. Aber jetzt kommt es darauf an, ob du du weiter gehst oder nicht. Wenn du noch immer nicht sicher bist, dann versuche [das hier](/blog/arschtritt)! 
 
-#### Welche Coaching Optionen gibt es?
+#### Wie kann ich ein Coaching bei dir machen wenn du immer unterwegs bist?
 
-Jeder Mensch ist anders und braucht etwas anders. Was für dich das richtige ist, das können wir gerne persönlich besprechen. Du hast dann die Wahl zwischen einer einzelnen RTT Sitzung, mehreren RTT Sitzungen oder einem länger begleiteten Coaching.
-
-#### Was kostet das alles?
-
-Sehr gute Frage. Und diese beantworte ich dir sehr gerne persönlich. Melde dich einfach bei mir dann können wir über alles reden. Am Besten per Mail an <a href="mailto:verena@verenaortlieb.de">verena@verenaortlieb.de</a>.
-
-#### Was ist RTT?
-
-Rapid Transformation Therapy, kurz: RTT, ist die von Marisa Peer entwickelte Methode die dabei hilft schnelle, effektive Veränderungen zu bewirken. Mehr darüber lesen kannst du [hier](/blog/was-ist-rtt).
-
-#### Wo findet das Coaching statt?
-
-Da ich Vollzeit reise (ja, das ist möglich und macht mega Spass) habe ich keinen festen Standort. 90% meiner Sitzungen finden online statt. Wenn ich zufällig in deiner Stadt bin, dann lässt sich auch eine offline-Sitzung vereinbaren. 
+Ganz einfach: online. Dank Internet ist es möglich ortsunabhängig Menschen zu helfen. Sei es per Video, per Audio oder per E-Mail. Möglichkeiten gibt es viele.
+Und wenn es doch mal so sein sollte, dass wir in der gleichen Stadt sind, oder am gleichen Strand, dann können wir uns auch gerne persönlich in der realen Welt unterhalten.
 
 #### Ist online nicht schlechter als offline?
 
 Ganz und gar nicht. Die Ergebnisse in einer online Sitzung sind die selben wie in einer offline Sitzung. Und es hat sogar einige Vorteile. Du musst dich nicht hübsch anziehen, das Haus verlassen und den Weg zu mir aufnehmen sondern wir können uns ganz einfach und gemütlich in deiner gewohnten Umgebung "treffen".
+
+#### Was ist RTT?
+
+Rapid Transformational Therapy, kurz RTT, ist eine Methode die ich sehr gerne für mein Coaching verwende. Dabei wird direkt mit dem Unterbewusstsein kommuniziert und dadurch werden alte, negative Überzeugungen frei gelegt und durch neue, positive ersetzt. Mehr darüber kannst du [hier](/blog/was-ist-rtt) erfahren.
+
+#### Gibt es Coaching auch ohne RTT?
+
+Klar! Wenn wir bei unserem ersten Kennenlerngespräch feststellen, dass RTT nichts für dich ist, dann gibt es noch viele andere Möglichkeiten wie wir weiter machen können. Wir werden gemeinsam das richtige für dich finden um dir zu ermöglichen das Leben zu finden, dass du gerne führen möchtest.
 
 #### Kann ich auch einfach nur Hallo sagen?
 
