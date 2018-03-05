@@ -1,8 +1,8 @@
 +++
-title = "Ich"
+title = "Über Mich"
 layout = "default"
 [menu.main]
-identifier = "ich"
+identifier = "ueber"
 weight = 1
 +++
 <!-- <div class="sub-hero img-ich"></div>
