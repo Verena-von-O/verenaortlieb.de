@@ -75,12 +75,13 @@ p a:hover {
 }
 
 ul {
-  font-weight: 300;
-  line-height: 1.8;
   font-size: 1.1em;
   line-height: 1.6;
-  margin: 0;
-  padding: 0;
+  display: block;
+  letter-spacing: .045em;
+  padding: 1em 2em;
+  width: 55%;
+  margin: auto;
 }
 
 img {
@@ -545,7 +546,7 @@ strong {
 /*coaching*/
 .hero-text-coaching {
   text-align: center;
-  
+
 }
 
 /*contact*/
@@ -581,6 +582,7 @@ strong {
 .titel-blog-summary {
   padding-bottom: 0.25em;
   padding-top: 0.35em;
+  width: 100%;
 }
 
 .titel-blog-summary:hover {
@@ -623,17 +625,15 @@ strong {
 }*/
 
 .sub-hero-blogpost {
-  border-bottom: 0.35em solid var(--fun-color);
-  border-top: 0.35em solid var(--fun-color);
   margin-bottom: 2em;
   margin-top: 3em;
+  background-color: var(--fun-color);
 }
 
 .post-date {
   margin: 3em auto auto;
   width: 55%;
   margin: auto;
-  background-color: white;
   position: relative;
   padding: 0.25em;
 }
