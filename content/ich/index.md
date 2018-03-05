@@ -16,5 +16,5 @@ weight = 1
 	Gemeinsam schaffen wir es aus Situationen die ausweglos scheinen oder mit Problemen die erschlagend wirken einen Weg zu finden. Einen Weg zu dem Leben welches du schon immer führen wolltest. Einen Weg zu dir.
 	Ich bin für dich da. Ich bin dein Partner auf diesem Weg. Ich bin nicht da um dir bei allem zuzustimmen sondern dir zu helfen das richtige für dich zu finden. <br> <br>
 	Und wenn du sojemanden suchst, dann freue ich mich darauf von dir zu hören!</p>
-	<h1 style="font-family: var(--font-signature-hero); font-size: 2.5em;">Verena</h1>
+	<h1 style="font-family: var(--font-signature-hero); font-size: 2.5em; margin: 0;">Deine Verena</h1>
 </div>
