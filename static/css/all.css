@@ -358,6 +358,10 @@ strong {
   padding-bottom: 0.5em;
 }
 
+.index-text {
+  text-align: center;
+}
+
 .index-highlight-text {
   text-align: center;
   background-color: var(--fun-color);
@@ -367,12 +371,12 @@ strong {
 }
 
 .index-highlight-text h3 {
-  width: 75%;
+  width: 80%;
   margin: auto;
   padding: 0 1em;
   position: relative;
   top: 10%;
-  font-size: 2.5em;
+  font-size: 2em;
   line-height: 1.5em;
 }
 
@@ -700,7 +704,7 @@ strong {
   position: relative;
   text-align: center;
   color: white;
-  padding: 1.5em;
+  padding: 1em;
   background-color: var(--text-color);
 }
 
@@ -712,14 +716,15 @@ strong {
 }
 
 .footer-content p {
-  line-height: 1em;
-  margin: 0.2em;
+  font-size: 1em;
+  font-weight: 400;
 }
 
 .footer-extra a {
   text-decoration: none;
   border: none;
   color: white;
+  font-weight: 400;
 }
 
 .footer-social {
