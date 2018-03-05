@@ -736,7 +736,7 @@ ul.blog-index {
   justify-content: flex-end;
   align-items: center;
   padding-bottom: 1em;
-  padding-top: 1em; 
+  padding-top: 1em;
 }
 
 .footer-content p {
@@ -963,9 +963,9 @@ input[type=submit]:hover {
     margin-top: 1em;
   }
 
-.dankecontact {
-  height: 20em;
-}
+  .dankecontact {
+    height: 20em;
+  }
 
 }
 
@@ -979,7 +979,7 @@ input[type=submit]:hover {
   }
 
   .blog-summary {
-    width: 85%;
+    width: 95%;
   }
 
   .blog-index {
@@ -991,7 +991,7 @@ input[type=submit]:hover {
   }
 
   .single-post-index {
-    width: 80%;
+    width: 90%;
     padding: 0.5em;
     margin-bottom: 1em;
   }
@@ -1017,7 +1017,7 @@ input[type=submit]:hover {
   }
 
   .slideshow-container {
-    height: 22em;
+    height: 24em;
   }
 
   .slideshow-container h3 {
@@ -1064,7 +1064,7 @@ input[type=submit]:hover {
   }
 
   .hero-img-text {
-    top: 60%;
+    top: 50%;
     font-size: 1.5em;
   }
 
