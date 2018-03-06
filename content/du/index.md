@@ -7,9 +7,10 @@ layout = "default"
 identifier = "du"
 weight = 2 -->
 
-<div class="sub-hero img-du"></div>
+<div class="sub-hero img-du">
 
 <h2 class="sub-hero-img-text">Hört sich das nach dir an...</h2>
+</div>
 
 Ich weiss warum du auf meiner Webseite gelandet bist. Zumindest habe ich eine starke Vermutung.
 

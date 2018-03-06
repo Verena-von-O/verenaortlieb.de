@@ -5,8 +5,7 @@ layout = "default"
 identifier = "ueber"
 weight = 1
 +++
-<!-- <div class="sub-hero img-ich"></div>
-<h2 class="sub-hero-img-text">Hallo, ich bin Verena.</h2> -->
+
 <div class="image-ego-container">
 	<img id="image-ego" src="/img/verena.jpg" alt="">
 	<h2>Hi, ich bin Verena!</h2>

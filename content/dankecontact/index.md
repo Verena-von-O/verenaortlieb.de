@@ -5,8 +5,9 @@ identifier = "dankecontact"
 +++
 
 
-<div class="sub-hero dankecontact"></div>
+<div class="sub-hero dankecontact">
 <h2 class="sub-hero-img-text">Danke für deine Nachricht!</h2>
+</div>
 
 Ich freue mich sehr, dass du Kontakt zu mir aufgenommen hast. Und ich werde dir antworten so schnell ich kann.
 

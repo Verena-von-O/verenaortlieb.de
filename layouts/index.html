@@ -11,8 +11,8 @@
 		</div>
 		<div class="site-content index-text">
 			<h2 class="index-title">Bereit etwas zu verändern?</h2>
-			<p>Hast du das Gefühl, dass da mehr ist? Ist dein Leben auch noch nicht so, wie du es gerne hättest? <br><br>
-			Das Leben hat so viel mehr zu bieten wenn wir uns trauen unseren persönlichen Weg zu finden und diesen zu gehen.</p>
+			<p>Hast du das Gefühl, dass da mehr ist? Ist dein Leben noch nicht so, wie du es gerne hättest? <br><br>
+			Das Leben hat so viel mehr zu bieten wenn wir uns trauen, unseren persönlichen Weg zu finden und diesen zu gehen.</p>
 			<div class="index-highlight-text">
 				<h3>Was würdest du heute machen wenn es egal wäre, was alle anderen denken?</h3>
 			</div>
@@ -41,7 +41,7 @@
 			</ul>
 		</div>
 		<h2 class="index-title">Coaching</h2>
-		<p>Kennst du dieses kribbeln in den Finger, diese Ruhe die sich in dir breit macht und gleichzeitig ein toben in dir auslöst? Diese Gewissheit, dass das was du tust das richtige ist? Dieser kurze Moment in dem du absolut sicher bist dass es so sein soll?<br><a href="/coaching/">Weiter lesen...</a>
+		<p>Kennst du dieses kribbeln in den Finger, diese Ruhe die sich in dir breit macht und gleichzeitig ein toben in dir auslöst? Diese Gewissheit, dass das was du tust das Richtige ist? Dieser kurze Moment in dem du absolut sicher bist, dass es so sein soll?<br><a href="/coaching/">Weiter lesen...</a>
 	</p>
 	<div class="slideshow-container">
 		<h3>Was andere sagen</h3>
@@ -58,35 +58,39 @@
 		<a class="next" onclick="plusSlides(1)">&#10095;</a>
 	</div>
 	<h2 class="index-title">Dein Leben hat mehr zu bieten! Lass uns beginnen.</h2>
-	<p>Dies ist nicht nur ein Spruch sonder das was ich glaube und lebe. Wenn du auch dieser Meinung bist oder mehr darüber erfahren möchtest, dann schau dich hier auf meiner Webseite um, schau was ich so auf <a href="https://www.facebook.com/VerenaOrtlieb/" target="_blank">Facebook</a> mache oder <a href="/contact/">schreib mir eine Mail</a>.
+	<p>Dies ist nicht nur ein Spruch, sondern das was ich glaube und lebe. Wenn du auch dieser Meinung bist oder mehr darüber erfahren möchtest, dann schau dich hier auf meiner Webseite um, schau was ich so auf <a href="https://www.facebook.com/VerenaOrtlieb/" target="_blank">Facebook</a> mache oder <a href="/kontakt/">schreib mir eine Mail</a>.
 </p>
 </div>
 {{ partial "footer.html" . }}
 <script src="{{ .Site.BaseURL }}js/functions.js"></script>
+
 <script>
-var slideIndex = 1;
-showSlides(slideIndex);
-function plusSlides(n) {
-showSlides(slideIndex += n);
-}
-function currentSlide(n) {
-showSlides(slideIndex = n);
-}
-function showSlides(n) {
-var i;
-var slides = document.getElementsByClassName("mySlides");
-var dots = document.getElementsByClassName("dot");
-if (n > slides.length) {slideIndex = 1}
-if (n < 1) {slideIndex = slides.length}
-for (i = 0; i < slides.length; i++) {
-slides[i].style.display = "none";
-}
-for (i = 0; i < dots.length; i++) {
-dots[i].className = dots[i].className.replace(" active", "");
-}
-slides[slideIndex-1].style.display = "block";
-dots[slideIndex-1].className += " active";
-}
+  var slideIndex = 1;
+  showSlides(slideIndex);
+
+  function plusSlides(n) {
+    showSlides(slideIndex += n);
+  }
+
+  function currentSlide(n) {
+    showSlides(slideIndex = n);
+  }
+
+  function showSlides(n) {
+    var i;
+    var slides = document.getElementsByClassName("mySlides");
+    if (n > slides.length) {
+      slideIndex = 1
+    }
+    if (n < 1) {
+      slideIndex = slides.length
+    }
+    for (i = 0; i < slides.length; i++) {
+      slides[i].style.display = "none";
+    }
+    slides[slideIndex - 1].style.display = "block";
+  }
 </script>
+
 </body>
 </html>

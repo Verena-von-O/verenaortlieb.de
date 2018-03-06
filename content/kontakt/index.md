@@ -6,10 +6,10 @@ identifier = "contact"
 weight = 6
 +++
 
-<div class="sub-hero img-contact"></div>
+<div class="sub-hero img-contact">
 
 <h2 class="sub-hero-img-text">Kontakt</h2>
-
+</div>
 
 <p>Du möchtest mehr über mein Coaching Angebot erfahren, hast Fragen oder Anregungen zu dem was ich tue oder willst einfach nur Hallo sagen?
 <br><br>
@@ -28,7 +28,7 @@ Ich freue mich von dir zu hören!</p>
 
 <h4>Wer bist du eigentlich?</h4>
 
-Das ist eine gute Frage. Hier ein versuch einer Antwort. Also, ich bin Verena. Ich bereise die Welt. Ich helfe Menschen dabei mit ihrem Leben klar zu kommen. Ich lerne sehr gerne neues. Ich gebe mich nicht mit einem “das ist halt so” zufrieden. Ich liebes es zu lachen und Hunde zu streicheln. Katzen auch. Und Alpakas. Und ich würde gerne mal mehr Zeit mit einem Pinguin verbringen. Ja, ich bin Tierverrückt. Du willst noch mehr wissen? Dann solltest du mir doch eine E-Mail schreiben mit deinen Fragen :) 
+Das ist eine gute Frage. Hier mein Versuch einer Antwort. Also, ich bin Verena. Ich bereise die Welt. Ich helfe Menschen dabei mit ihrem Leben klar zu kommen. Ich lerne sehr gerne Neues. Ich gebe mich nicht mit einem “das ist halt so” zufrieden. Ich liebes es zu lachen und Hunde zu streicheln. Katzen auch. Und Alpakas. Und ich würde gerne mal mehr Zeit mit einem Pinguin verbringen. Ja, ich bin tier-verrückt. Du willst noch mehr wissen? Dann solltest du mir doch eine E-Mail schreiben mit deinen Fragen :) 
 
 <h4>Was machst du eigentlich?</h4>
 
