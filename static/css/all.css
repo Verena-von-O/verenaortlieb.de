@@ -374,14 +374,15 @@ strong {
   height: auto;
   padding: 2em 0;
   margin: 2em 0 3em 0;
+  display: flex;
+  justify-content: center;
+  align-content: center;
 }
 
 .index-highlight-text h3 {
   width: 80%;
   margin: auto;
   padding: 0 1em;
-  position: relative;
-  top: 10%;
   font-size: 2em;
   line-height: 1.5em;
 }
