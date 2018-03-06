@@ -354,6 +354,12 @@ strong {
   font-family: var(--font-signature-hero); 
   font-size: 2.5em; 
   margin: auto;
+}
+
+.signature-ego {
+  font-family: var(--font-signature-hero); 
+  font-size: 2.5em; 
+  margin: auto;
   width: 100%;
 }
 
@@ -864,6 +870,10 @@ input[type=submit]:hover {
     width: 80%;
   }
 
+.signature {
+  width: 80%;
+}
+
   .image-ego-container {
     width: 80%;
     margin: auto;
@@ -986,7 +996,6 @@ input[type=submit]:hover {
     width: 90%;
   }
 .signature {
-  font-family: var(--font-signature-hero); 
   font-size: 2em; 
   width: 90%;
 }
