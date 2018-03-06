@@ -1,27 +1,18 @@
 +++
-title = "Ich"
+title = "Über Mich"
 layout = "default"
 [menu.main]
-identifier = "ich"
+identifier = "ueber"
 weight = 1
 +++
 
-<h2 class="sub-side-hero">Hallo, ich bin Verena.</h2>
-
-Ich bin hier um etwas zu verändern. Und dir dabei zu helfen.
-
-Mein Weg war und ist alles andere als geradlinig. Und genau das liebe ich. Was manche als problematisch ansehen, das sehe ich als eine der besten Dinge überhaupt.
-
 <div class="image-ego-container">
 	<img id="image-ego" src="/img/verena.jpg" alt="">
+	<h2>Hi, ich bin Verena!</h2>
+	<p>Willkommen in meinem online zuhause.  Ich freu mich, dass du da bist! <br><br>
+	Obwohl ich jetzt Menschen auf der ganzen Welt dabei helfe ein erfüllteres Leben zu führen sahen die Anfänge meines Arbeitslebens ganz anders aus. Mit einem Abschluss in Architektur konnte ich als Designerin und Illustratorin meiner Leidenschaft für Kunst und Design nachgehen. Auch heute tue ich dies noch und freue mich ab und an bei einem spannenden Projekt mitzuarbeiten. <br><br>
+	Im Sommer 2016 hat sich bei mir aber viel verändert. Denn ich bin aufgebrochen die Welt zu erkunden. Dies war und ist nicht nur eine Reise um die Welt sondern auch eine Reise zu mir. Und auf dieser Reise wurde immer mehr klar, dass es meine Mission und Leidenschaft ist das, was ich lerne und entdecke weiter zu geben. <br><br>
+	Das Leben hat so viel mehr zu bieten als den normalen Weg und genau das helfe ich Menschen auf der ganzen Welt zu entdecken. Jeder hat seinen eigenen Weg zum Glück, du musst ihn nur finden und dich trauen ihn zu beschreiten.
+	</p>
+	<h1 class="signature">Deine Verena</h1>
 </div>
-
-Ich gehe gerne meinen eigenen Weg, ich probiere gerne neues aus, ich teste gerne Grenzen und bin davon überzeugt, dass man immer einen Weg finden kann. Man muss sich nur trauen.
-
-Und genau das ist es, was mich immer weiter machen lässt und was mich an meiner Arbeit so fasziniert. 
-
-Gemeinsam schaffen wir es aus Situationen die ausweglos scheinen oder mit Problemen die erschlagend wirken einen Weg zu finden. Einen Weg zu dem Leben welches du schon immer führen wolltest. Einen Weg zu dir. 
-
-Ich bin für dich da. Ich bin dein Partner auf diesem Weg. Ich bin nicht da um dir bei allem zuzustimmen sondern dir zu helfen das richtige für dich zu finden.
-
-Und wenn du sojemanden suchst, dann freue ich mich darauf von dir zu hören!

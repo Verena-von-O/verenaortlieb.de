@@ -1,19 +1,15 @@
 +++
 title = "Lob"
 layout = "default"
-[menu.main]
-identifier = "lob"
-weight = 4
 +++
 
+<!-- [menu.main]
+identifier = "lob"
+weight = 4 -->
 
-<h2 class="sub-side-hero">Was andere sagen...</h2>
+<div class="sub-hero img-lob"></div>
 
-<img src="/img/you-them.svg" alt="">
-
-<!-- <div  class="img-halfe">
-<img src="/img/you-them.png" alt="">
-</div> -->
+<h2 class="sub-hero-img-text">Was andere sagen...</h2>
 
 <div class="lob-text">
 <p>

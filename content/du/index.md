@@ -1,15 +1,15 @@
 +++
 title = "Du"
 layout = "default"
-[menu.main]
-identifier = "du"
-weight = 2
 +++
 
-<h2 class="sub-side-hero">Hört sich das nach dir an...</h2>
+<!-- [menu.main]
+identifier = "du"
+weight = 2 -->
 
-<div  class="img-halfe">
-<img src="/img/you-standing.svg" alt="">
+<div class="sub-hero img-du">
+
+<h2 class="sub-hero-img-text">Hört sich das nach dir an...</h2>
 </div>
 
 Ich weiss warum du auf meiner Webseite gelandet bist. Zumindest habe ich eine starke Vermutung.

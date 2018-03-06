@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
+	
+<head>
+<title>{{ .Title }} | {{ .Site.Title }}</title>
+		{{ partial "head.html" . }}
+</head>
+<body>
+
+	{{ partial "header.html"  . }} 
+
+
+	<main class="site-content">
+		
+		{{ .Content }}
+
+	</main>
+	
+	<footer class="footer">
+	<div class="footer-content">
+		<div class="footer-social">
+			<a href="https://www.facebook.com/VerenaOrtlieb/" target="_blank"><div class="social-facebook"></div></a>
+			<a href="mailto:verena@verenaortlieb.de" target="_blank"><div class="social-mail"></div></a>
+		</div>
+		<p>© copyright 2018 | verena ortlieb</p>
+		<p class="footer-extra"><a href="/impressum">Impressum</a></p>
+	</div>
+</footer>
+
+	<script src="{{ .Site.BaseURL }}js/functions.js"></script>
+
+	</body>
+</html>
