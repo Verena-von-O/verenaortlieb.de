@@ -39,7 +39,7 @@ h4 {
 }
 
 p {
-  font-size: 1.1em;
+  font-size: 1em;
   line-height: 1.6;
   display: block;
   padding: 1em 0;
@@ -73,7 +73,7 @@ p a:hover {
 }
 
 ul {
-  font-size: 1.1em;
+  font-size: 1em;
   line-height: 1.6;
   display: block;
   padding: 1em 2em;
@@ -354,6 +354,7 @@ strong {
   font-family: var(--font-signature-hero); 
   font-size: 2.5em; 
   margin: auto;
+  width: 100%;
 }
 
 /*index*/
