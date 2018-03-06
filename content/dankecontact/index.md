@@ -14,5 +14,5 @@ Bis dahin kannst dich gerne weiter auf meiner Webseite umschauen, in meinem <a h
 
 Bis ganz bald,
 
-<h1 style="font-family: var(--font-signature-hero); font-size: 2.5em; margin-bottom: 1.5em;">Deine Verena</h1>
+<h1 class="signature">Deine Verena</h1>
 

@@ -355,6 +355,12 @@ strong {
   margin-top: -1em;
 }
 
+.signature {
+  font-family: var(--font-signature-hero); 
+  font-size: 2.5em; 
+  margin: 0;
+}
+
 /*index*/
 .index-title {
   text-align: center;
@@ -843,6 +849,7 @@ input[type=submit]:hover {
   h2 {
     font-size: 1.75em;
     width: 80%;
+    margin: auto;
   }
 
   h3 {
@@ -967,13 +974,26 @@ input[type=submit]:hover {
     height: 20em;
   }
 
+  .post-title {
+    width: 80%;
+  }
+
+  .post-date {
+    width: 80%;
+  }
+
 }
 
 @media only screen and (max-width:28em) {
   p, h1, h2, h3, h4 {
-    width: 85%;
+    width: 90%;
   }
-
+.signature {
+  font-family: var(--font-signature-hero); 
+  font-size: 2em; 
+  width: 90%;
+  margin: auto;
+}
   .image-ego-container {
     width: 85%;
   }
@@ -994,6 +1014,13 @@ input[type=submit]:hover {
     width: 90%;
     padding: 0.5em;
     margin-bottom: 1em;
+  }
+
+  .post-title {
+    width: 90%;
+  }
+  .post-date {
+    width: 90%;
   }
 
   .date-blog-index {
@@ -1076,5 +1103,9 @@ input[type=submit]:hover {
     top: 55%;
     left: 50%;
   }
+
+.contact-highlight-text{
+  padding: 1em;
+}
 
 }
