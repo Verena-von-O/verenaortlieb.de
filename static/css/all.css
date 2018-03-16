@@ -657,6 +657,12 @@ ul.blog-index {
   background-color: var(--fun-color);
 }
 
+.img-hero-blogpost {
+  max-height: 30em;
+  width: auto;
+  object-fit: contain;
+}
+
 .post-date {
   margin: 3em auto auto;
   width: 55%;
