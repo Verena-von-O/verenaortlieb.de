@@ -1,6 +1,6 @@
 +++
 title = "Folge den kleinen Dingen"
-date = "2018-03-16"
+date = "2018-03-29"
 layout = "blog"
 slug = "folge-den-kleinen-Dingen"
 +++
