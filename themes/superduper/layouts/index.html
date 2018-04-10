@@ -14,10 +14,12 @@
 				|
 			</div>
 			<nav>
-				<ul>
+				<ul class="menu">
 					{{ range .Site.Menus.main }}
 					<li><a href="{{ .URL | relURL }}">{{ .Name }}</a></li>
 					{{ end }}
+					  <li class="slider"></li>
+
 				</ul>
 			</nav>
 		</div>

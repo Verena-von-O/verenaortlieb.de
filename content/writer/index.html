@@ -1,17 +1,13 @@
-<!DOCTYPE html>
-<html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
++++
+title = "Writer"
+layout = "default"
+[menu]
+    [menu.main]
+        weight = 150
++++
 
-<head>
-	{{ partial "head.html" . }}
-  <title>Writer | {{ .Site.Title }}</title>
-</head>
-<body>
+<h1>Writer.</h1>
 
-	{{ partial "header.html"  . }} 
-
-	<main>
-
-		<h1>My Blog.</h1>
 		<ul>			
 			{{ range .Data.Pages }}
 			<li>
@@ -34,13 +30,3 @@
 			</li>
 			{{ end }}
 		</ul>
-
-
-	</main>
-
-	{{ partial "footer.html" . }}
-
-	<script src="{{ .Site.BaseURL }}js/functions.js"></script>
-
-</body>
-</html>
