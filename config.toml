@@ -9,8 +9,8 @@ theme = "superduper"
 [blackfriday]
    hrefTargetBlank = true
 
-# [[menu.main]]
-#     name = "Writer"
-#     identifier = "article"
-#     url = "/article/"
-#     weight = 150
+[[menu.main]]
+    name = "Writer"
+    identifier = "blog"
+    url = "/blog/"
+    weight = 150
