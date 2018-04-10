@@ -1,20 +1,4 @@
-title = "Verena Ortlieb"
+baseURL = "https://www.verenaortlieb.de/"
 languageCode = "de-de"
-copyright = "This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License."
-
-baseurl = "https://www.verenaortlieb.de/"
-
-[permalinks]
-  blog = "/blog/:slug/"
-
-[author]
-  name = "Verena Ortlieb"
-
-[blackfriday]
-  hrefTargetBlank = true
-
-[[menu.main]]
-  name = "Blog"
-  identifier = "blog"
-  url = "/blog/"
-  weight = 5
+title = "Verena Ortlieb"
+theme = "superduper"
