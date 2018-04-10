@@ -2,3 +2,15 @@ baseURL = "https://www.verenaortlieb.de/"
 languageCode = "de-de"
 title = "Verena Ortlieb"
 theme = "superduper"
+
+[author]
+    name = "Verena Ortlieb"
+
+[blackfriday]
+   hrefTargetBlank = true
+
+[[menu.main]]
+    name = "Writer"
+    identifier = "article"
+    url = "/article/"
+    weight = 150
