@@ -3,6 +3,7 @@ html {
   --text-color: #333;
   --text-font: 'Open Sans', sans-serif;
   --title-font: serif;
+  --bg-color-1: #93D5D5;
 }
 
 body {
@@ -10,12 +11,15 @@ body {
 	margin: 0;
 	padding: 0;
 	font-family: var(--text-font);
+	display: flex;
+	min-height: 100vh;
+	flex-direction: column;
 }
 
 main {
-	min-height: 100vh;
 	width: 50%;
 	margin: 5em auto;
+	flex: 1;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -41,14 +45,18 @@ a {
 /*Header*/
 
 header {
-	background-color: red;
+	background-color: var(--bg-color-1);
+	
+}
+
+.header-content {
+	font-size: 1.5em;
+	padding: 1em;
 	display: flex;
 	flex-direction: row;
 	align-items: flex-start;
-	align-content: space-between;
-	font-size: 1.5em;
-	padding: 1em;
-	margin: auto; 
+	justify-content: center;
+	margin: auto;
 }
 
 .header-seperator {
@@ -70,16 +78,57 @@ header nav a {
 /*Index*/
 
 .whole-index {
-	background-color: red;
+	background-color: #93D5D5;
+	width: 90%;
+	margin: auto;
 }
 
 .content-index {
+	flex: 1;
 	display: flex;
 	flex-direction: row;
 	align-items: flex-start;
-	font-size: 4em;	
+	font-size: 3em;	
+	margin: 3em auto;
 }
 
+.whole-index a {
+	padding: 0 0.25em;
+}
+
+.whole-index a:hover {
+	background-color: #fff;
+}
+
+.index-seperator {
+	padding: 0 0.1em;
+}
+
+
+
+@media only screen and (max-width: 48em) {
+	.content-index {
+	font-size: 2em;	
+}
+ 
+}
+
+@media only screen and (max-width: 30em) {
+	.content-index {
+	font-size: 2em;	
+	flex-direction: column;
+	text-align: center;
+}
+.index-seperator {
+	display: none;
+}
+
+.whole-index a {
+	padding: 0;
+}
+
+ 
+}
 
 
 
@@ -88,5 +137,22 @@ header nav a {
 
 footer {
 	position: relative;
+	margin: 1em auto;
+	display: flex;
+	flex-direction: row;
+}
 
+@media only screen and (max-width: 48em) {
+footer {
+	font-size: 0.8em;
+}
+ 
+}
+
+@media only screen and (max-width: 30em) {
+footer {
+	flex-direction: column;
+	text-align: center;
+}
+ 
 }
