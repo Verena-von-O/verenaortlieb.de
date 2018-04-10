@@ -1,9 +1,9 @@
 html {
-  text-rendering: optimizeLegibility;
-  --text-color: #333;
-  --text-font: 'Open Sans', sans-serif;
-  --title-font: serif;
-  --bg-color-1: #93D5D5;
+	text-rendering: optimizeLegibility;
+	--text-color: #333;
+	--text-font: 'Open Sans', sans-serif;
+	--title-font: serif;
+	--bg-color-1: #93D5D5;
 }
 
 body {
@@ -23,8 +23,8 @@ main {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  margin: 0;
-  font-family: var(--title-font);
+	margin: 0;
+	font-family: var(--title-font);
 }
 
 p {
@@ -43,10 +43,8 @@ a {
 }
 
 /*Header*/
-
 header {
 	background-color: var(--bg-color-1);
-	
 }
 
 .header-content {
@@ -72,11 +70,7 @@ header nav a {
 	padding-left: 0.8em;
 }
 
-
-
-
 /*Index*/
-
 .whole-index {
 	background-color: #93D5D5;
 	width: 90%;
@@ -88,7 +82,7 @@ header nav a {
 	display: flex;
 	flex-direction: row;
 	align-items: flex-start;
-	font-size: 3em;	
+	font-size: 3em;
 	margin: 3em auto;
 }
 
@@ -104,37 +98,31 @@ header nav a {
 	padding: 0 0.1em;
 }
 
-
-
-@media only screen and (max-width: 48em) {
+@media only screen and (max-width:48em) {
 	.content-index {
-	font-size: 2em;	
-}
- 
+		font-size: 2em;
+	}
+
 }
 
-@media only screen and (max-width: 30em) {
+@media only screen and (max-width:30em) {
 	.content-index {
-	font-size: 2em;	
-	flex-direction: column;
-	text-align: center;
+		font-size: 2em;
+		flex-direction: column;
+		text-align: center;
+	}
+
+	.index-seperator {
+		display: none;
+	}
+
+	.whole-index a {
+		padding: 0;
+	}
+
 }
-.index-seperator {
-	display: none;
-}
-
-.whole-index a {
-	padding: 0;
-}
-
- 
-}
-
-
-
 
 /*Footer*/
-
 footer {
 	position: relative;
 	margin: 1em auto;
@@ -142,17 +130,17 @@ footer {
 	flex-direction: row;
 }
 
-@media only screen and (max-width: 48em) {
-footer {
-	font-size: 0.8em;
-}
- 
+@media only screen and (max-width:48em) {
+	footer {
+		font-size: 0.8em;
+	}
+
 }
 
-@media only screen and (max-width: 30em) {
-footer {
-	flex-direction: column;
-	text-align: center;
-}
- 
+@media only screen and (max-width:30em) {
+	footer {
+		flex-direction: column;
+		text-align: center;
+	}
+
 }
