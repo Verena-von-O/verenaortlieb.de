@@ -58,7 +58,6 @@ a {
 
 /*Header*/
 header {
-	background-color: var(--color-1);
 }
 
 .header-content {
@@ -68,7 +67,7 @@ header {
 	flex-direction: row;
 	align-items: flex-start;
 	justify-content: center;
-	margin: auto;
+	margin: 2em auto;
 }
 
 .header-seperator {
@@ -86,7 +85,7 @@ header nav a {
 }
 
 header nav a.active {
-	background-color: white;
+	background-color: var(--color-2);
 }
 
 @media only screen and (max-width:48em) {
@@ -219,6 +218,30 @@ li.slider {
 	}
 
 }
+
+
+
+/*Subsites*/
+
+section h1 {
+	font-size: 3em;
+	margin: 1em 0;
+}
+
+section p {
+	font-size: 1.15em;
+	line-height: 1.5em;
+	margin-bottom: 0.75em;
+}
+
+section img {
+	width: 100%;
+}
+
+section h2 {
+	margin: 1em 0;
+}
+
 
 /*Footer*/
 footer {
