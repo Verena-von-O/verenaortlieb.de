@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
+	<head>
+		<title>{{ .Title }} | {{ .Site.Title }}</title>
+		{{ partial "head.html" . }}
+	</head>
+	<body>
+		{{ partial "header.html"  . }}
+		<main>
+			<section>
+				<div class="blog-post-date">
+					{{ .Date.Format "02. 01. 2006" }}
+				</div>
+				<div>
+					<h2 class="blog-post-title">{{ .Title }}</h2>
+					<div class="blog-post-lesezeit">
+						Lesezeit ~ {{ .ReadingTime }} Minuten
+					</div>
+					<p class="blog-post-text">
+					{{ .Content }}</p>
+				</section>
+			</main>
+			
+			{{ partial "footer.html" . }}
+			<script src="{{ .Site.BaseURL }}js/functions.js"></script>
+		</body>
+	</html>

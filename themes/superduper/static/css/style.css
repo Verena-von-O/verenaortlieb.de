@@ -28,7 +28,7 @@ main {
 	flex: 1;
 }
 
-@media only screen and (max-width:48em) {
+@media only screen and (max-width:54em) {
 	main {
 		width: 75%;
 	}
@@ -261,6 +261,14 @@ section a:hover {
 	padding: 0.1em 0.3em;
 }
 
+section li {
+	list-style: disc;
+	margin-left: 3em;
+	font-size: 1.15em;
+	line-height: 1.25em;
+	margin-bottom: 0.75em;
+}
+
 .img-text-float img {
 	width: 47%;
 	float: left;
@@ -279,8 +287,18 @@ section a:hover {
 
 
 /*BlogPost Ubersicht*/
+.blog-ubersicht {
+	margin-top: 5em;
+}
 .single-blog-post {
-	margin: 2em 0;
+}
+
+.seperator-blog-posts {
+	border-bottom: 2px solid var(--text-color);
+	width: 50%;
+	text-align: center;
+	margin: 5em auto 5em auto;
+
 }
 
 .single-blog-post a:hover {
@@ -307,6 +325,22 @@ background-color: var(--color-7);
 .blog-ubersicht-read-more{
 	font-weight: 600;
 	font-size: 1.15em;
+}
+
+
+/*Blogposts*/
+.blog-post-date {
+	opacity: 0.8;
+}
+.blog-post-title {
+	font-size: 2em;
+	margin: 0.5em 0 0.2em 0;
+}
+.blog-post-lesezeit {
+	margin-bottom: 2.5em;
+}
+.blog-post-text {
+
 }
 
 
