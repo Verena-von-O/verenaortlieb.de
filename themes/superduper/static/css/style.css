@@ -70,7 +70,7 @@ header {
 }
 
 .header-seperator {
-	padding-left: 1em;
+	padding-left: 0.6em;
 }
 
 header nav {
@@ -87,24 +87,29 @@ header nav a.active {
 	background-color: var(--color-2);
 }
 
-@media only screen and (max-width:48em) {
-	.header-content {
-		font-size: 1.2em;
+@media only screen and (max-width:58em) {
+.header-content {
 		flex-direction: column;
 		margin: auto;
 		align-items: center;
 	}
 
+header nav {
+		flex-direction: column;
+		text-align: center;
+		margin-top: 1em;
+		padding-top: 1em; 
+		border-top: 2px solid var(--text-color);
+	}
+	.header-seperator {
+		display: none;
+	}
 	header nav a {
 		padding: 0 0.15em;
 		margin: 0 0.15em;
 	}
-
-	.header-seperator {
-		display: none;
-	}
-
 }
+
 
 /*Index*/
 .whole-index {
@@ -212,14 +217,22 @@ li.slider {
 		font-size: 2em;
 		flex-direction: column;
 		text-align: center;
+
+	}
+	.menu {
+		border-top: 2px solid var(--text-color);
+		margin-top: 0.6em;
+		padding-top: 0.4em;
 	}
 
 	.index-seperator {
 		display: none;
+
 	}
 
 	.whole-index a {
 		padding: 0;
+
 	}
 
 }

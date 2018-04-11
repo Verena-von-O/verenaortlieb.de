@@ -10,7 +10,7 @@ theme = "superduper"
    hrefTargetBlank = true
 
 [[menu.main]]
-    name = "Writer"
+    name = "Schreiber"
     identifier = "blog"
     url = "/blog/"
     weight = 150
