@@ -287,9 +287,11 @@ section li {
 
 
 /*BlogPost Ubersicht*/
-.blog-ubersicht {
-	margin-top: 5em;
+.blog-section-title {
+	font-size: 3em;
+	margin: 1em 0;
 }
+
 .single-blog-post {
 }
 
