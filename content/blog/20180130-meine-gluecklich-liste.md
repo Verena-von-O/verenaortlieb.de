@@ -1,7 +1,7 @@
 +++
 layout = "article"
 date = "2018-01-30"
-title = "Meine glücklich liste."
+title = "Meine glücklich Liste."
 slug = "meine-gluecklich-liste"
 +++
 

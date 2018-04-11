@@ -66,49 +66,20 @@ header {
 	flex-direction: row;
 	align-items: flex-start;
 	justify-content: center;
-	margin: 2em auto 0 auto;
-}
-
-.header-seperator {
-	padding-left: 0.6em;
+	margin: 1.5em auto 0 auto;
 }
 
 header nav {
-	display: flex;
-	flex-direction: row;
-}
+	}
 
 header nav a {
 	padding: 0 0.25em;
-	margin: 0 0.25em;
 }
 
 header nav a.active {
 	background-color: var(--color-2);
 }
 
-@media only screen and (max-width:58em) {
-.header-content {
-		flex-direction: column;
-		margin: auto;
-		align-items: center;
-	}
-
-header nav {
-		flex-direction: column;
-		text-align: center;
-		margin-top: 1em;
-		padding-top: 1em; 
-		border-top: 2px solid var(--text-color);
-	}
-	.header-seperator {
-		display: none;
-	}
-	header nav a {
-		padding: 0 0.15em;
-		margin: 0 0.15em;
-	}
-}
 
 
 /*Index*/
@@ -160,49 +131,52 @@ li.slider {
 	height: 16%;
 	position: absolute;
 	z-index: 8;
-	transition: top 0.4s, background-color 0.4s;
+	transition: top 0.4s, background-color 0.2s;
 }
 
 .menu li:nth-child(1):hover ~ .slider, 
 .menu li:nth-child(1):focus ~ .slider, 
-.menu li:nth-child(1):active ~ .slider {
+.menu li:nth-child(1):active ~ .slider
+ {
 	top: 0%;
 	background-color: var(--color-2);
+	padding: 0 0.25em;
 }
 
 .menu li:nth-child(2):hover ~ .slider, 
 .menu li:nth-child(2):focus ~ .slider, 
-.menu li:nth-child(2):active ~ .slider {
+.menu li:nth-child(2):active ~ .slider
+{
 	top: 17%;
 	background-color: var(--color-3);
+	padding: 0 0.25em;
 }
 
 .menu li:nth-child(3):hover ~ .slider, 
 .menu li:nth-child(3):focus ~ .slider, 
-.menu li:nth-child(3):active ~ .slider {
+.menu li:nth-child(3):active ~ .slider
+ {
 	top: 33%;
 	background-color: var(--color-4);
+	padding: 0 0.25em;
 }
 
-.menu li:nth-child(4):hover ~ .slider, 
-.menu li:nth-child(4):focus ~ .slider, 
-.menu li:nth-child(4):active ~ .slider {
+.menu li:nth-child(4):hover ~ .slider, .menu li:nth-child(4):focus ~ .slider, .menu li:nth-child(4):active ~ .slider {
 	top: 51%;
 	background-color: var(--color-5);
+	padding: 0 0.25em;
 }
 
-.menu li:nth-child(5):hover ~ .slider, 
-.menu li:nth-child(5):focus ~ .slider, 
-.menu li:nth-child(5):active ~ .slider {
+.menu li:nth-child(5):hover ~ .slider, .menu li:nth-child(5):focus ~ .slider, .menu li:nth-child(5):active ~ .slider {
 	top: 68%;
 	background-color: var(--color-6);
+	padding: 0 0.25em;
 }
 
-.menu li:nth-child(6):hover ~ .slider, 
-.menu li:nth-child(6):focus ~ .slider, 
-.menu li:nth-child(6):active ~ .slider {
+.menu li:nth-child(6):hover ~ .slider, .menu li:nth-child(6):focus ~ .slider, .menu li:nth-child(6):active ~ .slider {
 	top: 84%;
 	background-color: var(--color-7);
+	padding: 0 0.25em;
 }
 
 @media only screen and (max-width:48em) {
@@ -217,8 +191,8 @@ li.slider {
 		font-size: 2em;
 		flex-direction: column;
 		text-align: center;
-
 	}
+
 	.menu {
 		border-top: 2px solid var(--text-color);
 		margin-top: 0.6em;
@@ -227,12 +201,10 @@ li.slider {
 
 	.index-seperator {
 		display: none;
-
 	}
 
 	.whole-index a {
 		padding: 0;
-
 	}
 
 }
@@ -290,14 +262,13 @@ section li {
 }
 
 @media only screen and (max-width:48em) {
-.img-text-float img {
-	width: 100%;
-	padding-right: 0;
-	margin-bottom: 2em;
-}
-}
+	.img-text-float img {
+		width: 100%;
+		padding-right: 0;
+		margin-bottom: 2em;
+	}
 
-
+}
 
 /*BlogPost Ubersicht*/
 .blog-section-title {
@@ -313,11 +284,10 @@ section li {
 	width: 50%;
 	text-align: center;
 	margin: 5em auto 5em auto;
-
 }
 
 .single-blog-post a:hover {
-background-color: var(--color-7);
+	background-color: var(--color-3);
 }
 
 .blog-ubersicht-date {
@@ -328,37 +298,37 @@ background-color: var(--color-7);
 	padding: 0.4em 0 0.6em 0;
 	font-size: 2em;
 }
-.blog-ubersicht-lesezeit {
 
+.blog-ubersicht-lesezeit {
 }
+
 .blog-ubersicht-summary {
 	padding: 0.8em 0;
 	font-size: 1.15em;
 	line-height: 1.5em;
 }
 
-.blog-ubersicht-read-more{
+.blog-ubersicht-read-more {
 	font-weight: 600;
 	font-size: 1.15em;
 }
-
 
 /*Blogposts*/
 .blog-post-date {
 	opacity: 0.8;
 }
+
 .blog-post-title {
 	font-size: 2em;
 	margin: 0.5em 0 0.2em 0;
 }
+
 .blog-post-lesezeit {
 	margin-bottom: 2.5em;
 }
+
 .blog-post-text {
-
 }
-
-
 
 /*Footer*/
 footer {
