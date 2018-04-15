@@ -340,6 +340,17 @@ section li {
 .blog-post-text {
 }
 
+
+/*Impressum*/
+.kontakt-impressum-link {
+	margin-top: 4em;
+	margin-bottom: -2em;
+}
+
+.kontakt-impressum-link a {
+	background-color: white;
+}
+
 /*Footer*/
 footer {
 	position: relative;
