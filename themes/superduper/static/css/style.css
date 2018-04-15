@@ -344,6 +344,11 @@ footer div {
 
 footer div a {
 	margin: 1em;
+	padding: 0.2em; 
+}
+
+footer a:hover {
+	background-color: var(--color-2);
 }
 
 @media only screen and (max-width:48em) {
