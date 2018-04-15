@@ -1,13 +1,13 @@
 +++
-title = "Folge den kleinen Dingen"
-date = "2018-03-29"
-layout = "blog"
-slug = "folge-den-kleinen-Dingen"
+layout = "article"
+date = "2018-03-28"
+title = "Folge den kleinen Dingen."
+slug = "folge-den-kleinen-dingen"
 +++
 
 Fragst du dich auch manchmal, wann die nächste große Idee dich finden wird? Die große Idee für einen Bestseller, eine neue Produktidee, ein neuen Karriereweg, irgend eine Idee, die dich deiner neuen, besseren, strahlenden Zukunft etwas näher bringt?
 
-Vielleicht wird dieser Funken niemals kommen. **Vielleicht bin ich einfach nicht der Mensch dafür, von so einem Geistesblitz getroffen zu werden.** Das bedeutet, dass ich entweder weiter darauf warten kann oder aufgeben kann. Und mein einfaches Leben fortführen kann ohne etwas, das größer ist als ich es bin.
+Vielleicht wird dieser Funken niemals kommen. Vielleicht bin ich einfach nicht der Mensch dafür, von so einem Geistesblitz getroffen zu werden. Das bedeutet, dass ich entweder weiter darauf warten kann oder aufgeben kann. Und mein einfaches Leben fortführen kann ohne etwas, das größer ist als ich es bin.
 
 Oder statt weiterhin auf der Couch zu sitzen und zu warten auf diese große Idee kann ich aufstehen und loslaufen in die richtige Richtung. Zu dem Ort laufen an dem mich der Blitz doch treffen wird oder einfach bis ans Ziel laufen ohne dass diese Naturgewalt mich erreicht.
 
@@ -21,4 +21,6 @@ Oder du gehst für einen Spaziergang durch den Wald und findest einen neuen Weg 
 
 Oder du fängst an Bücher zu lesen und gehst in die Bücherei jede Woche um ein neues Buch zu holen und die Büchereimitarbeiterin empfiehlt dir ein Buch das du sonst nie gefunden hättest und du liebst dieses Buch und liest alles was der Autor sonst noch geschrieben hat und liebst jedes Buch mehr als das vorherige und du fängst an jedem über diese tollen Bücher zu erzählen und bist glücklich dass do so etwas tolles entdeckt hast. Und ohne dass du es weisst bist du diejenige welche dem Autor dazu verhilft so viele Bücher zu verkaufen, dass er seinen Job kündigen kann und mehr für seine kleine Tochter da sein kann und noch mehr fantastische Bücher schreiben kann.
 
-**Egal wie das kleine Licht aussieht, egal auf welchen Weg dich diese kleine Lichter führen, egal ob du weisst warum du diesen Weg gehst oder nicht.** Folge den kleinen Lichter und vertraue darauf, dass sie dich dort hin bringen, wo du hin gehen sollst. Vertraue darauf, dass dies der richtige Weg ist, dass dies dein Weg ist. Vertraue darauf.
+**Egal wie das kleine Licht aussieht, egal auf welchen Weg dich diese kleine Lichter führen, egal ob du weisst warum du diesen Weg gehst oder nicht.** Folge den kleinen Lichter und vertraue darauf, dass sie dich dort hin bringen, wo du hin gehen sollst. Vertraue darauf, dass dies der richtige Weg ist, dass dies dein Weg ist. 
+
+**Vertraue darauf.**

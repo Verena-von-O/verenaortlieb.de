@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
+	<head>
+		{{ partial "head.html" . }}
+		<title>{{ .Site.Title }}</title>
+	</head>
+	<body class="whole-index">
+		
+		<div class="content-index">
+			
+			<div>Verena Ortlieb
+			</div>
+			<div class="index-seperator">
+				|
+			</div>
+			<nav>
+				<ul class="menu">
+					{{ range .Site.Menus.main }}
+					<li><a href="{{ .URL | relURL }}">{{ .Name }}</a></li>
+					{{ end }}
+					  <li class="slider"></li>
+
+				</ul>
+			</nav>
+		</div>
+		{{ partial "footer.html" . }}
+	</body>
+</html>

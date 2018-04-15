@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
+
+<head>
+	{{ partial "head.html" . }}
+  <title>Schreiber | {{ .Site.Title }}</title>
+</head>
+<body>
+
+	{{ partial "header.html"  . }} 
+
+	<main class="site-content">
+
+		<h1 class="blog-section-title">Schreiber.</h1>
+
+		<ul class="blog-ubersicht">			
+			{{ range .Data.Pages }}
+			<li class="single-blog-post">
+				<div class="blog-ubersicht-date">
+				{{ .Date.Format "02. 01. 2006" }}
+				</div>
+				<div>
+				<h2 class="blog-ubersicht-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+				<div class="blog-ubersicht-lesezeit">
+				Lesezeit ~ {{ .ReadingTime }} Minuten
+				</div>
+				<p class="blog-ubersicht-summary">
+				{{ .Summary }}
+				</p>
+				<p class="blog-ubersicht-read-more">
+				<a href='{{ .Permalink }}'><nobr>Weiter lesen →</nobr></a>
+				</p>
+				<div class="seperator-blog-posts"></div>
+			</li>
+			{{ end }}
+		</ul>
+
+
+	</main>
+
+	{{ partial "footer.html" . }}
+
+	<script src="{{ .Site.BaseURL }}js/functions.js"></script>
+
+</body>
+</html>
