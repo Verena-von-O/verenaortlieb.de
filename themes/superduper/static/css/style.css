@@ -69,6 +69,10 @@ header {
 	margin: 1.5em auto 0 auto;
 }
 
+.header-name {
+	padding-right: 0.4em;
+}
+
 header nav {
 	}
 
@@ -105,6 +109,10 @@ header nav a.active {
 	padding: 0;
 }
 
+.index-right li {
+	padding-left: 0.25em;
+}
+
 .menu {
 	display: flex;
 	flex-direction: column;
@@ -115,8 +123,8 @@ header nav a.active {
 .menu li {
 	width: 100%;
 	height: auto;
-	padding-left: 0.25em;
-}
+/*	padding-left: 0.25em;
+*/}
 
 .menu a {
 	display: flex;
