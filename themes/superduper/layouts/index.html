@@ -7,21 +7,38 @@
 	<body class="whole-index">
 		
 		<div class="content-index">
-			
-			<div class="name-index">Verena Ortlieb
-			</div>
-			<div class="index-seperator">
-				|
-			</div>
-			<nav>
-				<ul class="menu index-right">
-					{{ range .Site.Menus.main }}
-					<li><a href="{{ .URL | relURL }}">{{ .Name }}</a></li>
-					{{ end }}
-					  <li class="slider"></li>
 
-				</ul>
-			</nav>
+				{{ partial "header.html"  . }} 
+
+	<main>
+
+	<section>
+
+<div class="index-me-all">
+<img class="index-me-img" src="/img/verena_square.jpg" alt="">
+<p class="index-me-text">
+	<strong>Hallo, und willkommen in meinem online zuhause.</strong> <br> Ich bin Verena. UX/UI Designerin, Illustratorin, Coach, Bloggerin, Reisende und so viel mehr. 
+</p>
+</div>
+
+<div class="index-content-all">
+	<div class="index-content-item">
+		<img src="/img/verena.jpg" alt="">
+	</div>
+	<div class="index-content-item">
+		<img src="/img/blog/all-that-stuff.jpg" alt="">
+		<h2></h2>
+		<p></p>
+	</div>
+
+</div>
+
+
+	</section>
+	</main>
+		
+	<script src="{{ .Site.BaseURL }}js/functions.js"></script>
+			
 		</div>
 		{{ partial "footer.html" . }}
 	</body>
