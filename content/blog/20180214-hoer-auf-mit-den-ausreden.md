@@ -17,7 +17,7 @@ Entweder hörst du sie von Freuden, Bekannten oder der Stimme in deinem Kopf.
 
 **Immer und immer kommt dieses „aber“.**
 
-Du hast einen Wunsch, eine Idee, eine Sehnsucht nach etwas Anderem als dem was du jetzt hast. Vielleicht ist es etwas Kleines, vielleicht etwas Grosses, vielleicht etwas Gigantisches. Doch immer kommt dieses Wort. Aber. Immer stoppst du deine Gedanken, wie es sein könnte, mit einem aber.
+Du hast einen Wunsch, eine Idee, eine Sehnsucht nach etwas Anderem als dem was du jetzt hast. Vielleicht ist es etwas Kleines, vielleicht etwas Grosses, vielleicht etwas Gigantisches. Doch immer kommt dieses Wort. ABER. Immer stoppst du deine Gedanken, wie es sein könnte, mit einem aber.
 
 Aber ich habe meinen Job hier. Aber ich kann das doch gar nicht. Aber alleine schaffe ich das nicht. Aber was denken denn dann die Anderen. Aber, aber, aber.
 
