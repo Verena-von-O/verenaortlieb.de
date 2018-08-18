@@ -72,78 +72,24 @@ header {
 
 .header-name {}
 
-header nav {
+header nav ul {
+	display: flex;
+	flex-direction: row;
+	margin: auto;
 }
 
 header nav a {
-	padding: 0 0.75em;
+	margin: 0 0.5em;
+	padding: 0.2em;
+}
+
+header nav a:hover {
+	background-color: var(--color-2);
 }
 
 header nav a.active {
 	background-color: var(--color-2);
 }
-
-.menu {
-	display: flex;
-	flex-direction: row;
-	position: relative;
-}
-
-.menu li {
-	width: 100%;
-	height: auto;
-}
-
-.menu a {
-	display: flex;
-	width: 100%;
-	height: 100%;
-	position: relative;
-}
-/*
-li.slider {
-	width: 20%;
-	height: 100%;
-	position: absolute;
-	transition: left 0.4s, background-color 0.2s;
-}
-
-.menu li:nth-child(1):hover ~ .slider, .menu li:nth-child(1):focus ~ .slider, .menu li:nth-child(1):active ~ .slider {
-	left: 0%;
-	background-color: var(--color-2);
-	padding: 0 0.25em;
-}
-
-.menu li:nth-child(2):hover ~ .slider, .menu li:nth-child(2):focus ~ .slider, .menu li:nth-child(2):active ~ .slider {
-	left: 24%;
-	background-color: var(--color-3);
-	padding: 0 0.25em;
-}
-
-.menu li:nth-child(3):hover ~ .slider, .menu li:nth-child(3):focus ~ .slider, .menu li:nth-child(3):active ~ .slider {
-	left: 50%;
-	background-color: var(--color-4);
-	padding: 0 0.25em;
-}
-
-.menu li:nth-child(4):hover ~ .slider, .menu li:nth-child(4):focus ~ .slider, .menu li:nth-child(4):active ~ .slider {
-	left: 75%;
-	background-color: var(--color-5);
-	padding: 0 0.25em;
-}*/
-
-/*.menu li:nth-child(5):hover ~ .slider, .menu li:nth-child(5):focus ~ .slider, .menu li:nth-child(5):active ~ .slider {
-	left: 68%;
-	background-color: var(--color-6);
-	padding: 0 0.25em;
-}
-
-.menu li:nth-child(6):hover ~ .slider, .menu li:nth-child(6):focus ~ .slider, .menu li:nth-child(6):active ~ .slider {
-	left: 84%;
-	background-color: var(--color-7);
-	padding: 0 0.25em;
-}*/
-
 
 
 @media only screen and (max-width:48em) {
@@ -166,12 +112,63 @@ li.slider {
 	}
 
 	header nav a {
-	padding: 0 0.25em;
+		padding: 0em 0.25em;
+	}
+}
+
+@media only screen and (max-width:32em) {
+	header nav ul {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+	header nav a {
+		font-size: 0.75em;
+		padding: 0em 0em;
 	}
 }
 
 
 /*Index*/
+.index-main h1 {
+	font-size: 3em;
+	margin: 1em 0;
+}
+
+@media only screen and (max-width:32em) {
+	.index-main h1 {
+		font-size: 2em;
+	}
+
+}
+
+.index-main p {
+	font-size: 1.15em;
+	line-height: 1.5em;
+	margin-bottom: 0.75em;
+}
+
+.index-main h2 {
+	margin: 1em 0;
+}
+
+.index-main h3 {
+	font-size: 1.5em;
+	text-transform: uppercase;
+	margin: 1em 0;
+}
+
+.index-main a {
+	
+}
+
+.index-main a:hover {
+	opacity: 0.5;
+	transition: 0.5s;
+}
+
+
 
 .whole-index {
 	background-color: #93D5D5;
@@ -209,6 +206,7 @@ li.slider {
 
 .index-content-item {
 	background: white;
+	align-self: center;
 	width: 40%;
 	height: 100%;
 	padding: 1.5em;
@@ -250,7 +248,7 @@ li.slider {
 	.index-me-text {
 		margin-top: 1em;
 		margin-left: 0;
-		margin-bottom: 3em;
+		margin-bottom: 4em;
 		text-align: center;
 	}
 
@@ -258,6 +256,7 @@ li.slider {
 		display: flex;
 		flex-direction: column;
 		justify-content: space-between;
+		margin-bottom: 4em;
 	}
 	.index-content-item {
 		width: 100%;
@@ -267,6 +266,11 @@ li.slider {
 
 
 /*Subsites*/
+section {
+	width: 65%; 
+	margin: auto;
+}
+
 section h1 {
 	font-size: 3em;
 	margin: 1em 0;
@@ -331,10 +335,36 @@ section li {
 		padding-right: 0;
 		margin-bottom: 2em;
 	}
+	section {
+		width: 85%;
+	}
 
 }
 
 /*BlogPost Ubersicht*/
+.blog-all {
+	width: 65%; 
+	margin: auto;
+	margin-top: 4em;
+}
+
+.blog-all li {
+	list-style: none;
+	margin-left: 0;
+}
+
+.blog-all a {
+	background-color: transparent;
+	padding: 0;
+}
+
+.blog-all a:hover {
+	background-color: transparent;
+	padding: 0;
+}
+
+
+
 .blog-section-title {
 	font-size: 3em;
 	margin: 1em 0;
@@ -376,6 +406,26 @@ section li {
 	font-weight: 600;
 	font-size: 1.15em;
 }
+
+@media only screen and (max-width:48em) {
+	.blog-all {
+	width: 90%; 
+	margin-top: 1em;
+}
+	.blog-ubersicht-title {
+		padding: 0.1em 0;
+		margin: 1em 0;
+		font-size: 1.5em;
+		line-height: 1.5em;
+	}
+	.blog-ubersicht-summary {
+		padding: 0.8em 0;
+		font-size: 1em;
+		line-height: 1.5em;
+	}
+
+}
+
 
 /*Blogposts*/
 .blog-post-date {
@@ -429,7 +479,7 @@ footer a:hover {
 	footer {
 		flex-direction: column;
 		text-align: center;
-		font-size: 0.9em;
+		font-size: 1em;
 	}
 
 	footer div {
@@ -438,11 +488,11 @@ footer a:hover {
 	}
 
 	footer div a {
-		margin: 0.5em;
+		margin: 0.25em;
 	}
 
 	footer p {
-		margin-top: 1em;
+		margin-top: 0.5em;
 	}
 
 }
