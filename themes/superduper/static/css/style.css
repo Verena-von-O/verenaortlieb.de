@@ -196,22 +196,16 @@ header nav a.active {
 
 
 .index-content-all {
-	display: flex;
-	flex-wrap: wrap;
-	flex-direction: row;
-	justify-content: space-around;
-	justify-content: flex-start;
+	column-count: 2;
+	column-gap: 1em;
 }
 
-
 .index-content-item {
-	background: white;
-	align-self: center;
-	width: 40%;
-	height: 100%;
+	break-inside: avoid;
+	background-color: white;
 	padding: 1.5em;
-	margin-bottom: 2em;
-	margin: 1em;
+	margin-bottom: 1em;
+	border-radius: 0.1em;
 }
 
 .index-content-item img {
@@ -251,15 +245,17 @@ header nav a.active {
 		margin-bottom: 4em;
 		text-align: center;
 	}
-
 	.index-content-all {
-		display: flex;
-		flex-direction: column;
-		justify-content: space-between;
-		margin-bottom: 4em;
+		column-count: 1;
+		column-gap: 1em;
+
 	}
+
 	.index-content-item {
-		width: 100%;
+		break-inside: avoid;
+		background-color: white;
+		padding: 1.5em;
+		margin-bottom: 1em;
 	}
 
 }
