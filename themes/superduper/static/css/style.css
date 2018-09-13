@@ -465,18 +465,19 @@ section li {
 /*Footer*/
 footer {
 	position: relative;
-	margin: 1em auto;
+	margin: 2em auto;
 	display: flex;
-	flex-direction: row;
+	flex-direction: column;
+	text-align: center;
 }
 
 footer div {
-	margin-left: 2em;
+	margin: 1em;
 }
 
 footer div a {
 	margin: 1em;
-	padding: 0.2em;
+	padding: 0.3em;
 }
 
 footer a:hover {
@@ -485,8 +486,6 @@ footer a:hover {
 
 @media only screen and (max-width:48em) {
 	footer {
-		flex-direction: column;
-		text-align: center;
 		font-size: 1em;
 	}
 
