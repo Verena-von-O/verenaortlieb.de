@@ -57,30 +57,38 @@ a {
 
 /*Header*/
 header {
+	width: 75%;
+	margin: 2em auto;
 }
 
 .header-content {
 	font-size: 1em;
 	padding: 1em;
 	display: flex;
-	flex-direction: row;
+	flex-direction: column;
 	justify-content: space-between;
-	margin: 1.25em auto;
-	font-size: 1.35em; 
-	width: 90%;
+	margin: auto;
+	font-size: 1.35em;
+	width: 75%;
 }
 
-.header-name {}
+.header-name {
+	border-bottom: 1.5px solid var(--text-color);
+	padding-bottom: 0.25em;
+	margin-bottom: 0.25em;
+	text-align: center;
+}
 
 header nav ul {
 	display: flex;
 	flex-direction: row;
 	margin: auto;
+	justify-content: center;
 }
 
 header nav a {
 	margin: 0 0.5em;
-	padding: 0.2em;
+	padding: 0em 0.25em;
 }
 
 header nav a:hover {
@@ -91,44 +99,28 @@ header nav a.active {
 	background-color: var(--color-2);
 }
 
-
-@media only screen and (max-width:48em) {
+@media only screen and (max-width:55em) {
 	header {
-		width: 75%;
-		margin: 2em auto;
+		width: 95%;
+		margin: 1em auto;
 	}
 
-	.header-content {
-		flex-direction: column;
-		margin: auto;
-		padding: 0;
-	}
-
-	.header-name {
-		border-bottom: 1.5px solid var(--text-color);
-		padding-bottom: 0.25em;
-		margin-bottom: 0.25em;
-		text-align: center;
-	}
-
-	header nav a {
-		padding: 0em 0.25em;
-	}
 }
 
-@media only screen and (max-width:32em) {
+@media only screen and (max-width:34em) {
 	header nav ul {
-	display: flex;
-	flex-direction: row;
-	flex-wrap: wrap;
-	justify-content: center;
-}
+		display: flex;
+		flex-direction: row;
+		flex-wrap: wrap;
+		justify-content: center;
+	}
+
 	header nav a {
 		font-size: 0.75em;
 		padding: 0em 0em;
 	}
-}
 
+}
 
 /*Index*/
 .index-main h1 {
@@ -160,7 +152,6 @@ header nav a.active {
 }
 
 .index-main a {
-	
 }
 
 .index-main a:hover {
@@ -168,49 +159,11 @@ header nav a.active {
 	transition: 0.5s;
 }
 
-
-.animate {
-  -webkit-animation-duration: 2s;
-  animation-duration: 2s;
-  -webkit-animation-fill-mode: both;
-  animation-fill-mode: both;
-}
-
-@-webkit-keyframes fadeIn {
-  from {
-    opacity: 0;
-  }
-
-  to {
-    opacity: 1;
-  }
-
-}
-
-@keyframes fadeIn {
-  from {
-    opacity: 0;
-  }
-
-  to {
-    opacity: 1;
-  }
-
-}
-
-.fadeIn {
-  -webkit-animation-name: fadeIn;
-  animation-name: fadeIn;
-}
-
-
-
 .index-me-all {
 	display: flex;
 	flex-direction: row;
 	width: 55%;
 	margin: auto;
-	margin-bottom: 4em;
 }
 
 .index-me-img {
@@ -223,12 +176,39 @@ header nav a.active {
 	margin-left: 2em;
 }
 
-
-/*.index-content-all {
-	column-count: 2;
-	column-gap: 1em;
+.animate {
+	-webkit-animation-duration: 2s;
+	animation-duration: 2s;
+	-webkit-animation-fill-mode: both;
+	animation-fill-mode: both;
 }
-*/
+
+@-webkit-keyframes fadeIn {
+	from {
+		opacity: 0;
+	}
+
+	to {
+		opacity: 1;
+	}
+
+}
+
+@keyframes fadeIn {
+	from {
+		opacity: 0;
+	}
+
+	to {
+		opacity: 1;
+	}
+
+}
+
+.fadeIn {
+	-webkit-animation-name: fadeIn;
+	animation-name: fadeIn;
+}
 
 .index-content-all {
 	display: flex;
@@ -236,17 +216,17 @@ header nav a.active {
 	flex-wrap: wrap;
 	justify-content: flex-start;
 	align-items: flex-start;
+	margin-top: 4em;
 }
 
 .index-content-item {
-/*	break-inside: avoid;
-*/	background-color: white;
+	background-color: white;
 	padding: 1.5em;
 	margin: 1em;
 	border-radius: 4px;
-    box-shadow: 0 4px 8px 0 #d3d3d3, 0 6px 20px 0 #d3d3d3;
-    width: 40%;
-  }
+	box-shadow: 0 4px 8px 0 #d3d3d3, 0 6px 20px 0 #d3d3d3;
+	width: 40%;
+}
 
 .index-content-item img {
 	width: 100%;
@@ -263,20 +243,19 @@ header nav a.active {
 }
 
 @media only screen and (max-width:55em) {
-.index-content-item {
-	width: 95%;
-	
-  }
+	.index-content-item {
+		width: 95%;
+	}
+
 }
 
-
-@media only screen and (max-width:48em) {
+@media only screen and (max-width:55em) {
 	.index-me-all {
-	display: flex;
-	flex-direction: column;
-	align-items: center;
-	width: 95%;
-	margin: auto;
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		width: 80%;
+		margin: auto;
 	}
 
 	.index-me-img {
@@ -292,14 +271,11 @@ header nav a.active {
 		text-align: center;
 	}
 
-
-
 }
-
 
 /*Subsites*/
 section {
-	width: 65%; 
+	width: 65%;
 	margin: auto;
 }
 
@@ -367,6 +343,7 @@ section li {
 		padding-right: 0;
 		margin-bottom: 2em;
 	}
+
 	section {
 		width: 85%;
 	}
@@ -375,7 +352,7 @@ section li {
 
 /*BlogPost Ubersicht*/
 .blog-all {
-	width: 65%; 
+	width: 65%;
 	margin: auto;
 	margin-top: 4em;
 }
@@ -394,8 +371,6 @@ section li {
 	background-color: transparent;
 	padding: 0;
 }
-
-
 
 .blog-section-title {
 	font-size: 3em;
@@ -441,15 +416,17 @@ section li {
 
 @media only screen and (max-width:48em) {
 	.blog-all {
-	width: 90%; 
-	margin-top: 1em;
-}
+		width: 90%;
+		margin-top: 1em;
+	}
+
 	.blog-ubersicht-title {
 		padding: 0.1em 0;
 		margin: 1em 0;
 		font-size: 1.5em;
 		line-height: 1.5em;
 	}
+
 	.blog-ubersicht-summary {
 		padding: 0.8em 0;
 		font-size: 1em;
@@ -457,7 +434,6 @@ section li {
 	}
 
 }
-
 
 /*Blogposts*/
 .blog-post-date {
