@@ -161,6 +161,8 @@ header nav a.active {
 	width: 75px;
 	height: 100%;
 	border-radius: 50%;
+	box-shadow: 0 4px 8px 0 #d3d3d3, 0 6px 20px 0 #d3d3d3;
+
 }
 
 .index-me-text {
@@ -300,6 +302,10 @@ section h1 {
 	margin-left: 0.5em;
 	transform: rotate(-2deg);
 	opacity: 0.8;
+}
+
+.img-design-page {
+	box-shadow: 0 4px 8px 0 #d3d3d3, 0 6px 20px 0 #d3d3d3;
 }
 
 
