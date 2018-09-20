@@ -294,6 +294,14 @@ section h1 {
 	margin: 1em 0;
 }
 
+.signature {
+	font-family: 'Waiting for the Sunrise', cursive;
+	font-size: 3em;
+	margin-left: 0.5em;
+	transform: rotate(-2deg);
+	opacity: 0.8;
+}
+
 
 @media only screen and (max-width:32em) {
 	section h1 {
