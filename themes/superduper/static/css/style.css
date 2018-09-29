@@ -3,13 +3,8 @@ html {
 	--text-color: #333;
 	--text-font: 'Open Sans', sans-serif;
 	--title-font: serif;
-	--color-1:#93D5D5;
-	--color-2:#d593d5;
-	--color-3:#93b4d5;
-	--color-4:#d5d593;
-	--color-5:#d59393;
-	--color-6:#9393d5;
-	--color-7:#93d593;
+	--color-1:#FFE5E4;
+	--color-2:#E4FEFF;
 }
 
 body {
@@ -88,15 +83,17 @@ header nav ul {
 
 header nav a {
 	margin: 0 0.5em;
-	padding: 0 0.25em;
+	padding: 0.2em 0.25em;
+	border-bottom: 1.5px solid white;
+
 }
 
 header nav a:hover {
-	background-color: var(--color-2);
+	border-bottom: 1.5px solid var(--text-color);
 }
 
 header nav a.active {
-	background-color: var(--color-2);
+	border-bottom: 1.5px solid var(--text-color);
 }
 
 @media only screen and (max-width:55em) {
@@ -329,7 +326,7 @@ section img {
 }
 
 .single-blog-post a:hover {
-	background-color: var(--color-3);
+	background-color: var(--color-2);
 }
 
 .blog-ubersicht-date {
