@@ -3,11 +3,8 @@
         <div class="header-name">
             <a href="/">Verena Ortlieb </a>
         </div>
-        <div class="index-seperator">
-            |
-        </div>
         <nav>
-            <ul class="menu">
+            <ul>
                 {{ $currentNode := . }}
                 {{ range .Site.Menus.main }}
                 <li> <a {{if or ($currentNode.IsMenuCurrent "main" .) ($currentNode.HasMenuCurrent "main" .) }} class="active"{{end}} href="{{ .URL }}">{{ .Name }}</a></li>
