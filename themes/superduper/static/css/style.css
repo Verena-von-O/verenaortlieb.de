@@ -363,7 +363,6 @@ section img {
 	}
 
 	.blog-section-title {
-		font-size: 2em;
 		margin: 1em 0;
 	}
 
@@ -389,6 +388,13 @@ section img {
 		font-size: 1em;
 	}
 
+}
+
+@media only screen and (max-width:32em) {
+	.blog-section-title {
+			font-size: 2em;
+			margin: 1em 0;
+		}
 }
 
 /*Blogposts*/
