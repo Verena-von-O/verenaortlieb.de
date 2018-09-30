@@ -85,7 +85,6 @@ header nav a {
 	margin: 0 0.5em;
 	padding: 0.2em 0.25em;
 	border-bottom: 1.5px solid white;
-
 }
 
 header nav a:hover {
@@ -119,7 +118,6 @@ header nav a.active {
 }
 
 /*Index*/
-
 .whole-index {
 }
 
@@ -163,7 +161,6 @@ header nav a.active {
 	height: 100%;
 	border-radius: 50%;
 	box-shadow: 0 4px 8px 0 #d3d3d3, 0 6px 20px 0 #d3d3d3;
-
 }
 
 .index-me-text {
@@ -224,7 +221,6 @@ section h1 {
 }
 
 .design-images-cluster {
-
 }
 
 @media only screen and (max-width:32em) {
@@ -266,7 +262,6 @@ section a {
 	background-color: var(--color-2);
 	padding: 0.1em 0.3em;
 }
-
 
 section a:hover {
 	background-color: var(--color-1);
@@ -465,9 +460,7 @@ footer a:hover {
 
 }
 
-
 /*Image Gallery*/
-
 .design-container {
 	width: 100%;
 	position: relative;
@@ -512,7 +505,6 @@ footer a:hover {
 	width: calc(((80vw - 20px)/3)*2);
 	height: calc((80vw - 60px)/3);
 }
-
 
 .panel-wrapper {
 	position: relative;
@@ -576,12 +568,14 @@ footer a:hover {
 		width: 100%;
 		margin: auto;
 	}
+
 	.panel {
 		width: calc((80vw - 60px));
 		height: calc((80vw - 60px));
 		margin-left: 0;
 	}
-		.panel:nth-child(11n+3) {
+
+	.panel:nth-child(11n+3) {
 		width: calc((80vw - 60px));
 		height: calc((80vw - 60px));
 		margin-left: 0;
@@ -598,8 +592,15 @@ footer a:hover {
 		height: calc((80vw - 60px));
 		margin-left: 0;
 	}
+
 }
 
+@media only screen and (max-width:26em) {
+	.panel-overlay {
+		opacity: 1;
+	}
+
+}
 
 .index-container {
 	width: 75%;
@@ -609,6 +610,7 @@ footer a:hover {
 }
 
 .index-panel {
+	text-align: left;
 	position: relative;
 	display: inline-block;
 	width: calc((80vw - 60px)/2.8);
@@ -646,7 +648,6 @@ footer a:hover {
 	width: calc(((80vw - 20px)/2.8)*2);
 	height: calc((80vw - 60px)/2.8);
 }
-
 
 .index-panel-wrapper {
 	position: relative;
@@ -686,7 +687,6 @@ footer a:hover {
 	font-weight: 300;
 	color: var(---text-color);
 	font: var(--title-font);
-
 }
 
 .index-tags-list {
@@ -711,11 +711,13 @@ footer a:hover {
 		width: 100%;
 		margin: auto;
 	}
+
 	.index-panel {
 		width: calc((80vw - 60px));
 		height: calc((80vw - 60px));
 		margin-left: 0;
 	}
+
 	.index-panel:nth-child(11n+3) {
 		width: calc((80vw - 60px));
 		height: calc((80vw - 60px));
@@ -733,4 +735,12 @@ footer a:hover {
 		height: calc((80vw - 60px));
 		margin-left: 0;
 	}
+
+}
+
+@media only screen and (max-width:26em) {
+	.index-panel-overlay {
+		opacity: 1;
+	}
+
 }
