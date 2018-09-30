@@ -246,11 +246,18 @@ section img {
 }
 
 section h2 {
+	font-size: 2em;
 	margin: 1em 0;
 }
 
 section h3 {
 	font-size: 1.5em;
+	text-transform: uppercase;
+	margin: 1em 0;
+}
+
+section h4 {
+	font-size: 1.3em;
 	text-transform: uppercase;
 	margin: 1em 0;
 }
