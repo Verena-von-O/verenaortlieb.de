@@ -338,12 +338,13 @@ section img {
 
 .blog-ubersicht-date {
 	opacity: 0.6;
+	margin-bottom: 1.5em;
+	margin-top: 0.5em;
 }
 
 .blog-ubersicht-title {
 	padding: 0;
 	font-size: 2em;
-	line-height: 1em;
 }
 
 .blog-ubersicht-lesezeit {
