@@ -1,7 +1,6 @@
 baseURL = "https://www.verenaortlieb.de/"
 languageCode = "de-de"
 title = "Verena Ortlieb"
-theme = "superduper"
 
 [author]
     name = "Verena Ortlieb"
