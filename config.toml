@@ -8,8 +8,8 @@ title = "Verena Ortlieb"
 [blackfriday]
    hrefTargetBlank = true
 
-[[menu.main]]
-    name = "Blog"
-    identifier = "blog"
-    url = "/blog/"
-    weight = 150
+# [[menu.main]]
+#     name = "Blog"
+#     identifier = "blog"
+#     url = "/blog/"
+#     weight = 150
